@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Law & Business School",
+    "type": "PRIVATE",
+    "description": "Law & Business school ( LBS) est la meilleure université privée de Business, de Droit et de Gestion en Tunisie. LBS est l'école de référence de droit à Tunis",
+    "logo_url": "https://www.lbs.tn/wp-content/uploads/2019/07/logo-law-and-business-school-lles-berges-du-lac-tunisie2.png",
+    "cover_image_url": null,
+    "website": "http://www.lbs.tn/",
+    "email": "contact@lbs.tn",
+    "phone": "(+216) 70 026 426",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Communication et Leadership du chef de projets",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Intelligence géopolitique et stratégie d’entreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Management de Projets",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Tableau de Bord Prospectif (Balanced ScoreCard)",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Finance Islamique",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Commerce International",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Marketing Digital",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Management de l’Innovation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Droit de la Propriété Intellectuelle",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Droits d’Auteur et Droits Voisins",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Espaces de restauration",
+        "description": null,
+        "logo_url": "https://www.lbs.tn/wp-content/uploads/2019/07/logo-law-and-business-school-lles-berges-du-lac-tunisie.png",
+        "contact_info": null
+      },
+      {
+        "name": "Hébergement",
+        "description": null,
+        "logo_url": "https://www.lbs.tn/wp-content/uploads/2019/07/logo-law-and-business-school-lles-berges-du-lac-tunisie.png",
+        "contact_info": null
+      },
+      {
+        "name": "Espace Médiathèque et Café-littéraire",
+        "description": null,
+        "logo_url": "https://www.lbs.tn/wp-content/uploads/2019/07/logo-law-and-business-school-lles-berges-du-lac-tunisie.png",
+        "contact_info": null
+      },
+      {
+        "name": "Espace Bibliothèque",
+        "description": null,
+        "logo_url": "https://www.lbs.tn/wp-content/uploads/2019/07/logo-law-and-business-school-lles-berges-du-lac-tunisie.png",
+        "contact_info": null
+      },
+      {
+        "name": "Espace Forme",
+        "description": null,
+        "logo_url": "https://www.lbs.tn/wp-content/uploads/2019/07/DSC_0535-min-800x531.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Facilités pour handicapés",
+        "description": null,
+        "logo_url": "https://www.lbs.tn/wp-content/uploads/2019/07/DSC_0535-min-800x531.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Magasins",
+        "description": null,
+        "logo_url": "https://www.lbs.tn/wp-content/uploads/2019/07/DSC_0535-min-800x531.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Transport et parking",
+        "description": null,
+        "logo_url": "https://www.lbs.tn/wp-content/uploads/2019/07/DSC_0535-min-800x531.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "ESC Clermont Business School (France)",
+      "Frankfurt School of Finance and Management (Allemagne)",
+      "Institut Supérieur du Droit ISD Paris",
+      "LAW AND BUSINESS SCHOOL",
+      "L’Ecole",
+      "Montpellier Business School (France)",
+      "SPRING SCHOOL GRATUITE : Business Models",
+      "SPRING SCHOOL GRATUITE : LinkedIn-optimiser sa présence professionnelle",
+      "Summer school",
+      "l’ESDES Business School (France)",
+      "page facebook"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.lbs.tn/",
+    "source_name": "ecole_superieure_privee_law_and_business_school_tunis"
+  }
+]

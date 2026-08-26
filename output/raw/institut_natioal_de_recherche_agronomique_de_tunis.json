@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Institut Natioal de Recherche Agronomique de Tunis",
+    "type": "PUBLIC",
+    "description": "INRAT\r\nInstitut National de la Recherche Agronomique de Tunisie",
+    "logo_url": "http://www.inrat.agrinet.tn/images/2017/12/20/bottom-logo.png",
+    "cover_image_url": null,
+    "website": "http://www.inrat.agrinet.tn/",
+    "email": "bo.inrat@iresa.agrinet.tn",
+    "phone": "+216 71 23 00 24",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Actualité de l'INRAT",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidatures: VRR/INRAT : Post Doc en Physiologie Végétale ou Ecophysiologie Végétale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Les infos de l'INRAT",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.inrat.agrinet.tn/",
+    "source_name": "institut_natioal_de_recherche_agronomique_de_tunis"
+  }
+]

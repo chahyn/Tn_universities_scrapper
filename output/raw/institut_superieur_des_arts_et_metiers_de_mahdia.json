@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Mahdia",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Arts et métiers de mahdia",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isammh.rnu.tn/",
+    "email": "isammh@isammh.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "...",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isammh.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_et_metiers_de_mahdia"
+  }
+]

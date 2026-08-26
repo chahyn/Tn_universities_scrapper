@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mon Offre Orange",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isepbgsoukra.agrinet.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isepbgsoukra.agrinet.tn/",
+    "source_name": "institut_superieur_des_etudes_preparatoires_en_biologie_et_geologie_a_soukra_universite_de_carthage"
+  }
+]

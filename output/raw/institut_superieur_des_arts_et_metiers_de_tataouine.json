@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Tataouine",
+    "type": "PUBLIC",
+    "description": "Cet espace a pour but de donner à l'enseignant un aperçu général sur le corps enseignants, leurs publications, etc...",
+    "logo_url": "http://www.isamt.rnu.tn/images/fr/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.isamt.rnu.tn/",
+    "email": "isamt_tata@yahoo.fr",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isamt.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_et_metiers_de_tataouine"
+  }
+]

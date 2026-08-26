@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Institut Supérieur des Beaux Arts de Nabeul",
+    "type": "PUBLIC",
+    "description": "L'Institut Supérieur des Beaux Arts de Nabeul (ISBAN) est un établissement scientifique relevant de l´Université de Carthage. Il a été créé en1988  en vertus deLoi n°83-1987 du 31/12/1987 chapitre 94. En2001  et en vertu del’arrêté N°396-2001 du 06/02/2001 l’école est devenu l’Institut Supérieur des Beaux Arts de Nabeul (ISBAN) disposant d’une autonomie financiere.",
+    "logo_url": "http://www.isban.rnu.tn/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.isban.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Concours d'inscription aux Mastères",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription étudiants",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription étudiants2",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultat session de contrôle",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Concours d'inscription au Mastère de Recherche Théorie de la Création",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Documents nécessaires pour l'inscription au Mastère de Recherche Théorie de la Création",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Concours d'inscription au Mastère Professionnel Création Artisanale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Documents nécessaires pour l’inscription au Mastère Professionnel Création Artisanale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Concours d'inscription au Mastère Professionnel Sculpture- Céramique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Documents nécessaires pour l'inscription au Mastère Professionnel Sculpture- Céramique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isban.rnu.tn/",
+    "source_name": "institut_superieur_des_beaux_arts_de_nabeul"
+  }
+]

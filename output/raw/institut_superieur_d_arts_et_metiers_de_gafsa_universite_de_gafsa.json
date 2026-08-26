@@ -1,0 +1,97 @@
+[
+  {
+    "name": "ISAMGF",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'arts et métiers de Gafsa",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isamgf.rnu.tn/",
+    "email": "isam.gafsa@isamgf.ugaf.tn",
+    "phone": null,
+    "location": {
+      "address": "Route de Tozeur, Sidi Ahmed Zarroug - 2112 Gafsa T.: 76 21 11 07 F.: 76 21 11 08 Email: isam.gafsa@isamgf.ugaf.tn Obtenir la localisation Envoyer un E",
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Nouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Manifestations et Edition",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Coopération",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Manifestations et Edition",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Coopération",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isamgf.rnu.tn/",
+    "source_name": "institut_superieur_d_arts_et_metiers_de_gafsa_universite_de_gafsa"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur de Gestion de Gabès",
+    "type": "PUBLIC",
+    "description": "L'Institut Supérieur de Gestion de Gabès (ISGG) créé le 01/07/1998 par le décret N°468 du 23/02/1998 (J.O.R.T) du 03/03/1998 .",
+    "logo_url": "https://isggb.rnu.tn/frontoffice/assets/images/logoIsggb.png",
+    "cover_image_url": null,
+    "website": "http://www.isggb.rnu.tn/",
+    "email": "isggb@univgb.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isggb.rnu.tn/",
+    "source_name": "institut_superieur_de_gestion_de_gabes"
+  }
+]

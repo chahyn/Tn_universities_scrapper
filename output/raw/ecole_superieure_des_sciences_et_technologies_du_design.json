@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Ecole Supérieure des Sciences et Technologies du Design",
+    "type": "PUBLIC",
+    "description": "Ecole Supérieure Des Sciences et Technologies du Design",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.essted.rnu.tn/",
+    "email": null,
+    "phone": "(216)  71 610 700",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Conférence autour du Cinéma d'Avant Garde Américain",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "COMMISSION DOCTORALE",
+      "Ecole Doctorale"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.essted.rnu.tn/",
+    "source_name": "ecole_superieure_des_sciences_et_technologies_du_design"
+  }
+]

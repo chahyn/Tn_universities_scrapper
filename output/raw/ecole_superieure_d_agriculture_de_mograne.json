@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Ecole Supérieure d'Agriculture de Mograne",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.esamograne.agrinet.tn/images/2024/10/10/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.esamograne.agrinet.tn/",
+    "email": "esamog@iresa.agrinet.tn",
+    "phone": "(+216) 70 011 820",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs Sportifs à l'ESA MOGHRANE",
+        "description": null,
+        "logo_url": "https://esamograne.agrinet.tn/images/2024/11/13/img-20241111-wa0025.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Club Sportif à l'ESA MOGHRANE",
+        "description": null,
+        "logo_url": "https://esamograne.agrinet.tn/images/2024/11/15/1-9.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "\"À la Une : Nos Dernières Actualités et Événements !",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature Mastère M2-GRNDT -2025-2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "10ème Colloque International-GIRNAD 2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "la 2ème Rencontre Débat qui aura lieu le 08-04-2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "APPEL A CANDIDATURE POUR UNE BOURSES DE MOBILITÉ ERASMUS+",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Conférence internationale : Collecting and studying crop landraces",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Deuxième annonce Préinscription Mastère M2 GRNDT au 25/11/2024",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "JOURNEE INTERNATIONALE DES ETUDIANT-E-S",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats Candidats Mastère GRNDT 2024-2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour un ingénieur agronome",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste complémentaire 1 Mastère pro",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Une journée technique à l'ESA Moghrane : le 07/11/2024 à partir de 08:30h",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Une deuxième annonce du concours sur dossiers pour la sélection des candidats au mastère Professionnel-2024-2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Accès Emploi du temps",
+      "Accès Extranet",
+      "Présentation de l'école",
+      "Réclamation",
+      "بلاغ التسجيل",
+      "بلاغ المناظرة بالملفات الخاصة بحاملي شهادة الدراسات التكنولوجية ( دورة 2026)",
+      "حول دراسة مطالب الادماج واعادة الادماج بالنسبة للسنة الجامعية 2026-2027",
+      "منصة التسجيل"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.esamograne.agrinet.tn/",
+    "source_name": "ecole_superieure_d_agriculture_de_mograne"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Isetsf",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Technologiques de Sfax",
+    "logo_url": "http://www.isetsf.rnu.tn/images/logo_iset_sfax_white.svg",
+    "cover_image_url": null,
+    "website": "http://www.isetsf.rnu.tn/",
+    "email": "iset.sfax@sfax.r-iset.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Microsoft Tech Club ISET Sfax",
+        "description": null,
+        "logo_url": "https://isetsf.rnu.tn/storage/uploads/articles/ID8iF522qbelgZKf1Js22zzz3aEFKoqLVMjZgGaa.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Club DotNet",
+        "description": null,
+        "logo_url": "https://isetsf.rnu.tn/storage/uploads/articles/x5LeWS2SfLRlzAJCYuO2Oed3XTzuWw8BNdSwGKC1.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Club robotique-iset-sfax",
+        "description": null,
+        "logo_url": "https://isetsf.rnu.tn/storage/uploads/articles/vHfc9Y9Lo0pGy7sQAnZwac1zewgTFskLPFietGCD.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Le club de français",
+        "description": null,
+        "logo_url": "https://isetsf.rnu.tn/storage/uploads/articles/SDoCHkqZWVEdLpuJMF9ESB9ORFht9ysi4o2Tps7T.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Club Futur Licencier",
+        "description": null,
+        "logo_url": "https://isetsf.rnu.tn/storage/uploads/articles/pUxi5pqo4aSQHPgr1OxCRC3OGMRLYsBK5g67QYng.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Club de technologie à l’I.S.E.T de Sfax (CTIS)",
+        "description": null,
+        "logo_url": "https://isetsf.rnu.tn/storage/uploads/articles/6uYaEofk6dwhBuvxrvCvj9qX7HSn3C0MQ2objCs8.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "بلاغ عودة للدراسة لطلبة المعاهد العليا للدراسات التكنولوجية دورة 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats de la présélection aux Mastères Professionnels – Année universitaire 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "حركة نقل الطلبة بالملفات الخاص بالمعاهد العليا للدراسات التكنولوجية دورة 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بالغ الترسيم بالنسبة للسنة الجامعية 2027-2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ مناظرة إعادة التوجيه دورة 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "منشور روزنامة السنة الجامعية 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Apppel à Candidature aux Mastères",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "احالة  نسخة من م. م.تمويل التنمية  للمغرب العربي حول مناظرة انتداب الدفعة 41 موجه الى ا.ع.د التكنولوجية",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Accès à l’Information",
+      "Association Sportive Universitaire Iset de Sfax « ASUIS »",
+      "Association Tunisienne de Soudage « ATS »",
+      "Association de Recherche et Développement et  d'Innovation « ARDI »",
+      "Association de l'Innovation et la Technologie « AIT »",
+      "Certificats numériques ISO 21001:2018",
+      "Certificats numériques ISO 9001:2015",
+      "Conseil Scientifique et Technologique",
+      "Galerie Photos",
+      "Galerie des photos",
+      "Génie Civil",
+      "Génie Mécanique",
+      "Génie des Procédés",
+      "Manifestations",
+      "Message du Directeur"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetsf.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_sfax"
+  }
+]

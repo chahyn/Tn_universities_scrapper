@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Gabès",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isamgb.rnu.tn/",
+    "email": "info@isamgb.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Activités culturelles",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isamgb.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_et_metiers_de_gabes"
+  }
+]

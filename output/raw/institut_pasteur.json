@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Institut Pasteur",
+    "type": "PUBLIC",
+    "description": "L’Institut Pasteur de Tunis met à votre disposition un guide détaillé de toutes les analyses biomédicales réalisées dans ses différents services.",
+    "logo_url": "http://www.pasteur.tn/images/joomlart/logo/logo-footer.png",
+    "cover_image_url": null,
+    "website": "http://www.pasteur.tn/",
+    "email": "no-reply@gmail.com",
+    "phone": null,
+    "location": {
+      "address": "13, place Pasteur, B.P. 74 1002 Tunis, Belvédère Tunisie",
+      "city": "Belvédère Tunisie"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Associations",
+        "description": null,
+        "logo_url": "http://www.pasteur.tn/images/headers/logo.png",
+        "contact_info": null
+      },
+      {
+        "name": "Association des jeunes chercheurs",
+        "description": null,
+        "logo_url": "http://www.pasteur.tn/images/headers/logo.png",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Analyses",
+      "Analyses Biomédicales",
+      "Gouvernance",
+      "La bibliothèque",
+      "La politique qualité",
+      "L’Institut Pasteur de Tunis célèbre 130 ans de progrès avec une édition spéciale de sa revue \"Archives de l'Institut Pasteur de Tunis\"",
+      "Signalement/Dénonciation",
+      "Twitter",
+      "Votre guide complet des analyses biomédicales à portée de clic !",
+      "facebook",
+      "linkedin"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.pasteur.tn/",
+    "source_name": "institut_pasteur"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ISCI",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de Civilisation Islamique de Tunis",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isci.rnu.tn/",
+    "email": "isci@isci.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Chiffres",
+      "Conseil scientifique",
+      "Enseignants",
+      "Galerie de photos",
+      "Galerie vidéo",
+      "Mot de directeur",
+      "Organigramme",
+      "Présentation"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isci.rnu.tn/",
+    "source_name": "institut_superieur_de_civilisation_islamique_de_tunis_universite_ez_zitouna"
+  }
+]

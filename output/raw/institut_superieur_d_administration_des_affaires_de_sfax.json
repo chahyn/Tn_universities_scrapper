@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Institut Supérieur d'Administration des Affaires de Sfax",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'Administration des Affaires de sfax",
+    "logo_url": "http://www.isaas.rnu.tn/storage/sponsors/logos/rTK3RhuHfW27bVEAVMVmFLr0zybTPj26ZEYFwyIA.jpg",
+    "cover_image_url": null,
+    "website": "http://www.isaas.rnu.tn/",
+    "email": "contact.isaas@isaas.usf.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "https://isaas.rnu.tn/images/placeholders/banner-club.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Comité",
+      "Conseil Scientifique",
+      "Direction des stages",
+      "Direction des études",
+      "Direction générale",
+      "En Chiffres",
+      "Enseignants",
+      "Formulaires administratifs",
+      "Manifestations",
+      "Nos partenaires de la société civile",
+      "Partenariats académiques",
+      "Partenariats professionnels",
+      "Qui sommes-nous ?",
+      "Secrétaire général",
+      "Visite Virtuelle"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isaas.rnu.tn/",
+    "source_name": "institut_superieur_d_administration_des_affaires_de_sfax"
+  }
+]

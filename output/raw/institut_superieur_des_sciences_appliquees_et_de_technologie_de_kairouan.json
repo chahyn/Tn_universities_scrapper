@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ISSATKR",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Sciences Appliquées et de Technologie de Kairouan",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.issatkr.rnu.tn/",
+    "email": "issatkr@issatkr.rnu.tn",
+    "phone": "+216 77 27 37 96",
+    "location": {
+      "address": "Route périphérique Dar El Amen 3100, Kairouan",
+      "city": "Kairouan"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.issatkr.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_appliquees_et_de_technologie_de_kairouan"
+  }
+]

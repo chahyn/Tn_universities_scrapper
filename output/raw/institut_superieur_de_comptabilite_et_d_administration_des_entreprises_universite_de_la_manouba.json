@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur de Comptabilité et d'Administration des Entreprises - Université de la Manouba",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.iscae.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.iscae.rnu.tn/",
+    "source_name": "institut_superieur_de_comptabilite_et_d_administration_des_entreprises_universite_de_la_manouba"
+  }
+]

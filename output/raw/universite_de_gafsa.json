@@ -1,0 +1,107 @@
+[
+  {
+    "name": "UGAF",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.ugaf.rnu.tn/",
+    "email": "ugaf@ugaf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Université de Gafsa, Route de Tozeur - 2112 Gafsa T.: 76 210 444 - 76 210 451 F.: 76 210 423 Email: ugaf@ugaf.rnu.tn Obtenir la localisation Envoyer u",
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Université",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Etablissements",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Recherche et coopération",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Observatoire et employabilité",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Université",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Etablissements",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Recherche et coopération",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Observatoire et employabilité",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Ecole Nationale d'Ingénieurs de Gafsa",
+      "Institut Supérieur d'Administration des Entreprises de Gafsa",
+      "Institut Supérieur de Sport et de l'Education Physique de Gafsa",
+      "Institut Supérieur des Arts et Métiers de Gafsa",
+      "Institut Supérieur des Etudes Appliquées en Humanité de Gafsa",
+      "Institut Supérieur des Etudes Appliquées en Humanité de Tozeur",
+      "Institut Supérieur des Sciences Appliquées et de Technologie de Gafsa",
+      "Institut Supérieur des Sciences et Technologie de l'Energie de Gafsa",
+      "Institut préparatoire aux études d'ingénieurs de Gafsa"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ugaf.rnu.tn/",
+    "source_name": "universite_de_gafsa"
+  }
+]

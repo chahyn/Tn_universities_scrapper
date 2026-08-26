@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa",
+    "type": "PUBLIC",
+    "description": "Site officiel de l'IPEST, Institut Préparatoire aux Études Scientifiques et Techniques de l'Université de Carthage. Formations d'excellence, cycle préparatoire d'ingénieurs et cycle agrégatif.",
+    "logo_url": "http://www.ipest.rnu.tn/LOGO_IPEST.jpg",
+    "cover_image_url": null,
+    "website": "http://www.ipest.rnu.tn/",
+    "email": "ipest.scolarite@ipest.ucar.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ipest.rnu.tn/",
+    "source_name": "institut_preparatoire_aux_etudes_scientifiques_et_techniques_de_la_marsa"
+  }
+]

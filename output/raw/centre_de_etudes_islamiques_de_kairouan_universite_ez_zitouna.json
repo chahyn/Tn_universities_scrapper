@@ -1,0 +1,23 @@
+[
+  {
+    "name": "CEIK",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.ceik.rnu.tn/",
+    "email": "kairouan@ceik.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ceik.rnu.tn/",
+    "source_name": "centre_de_etudes_islamiques_de_kairouan_universite_ez_zitouna"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "FSG",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.fsg.rnu.tn/storage/sponsors/logos/wpg8BG12hs5pQUO7kGWx7McdvFjtlFr9KGguuWWV.jpg",
+    "cover_image_url": null,
+    "website": "http://www.fsg.rnu.tn/",
+    "email": "mail@fsg.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "A propos de la FSG",
+      "Conseil scientifique",
+      "Ecole Doctorale Sciences Exactes & Naturelles",
+      "Observatoire",
+      "Services administratifs",
+      "Statistiques",
+      "Vision et Mission"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsg.rnu.tn/",
+    "source_name": "faculte_des_sciences_de_gabes_universite_de_gabes"
+  }
+]

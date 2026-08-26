@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mon Offre Orange",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.esiat.agrinet.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.esiat.agrinet.tn/",
+    "source_name": "ecole_superieure_des_industries_alimentaires_de_tunis_universite_de_carthage"
+  }
+]

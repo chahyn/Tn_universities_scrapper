@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",
+    "type": "PUBLIC",
+    "description": "La Faculté des Sciences juridiques, politiques et sociales de Tunis a été créée par le décret-loi n° 87-4 du 24 septembre 1987 ratifié par la loi n° 61-87 du 13 novembre 1987. L'objectif de sa création est l'instauration d'un pôle d'excellence, exclusivement consacré à la production scientifique et à l’encadrement pédagogique.",
+    "logo_url": "https://fsjpst.rnu.tn/wp-content/uploads/2020/07/logo-USJ.jpg",
+    "cover_image_url": null,
+    "website": "http://www.fsjpst.rnu.tn/",
+    "email": "contact.fsjpst.admi@gmail.com",
+    "phone": null,
+    "location": {
+      "address": "postale : B.P. 40, 1080 Tunis cedex, Tunisie",
+      "city": "Tunisie"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Associations",
+        "description": null,
+        "logo_url": "https://fsjpst.rnu.tn/wp-content/plugins/nd-shortcodes/addons/customizer/header/header-4/img/icon-menu.svg",
+        "contact_info": null
+      },
+      {
+        "name": "Association ATDC",
+        "description": null,
+        "logo_url": "https://fsjpst.rnu.tn/wp-content/uploads/2021/03/atdc.png",
+        "contact_info": null
+      },
+      {
+        "name": "Association ARTD",
+        "description": null,
+        "logo_url": "https://fsjpst.rnu.tn/wp-content/uploads/2021/03/artd.png",
+        "contact_info": null
+      },
+      {
+        "name": "Associations et Clubs",
+        "description": null,
+        "logo_url": "https://fsjpst.rnu.tn/wp-content/uploads/2021/03/artd.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Avis d’entretien relatif au mastère droit des affaires et de la propriété intellectuelle",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis d’entretien relatif au mastère droit bancaire et financier",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature au Mastère professionnel en Droit de la  mer et des activités maritimes",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "MASTER DE RECHERCHE “ONE HEALTH” 2026-2028",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "DEMOSإعلام  خاص بتقديم الترشحات للترسيم بشهادة الماجستير مهني في: « الحوكمة الديمقراطية وحقوق الإنسان",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Communiqué aux étudiants candidats au Master DEMOS",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاع تسجيل طلبة الإجازة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste des candidats externes en mastère de droit privé",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis aux candidats extrenes de mastere de recherche en droit des affaires",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste des candidats internes et externes Mastère Droit public interne",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Navigation des articles",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Avis d’entretien relatif au mastère droit bancaire et financier",
+      "EN SAVOIR PLUS",
+      "Le doctorat",
+      "École doctorale"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsjpst.rnu.tn/",
+    "source_name": "faculte_des_sciences_juridiques_politiques_et_sociales_de_tunis"
+  }
+]

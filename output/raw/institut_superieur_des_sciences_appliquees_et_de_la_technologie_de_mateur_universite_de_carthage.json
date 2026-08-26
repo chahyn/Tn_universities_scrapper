@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mon Offre Orange",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.issatm.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.issatm.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_appliquees_et_de_la_technologie_de_mateur_universite_de_carthage"
+  }
+]

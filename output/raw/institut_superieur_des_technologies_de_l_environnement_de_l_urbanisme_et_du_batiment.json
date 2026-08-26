@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Institut Supérieur des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Technologies de l’Environnement de l’Urbanisme et du Bâtiment",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isteub.rnu.tn/",
+    "email": "isteub@isteub.ucar.tn",
+    "phone": "71 940 812",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Association des Anciens Diplômés de l’Isteub",
+      "Téléchargé le logo de l’institut"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isteub.rnu.tn/",
+    "source_name": "institut_superieur_des_technologies_de_l_environnement_de_l_urbanisme_et_du_batiment"
+  }
+]

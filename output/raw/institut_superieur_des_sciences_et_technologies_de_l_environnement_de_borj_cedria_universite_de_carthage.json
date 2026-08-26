@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mon Offre Orange",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isste.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isste.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_et_technologies_de_l_environnement_de_borj_cedria_universite_de_carthage"
+  }
+]

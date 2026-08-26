@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Faculté des sciences de tunis",
+    "type": "PUBLIC",
+    "description": "Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+    "logo_url": "https://fst.rnu.tn/img/utm-header.png",
+    "cover_image_url": null,
+    "website": "http://www.fst.rnu.tn/",
+    "email": "admin@fst.utm.tn",
+    "phone": "+216 71 872 600",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "https://fst.rnu.tn/images/logo.gif",
+        "contact_info": null
+      },
+      {
+        "name": "Espace Clubs FST – Documents et formulaires",
+        "description": null,
+        "logo_url": "https://fst.rnu.tn/images/logo.gif",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Détails",
+      "L'Ecole Doctorale MISTM",
+      "L'Ecole Doctorale STVST"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fst.rnu.tn/",
+    "source_name": "faculte_des_sciences_de_tunis"
+  }
+]

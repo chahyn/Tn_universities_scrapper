@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Institut Supérieur De Musique De Sfax",
+    "type": "PUBLIC",
+    "description": "Découvrez les actualités récentesnos événements, ainsi que les calendriers des examens.",
+    "logo_url": "https://ismsf.rnu.tn/frontoffice/assets/images/ismsf.png",
+    "cover_image_url": null,
+    "website": "http://www.ismsf.rnu.tn/",
+    "email": "contact@ismsf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Bibliothèque en ligne",
+      "Consultation et appels d'offres",
+      "Enseignants",
+      "Espace Enseignant",
+      "Espace Etudiant",
+      "Espace Personnel",
+      "Fiche de renseignement",
+      "Galerie de Photos",
+      "Inscription à distance",
+      "Institut",
+      "Mission",
+      "Mémoires & Stages",
+      "Organigramme",
+      "POLITIQUE SMOE",
+      "Partenariats"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ismsf.rnu.tn/",
+    "source_name": "institut_superieur_de_musique_de_sfax_universite_de_sfax"
+  }
+]

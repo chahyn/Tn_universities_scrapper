@@ -1,0 +1,85 @@
+[
+  {
+    "name": "isetch",
+    "type": "PUBLIC",
+    "description": "Dans le cadre des travaux de la commission de réflexion stratégique sur la formation d'ingénieur, des enquêtes sont lancées auprès des étudiants des instituts supérieurs d'études technologiques. La contribution des étudiants est d'une très grande importance.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetch.rnu.tn/",
+    "email": "service2stages@gmail.com",
+    "phone": "(+216) 71 940 322",
+    "location": {
+      "address": "47, Rue des Entrepreneurs Charguia II - 2035 Tunisie",
+      "city": "Tunisie"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Nouveautés",
+        "description": null,
+        "logo_url": "http://www.isetch.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Institut",
+        "description": null,
+        "logo_url": "http://www.isetch.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "http://www.isetch.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Vie Estudiantine",
+        "description": null,
+        "logo_url": "http://www.isetch.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Espace entreprise",
+        "description": null,
+        "logo_url": "http://www.isetch.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie Estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Espace entreprise",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isetch.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_charguia"
+  }
+]

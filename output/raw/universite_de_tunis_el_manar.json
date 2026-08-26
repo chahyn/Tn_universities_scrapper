@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Universite de Tunis El Manar",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.utm.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.utm.rnu.tn/",
+    "source_name": "universite_de_tunis_el_manar"
+  }
+]

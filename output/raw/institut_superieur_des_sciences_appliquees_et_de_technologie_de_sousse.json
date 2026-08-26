@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Sousse",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.issatso.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.issatso.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_appliquees_et_de_technologie_de_sousse"
+  }
+]

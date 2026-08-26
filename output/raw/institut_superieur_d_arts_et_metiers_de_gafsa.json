@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Institut Supérieur d'Arts et Métiers de Gafsa",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'arts et métiers de Gafsa",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isamgf.rnu.tn/",
+    "email": "isam.gafsa@isamgf.ugaf.tn",
+    "phone": null,
+    "location": {
+      "address": "Route de Tozeur, Sidi Ahmed Zarroug  - 2112  Gafsa",
+      "city": "Gafsa"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Manifestations et Edition",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Manifestations Scientifiques",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Edition scientifique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Observatoire et employabilité",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isamgf.rnu.tn/",
+    "source_name": "institut_superieur_d_arts_et_metiers_de_gafsa"
+  }
+]

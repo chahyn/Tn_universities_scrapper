@@ -1,0 +1,136 @@
+[
+  {
+    "name": "UTunis",
+    "type": "PUBLIC",
+    "description": "La norme ISO 9001 est une norme internationalement reconnue pour les systèmes de gestion de la qualité, garantissant que les organisations répondent systématiquement aux exigences.",
+    "logo_url": "http://www.utunis.rnu.tn/storage/sponsors/logos/dR6My95AGmdxj3Ln1Oe15ScJdxuXdxGibbRsBGop.png",
+    "cover_image_url": null,
+    "website": "http://www.utunis.rnu.tn/",
+    "email": "universite.tunis@utunis.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "École Nationale Supérieure d'ingénieurs de TunisENSIT",
+        "degree_type": "ENGINEERING",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "École normale supérieureENS",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "École Supérieure des Sciences Économiques et Commerciales TunisESSECT",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Faculté des Sciences Humaines et Sociales de TunisFSHST",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Higher Institute of Digital Engineering of TunisHIDE",
+        "degree_type": "ENGINEERING",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Préparatoire aux Etudes d'Ingénieurs de TunisIPEIT",
+        "degree_type": "ENGINEERING",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Préparatoire aux Etudes Littéraires et des Sciences Humaines de TunisIPELSHT",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur d'Art Dramatique de TunisISADT",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur de Gestion de TunisISGT",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur de l’Animation pour la Jeunesse et la CultureISAJC",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur de Musique de TunisISMT",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur des Beaux-Arts de TunisISBAT",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur des Etudes Appliquées en Humanité de ZaghouanISEAHZ",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur des Métiers du Patrimoine de TunisISMPT",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Tunis Business SchoolTBS",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Description",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "ENS",
+      "ENSIT",
+      "ESSECT",
+      "Ecoles Doctorales",
+      "FSHST",
+      "HIDE",
+      "IPEIT",
+      "IPELSHT",
+      "ISADT",
+      "ISAJC",
+      "ISBAT",
+      "ISEAHZ",
+      "ISGT",
+      "ISMPT",
+      "ISMT"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.utunis.rnu.tn/",
+    "source_name": "universite_de_tunis"
+  }
+]

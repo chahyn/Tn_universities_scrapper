@@ -1,0 +1,154 @@
+[
+  {
+    "name": "ISSSEG",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Sciences Sociales et de l'Education de Gafsa",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.issteg.rnu.tn/",
+    "email": "issseg.gafsa@issseg.ugaf.tn",
+    "phone": null,
+    "location": {
+      "address": "Route de Tozeur - 2119 Gafsa T.: 76 21 16 22 F.: 76 21 05 92 Email: issseg.gafsa@issseg.ugaf.tn Obtenir la localisation Envoyer un Email",
+      "city": "Email"
+    },
+    "programs": [
+      {
+        "name": "Nouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Recherche scientifique",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Coopération",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Espace Entreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Nouveautés",
+        "description": null,
+        "logo_url": "http://www.issteg.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Institut",
+        "description": null,
+        "logo_url": "http://www.issteg.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "http://www.issteg.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Recherche scientifique",
+        "description": null,
+        "logo_url": "http://www.issteg.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "description": null,
+        "logo_url": "http://www.issteg.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Coopération",
+        "description": null,
+        "logo_url": "http://www.issteg.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Espace Entreprise",
+        "description": null,
+        "logo_url": "http://www.issteg.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Recherche scientifique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Coopération",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Espace Entreprise",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "+"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.issteg.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_et_des_technologies_de_l_energie_de_gafsa_universite_de_gafsa"
+  }
+]

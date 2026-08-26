@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Institut de Presse et des Sciences de l'Information",
+    "type": "PUBLIC",
+    "description": "Institut de Presse et des Sciences de l'Information",
+    "logo_url": "http://www.ipsi.rnu.tn/storage/sponsors/logos/nV9tEsKPdTqfPxt9lt5zwlKb4UKI3dRp9VWrUvXs.jpg",
+    "cover_image_url": null,
+    "website": "http://www.ipsi.rnu.tn/",
+    "email": "communication@ipsi.uma.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "https://ipsi.rnu.tn/storage/clubs/1/jOzpIg21CE79QIO74nr3Y8eZWN4Yfv1ZbpBWsTRg.png",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Conseil scientifique",
+      "En Chiffres",
+      "Enseignants",
+      "Equipements",
+      "Lire la suite",
+      "Loi de création",
+      "MASTÈRE PROFESSIONNEL : MÉTIERS DE LA COMMUNICATION POLITIQUE ET INSTITUTIONNELLE",
+      "Mot de bienvenue",
+      "contactez-nous"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ipsi.rnu.tn/",
+    "source_name": "institut_de_presse_et_des_sciences_de_l_information"
+  }
+]

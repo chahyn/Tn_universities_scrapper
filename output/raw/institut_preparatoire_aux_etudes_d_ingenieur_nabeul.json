@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieur Nabeul",
+    "type": "PUBLIC",
+    "description": "Institut Préparatoire aux Etudes d'ingénieurs de Nabeul",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.ipein.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Club/Associations",
+        "description": null,
+        "logo_url": "http://www.ipein.rnu.tn/useruploads/images/img-banner/presentation_8.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Evènements Estudiantins",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "JASSY SUMMER SCHOOL",
+      "Lire la suite ..."
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ipein.rnu.tn/",
+    "source_name": "institut_preparatoire_aux_etudes_d_ingenieur_nabeul"
+  }
+]

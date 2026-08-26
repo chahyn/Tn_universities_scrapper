@@ -1,0 +1,191 @@
+[
+  {
+    "name": "FSGF",
+    "type": "PUBLIC",
+    "description": "Avis importants aux étudiants concernant les demandes de vérification des notes et les règles de déroulement de la session de rattrapage.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.fsgf.rnu.tn/",
+    "email": "contact@fsgf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Campus Universitaire Sidi Ahmed Zarroug - 2112 Gafsa T.: 76 21 10 24 / 76 21 17 01 F.: 76 21 10 26 Email: contact@fsgf.rnu.tn Obtenir la localisation",
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Nouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Faculté",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Recherche scientifique",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Coopération",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Espace Entreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "ACCÉS À L'INFORMATION",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "ASSURANCE QUALITÉ",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Nouveautés",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Faculté",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Recherche scientifique",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Coopération",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Espace Entreprise",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "ACCÉS À L'INFORMATION",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "ASSURANCE QUALITÉ",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Faculté",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Recherche scientifique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Coopération",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Espace Entreprise",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "ACCÉS À L'INFORMATION",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "ASSURANCE QUALITÉ",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "+",
+      "En savoir plus"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsgf.rnu.tn/",
+    "source_name": "faculte_des_sciences_de_gafsa_universite_de_gafsa"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs d'El Manar",
+    "type": "PUBLIC",
+    "description": "institut ,préparatoire , études , ingénieurs",
+    "logo_url": "http://www.ipeiem.rnu.tn/stylesheets/images/logo-header.png",
+    "cover_image_url": null,
+    "website": "http://www.ipeiem.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Music Club",
+        "description": null,
+        "logo_url": "http://www.ipeiem.rnu.tn/useruploads/images/img_menu/nouveautes.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Institut Préparatoire aux Études d'Ingénieurs El Manar",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ipeiem.rnu.tn/",
+    "source_name": "institut_preparatoire_aux_etudes_d_ingenieurs_d_el_manar"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mon Offre Orange",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.ipeiem.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ipeiem.rnu.tn/",
+    "source_name": "institut_preparatoire_aux_etudes_d_ingenieurs_d_el_manar_universite_de_tunis_el_manar"
+  }
+]

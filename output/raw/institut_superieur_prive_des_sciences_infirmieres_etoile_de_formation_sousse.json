@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Etoile Formation",
+    "type": "PRIVATE",
+    "description": "Web designing in a powerful way of just not an only professions. We have tendency to believe the idea that smart looking .",
+    "logo_url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20380%20114%22%20width%3D%22380%22%20height%3D%22114%22%3E%3C%2Fsvg%3E",
+    "cover_image_url": null,
+    "website": "http://www.etoile-formation.com/",
+    "email": "etoileformation@gmail.com",
+    "phone": "+ 216 73 201 173",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Ecole de cadres"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.etoile-formation.com/",
+    "source_name": "institut_superieur_prive_des_sciences_infirmieres_etoile_de_formation_sousse"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Institut Supérieur de Biologie Appliquée de Medenine",
+    "type": "PUBLIC",
+    "description": "UniversitéLe mot de la PrésidenteHistorique & ValeursQui est Mahmoud el Materi?PartenariatsFonctionnementRecrutementLocauxContactVie étudianteActivités extrascolairesBibliothèqueEtudiants internationauxLogementSanté universitaireClub des diplômésCentre de carrièrePrésentationEvénements & FormationsAccompagnementRecherche et projets innovantsLaboratoire Asyllia PollaCentre de soutien et d’innovation pédagogiqueAl-Fehriya – Learning & Coworking LabIncubateur",
+    "logo_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20391%2085'%3E%3C/svg%3E",
+    "cover_image_url": null,
+    "website": "https://www.umm-tunisie.com/",
+    "email": "contact@umm-tunisie.com",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Club des diplômés",
+        "description": null,
+        "logo_url": "https://www.umm-tunisie.com/wp-content/uploads/2017/02/21.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Evénements & Formations",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Forum des métiers de la santé",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Abonnez-vous à notre newsletter",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Connaître l’Institut",
+      "Etablissements médicaux conventionnés",
+      "L’Institut",
+      "Simulation médicale haute fidélité"
+    ],
+    "sub_institutions": [],
+    "source_url": "https://www.umm-tunisie.com/",
+    "source_name": "institut_superieur_de_biologie_appliquee_de_medenine"
+  }
+]

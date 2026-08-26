@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Faculté des Sciences de Gafsa",
+    "type": "PUBLIC",
+    "description": "Avis importants aux étudiants concernant les demandes de vérification des notes et les règles de déroulement de la session de rattrapage.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.fsgf.rnu.tn/",
+    "email": "contact@fsgf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Campus Universitaire Sidi Ahmed Zarroug  - 2112  Gafsa",
+      "city": "Gafsa"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.fsgf.rnu.tn/fra/pages/299/useruploads/images/img_banner/inscription-3.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "ACCÉS À L'INFORMATION",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères professionnels",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères de Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastère Internationale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères professionnels à distance",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "+",
+      "En savoir plus"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsgf.rnu.tn/",
+    "source_name": "faculte_des_sciences_de_gafsa"
+  }
+]

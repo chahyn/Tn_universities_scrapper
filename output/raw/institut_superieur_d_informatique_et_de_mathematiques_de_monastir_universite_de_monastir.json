@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ISIMM",
+    "type": "PUBLIC",
+    "description": "إعلام هام للطلبة بالعودة الجامعية بالمعهد العالي للإعلامية والرياضيات بالمنستير 2026-2027",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isimm.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isimm.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_et_de_mathematiques_de_monastir_universite_de_monastir"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "FLSHS",
+    "type": "PUBLIC",
+    "description": "Faculté des Lettres et des Sciences Humaines de Sfax",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.flshs.rnu.tn/",
+    "email": "doyen@flshs.usf.tn",
+    "phone": "+216 74 67 05 44",
+    "location": {
+      "address": "Route de l'aéroport- Km 4.5",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.flshs.rnu.tn/",
+    "source_name": "faculte_des_lettres_et_sciences_humaines_de_sfax_universite_de_sfax"
+  }
+]

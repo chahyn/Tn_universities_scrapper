@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Institut des Hautes Etudes Commerciales de Carthage",
+    "type": "PUBLIC",
+    "description": "Institut des Hautes Études Commerciales de Carthage",
+    "logo_url": "http://www.ihec.rnu.tn/images/ihec_carthage_bleu.svg",
+    "cover_image_url": null,
+    "website": "http://www.ihec.rnu.tn/",
+    "email": "contact@ihec.ucar.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs étudiants",
+        "description": null,
+        "logo_url": "https://ihec.rnu.tn/images/ihec_carthage_bleu.svg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Ecole Doctorale",
+      "Histoire de l'IHEC",
+      "Lire la suite",
+      "Mission, Vision, valeurs",
+      "XXXème COLLOQUE FEDERATEUR De L’INSTITUT CEDIMES"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ihec.rnu.tn/",
+    "source_name": "institut_des_hautes_etudes_commerciales_de_carthage"
+  }
+]

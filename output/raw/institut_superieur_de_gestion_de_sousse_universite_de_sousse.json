@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ISGS",
+    "type": "PUBLIC",
+    "description": "La procédure administrative des stages obligatoires concerne les étudiants en 2ème année masters de recherche. Elle s’effectue exclusivement sur le site...",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isgs.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "NotreInstitut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NosNouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NosDépartements",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NosFormations",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NosEvents",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vieestudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NosRecherches",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NosStages",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Qualité",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Espaceentreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Ecole doctorale",
+      "ISG de sousse",
+      "Lire la suite ...",
+      "Organigramme",
+      "Une opportunité de participer à une école d'été"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isgs.rnu.tn/",
+    "source_name": "institut_superieur_de_gestion_de_sousse_universite_de_sousse"
+  }
+]

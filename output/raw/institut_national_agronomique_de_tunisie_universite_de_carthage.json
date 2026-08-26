@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Institut National Agronomique de Tunisie (INAT)",
+    "type": "PUBLIC",
+    "description": "L'Institut National Agronomique de Tunisie (INAT) a pour missions la formation des ingénieurs, des chercheurs en master et en doctorat et la formation continue.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.inat.tn/",
+    "email": "dg@inat.ucar.tn",
+    "phone": "(+216) 71 287 110",
+    "location": {
+      "address": "43, Avenue Charles Nicolle 1082 -Tunis- Mahrajène TUNISIE Tél: (+216) 71 287 110 / 71 289 431 Fax: (+216) 71 892 785 Email: dg@inat.ucar.tn",
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "la Certification ISO 21001",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Département d'Agronomie et Biotechnologies Végétales",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Département des Sciences Animales",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Département du Génie rural, eaux et fôrets",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Département d’économie-gestion agricole et agro-alimentaire",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Département de santé végétale et environnement",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "la Certification ISO 21001",
+        "description": null,
+        "logo_url": "http://www.inat.tn/sites/default/files/styles/slider-photo/public/images/slides/certification_0.jpg?itok=KXgII1i-",
+        "contact_info": null
+      },
+      {
+        "name": "Département d'Agronomie et Biotechnologies Végétales",
+        "description": null,
+        "logo_url": "http://www.inat.tn/sites/default/files/styles/slider-photo/public/images/slides/slide1.jpg?itok=5-0OsjhK",
+        "contact_info": null
+      },
+      {
+        "name": "Département des Sciences Animales",
+        "description": null,
+        "logo_url": "http://www.inat.tn/sites/default/files/styles/slider-photo/public/images/slides/slide2.jpg?itok=UY0plIyr",
+        "contact_info": null
+      },
+      {
+        "name": "Département du Génie rural, eaux et fôrets",
+        "description": null,
+        "logo_url": "http://www.inat.tn/sites/default/files/styles/slider-photo/public/images/slides/slide-03_0.jpg?itok=efq0_Hsf",
+        "contact_info": null
+      },
+      {
+        "name": "Département d’économie-gestion agricole et agro-alimentaire",
+        "description": null,
+        "logo_url": "http://www.inat.tn/sites/default/files/styles/slider-photo/public/images/slides/slide-02_0.jpg?itok=tr0NOLZO",
+        "contact_info": null
+      },
+      {
+        "name": "Département de santé végétale et environnement",
+        "description": null,
+        "logo_url": "http://www.inat.tn/sites/default/files/styles/slider-photo/public/images/slides/slide-05.jpg?itok=1UgF1Ifm",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "la Certification ISO 21001",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département d'Agronomie et Biotechnologies Végétales",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département des Sciences Animales",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département du Génie rural, eaux et fôrets",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département d’économie-gestion agricole et agro-alimentaire",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département de santé végétale et environnement",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "L'institut"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.inat.tn/",
+    "source_name": "institut_national_agronomique_de_tunisie_universite_de_carthage"
+  }
+]

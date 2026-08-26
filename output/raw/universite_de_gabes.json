@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Université de Gabès",
+    "type": "PUBLIC",
+    "description": "République TunisienneMinistère de l'Enseignement Supérieur et de Recherche ScientifiqueUniversité de Gabès",
+    "logo_url": "http://www.univgb.rnu.tn/static/fr/image/gif/logo.gif",
+    "cover_image_url": null,
+    "website": "http://www.univgb.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Diplôme National d' Ingénieur",
+        "degree_type": "ENGINEERING",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Les cycles préparatoires aux études d'ingénieurs",
+        "degree_type": "ENGINEERING",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Sciences d’ ingénieurs",
+        "degree_type": "ENGINEERING",
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Ecole Nationale d’Ingénieurs de Gabès (E.N.I.G)",
+      "Ecoles Doctorale:Sciences Exactes et Naturelles",
+      "Ecoles Doctorale:Sciences, Ingénierie et Société",
+      "Ecoles Doctorales",
+      "Faculté des Sciences de Gabès (F.S.G)",
+      "Institut Supérieur de Biologie Appliquée de Médenine (I.S.B.A.M.)",
+      "Institut Supérieur de Gestion de Gabès (I.S.G)",
+      "Institut Supérieur de Sciences Appliquées et de Technologie de Gabès (I.S.S.A.T)",
+      "Institut Supérieur des Arts et Métiers de Gabès (I.S.A.M)",
+      "Institut Supérieur des Arts et Métiers de Tataouine (I.S.A. M.T.)",
+      "Institut Supérieur des Etudes Juridiques de Gabès (I.S.E.J)",
+      "Institut Supérieur des Langues de Gabès (I.S.L)",
+      "Institut Supérieur des Sciences Humaines de Médenine (I.S.S.H.M)",
+      "Institut Supérieur des Sciences et Techniques des Eaux de Gabès (I.S.S.T.E.G)",
+      "Institut Supérieur des Sciences infirmières de Gabès (I.S.S.I.G)"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.univgb.rnu.tn/",
+    "source_name": "universite_de_gabes"
+  }
+]

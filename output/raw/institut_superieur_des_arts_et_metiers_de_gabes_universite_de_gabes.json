@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ISAMG",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isamgb.rnu.tn/",
+    "email": "info@isamgb.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isamgb.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_et_metiers_de_gabes_universite_de_gabes"
+  }
+]

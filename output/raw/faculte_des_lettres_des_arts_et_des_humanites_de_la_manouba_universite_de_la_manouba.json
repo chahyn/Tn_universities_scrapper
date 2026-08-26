@@ -1,0 +1,102 @@
+[
+  {
+    "name": "FLAHM",
+    "type": "PUBLIC",
+    "description": "دعوة لتقديم الأوراق البحثية للمؤتمر الدولي لقسم اللغة الإنجليزية حول موضوع\"Artificial intelligence and the humanities\"والذي سيعقد أيّام 6-7-8 أفريل 2026",
+    "logo_url": "http://www.flm.rnu.tn/stylesheets/images/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.flm.rnu.tn/",
+    "email": "flm@flm.rnu.tn",
+    "phone": "(+216) 71 600 700",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "الإستقبال",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الجديد",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الكلية",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الأقسام",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "التكوين",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الطالب",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "البحث",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "العلاقات الدولية",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "المكتبات",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "وثائق مفيدة على الواب",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "جداول الأوقات",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "استشارات و طلبات العروض",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "اتفاقيات",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.flm.rnu.tn/",
+    "source_name": "faculte_des_lettres_des_arts_et_des_humanites_de_la_manouba_universite_de_la_manouba"
+  }
+]

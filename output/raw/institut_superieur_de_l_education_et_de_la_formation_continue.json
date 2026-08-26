@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Institut Supérieur de l'Education et de la Formation Continue",
+    "type": "PUBLIC",
+    "description": "Vous allez trouver toutes les nouvelles concernant l'ISEFC , les stages , les changements ...",
+    "logo_url": "http://www.isefc.rnu.tn/assets/images/Logo.png",
+    "cover_image_url": null,
+    "website": "http://www.isefc.rnu.tn/",
+    "email": "administration@isefc.u-virtuelle.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Associations",
+        "description": null,
+        "logo_url": "http://www.isefc.rnu.tn/assets/images/Logo.png",
+        "contact_info": null
+      },
+      {
+        "name": "3)\t L'Association Tunisienne de Didactique des Mathématiques (ATDM)",
+        "description": null,
+        "logo_url": "http://www.isefc.rnu.tn/assets/images/event-3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "4)\tL'Association Tunisienne de Recherches Didactiques (ATURED)",
+        "description": null,
+        "logo_url": "http://www.isefc.rnu.tn/assets/images/event-4.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "D'autres associations",
+        "description": null,
+        "logo_url": "http://www.isefc.rnu.tn/assets/images/event-4.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "43, rue de la Liberté\n                                          2019 Le Bardo\n                                          Tunisie"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isefc.rnu.tn/",
+    "source_name": "institut_superieur_de_l_education_et_de_la_formation_continue"
+  }
+]

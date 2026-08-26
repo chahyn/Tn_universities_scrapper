@@ -1,0 +1,78 @@
+[
+  {
+    "name": "ESCT",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.esct.rnu.tn/storage/sponsors/logos/sCcdKEQcb8M3E0snBqdtuMuOH7zWbcHXoiHWIE9m.jpg",
+    "cover_image_url": null,
+    "website": "http://www.esct.rnu.tn/",
+    "email": "communication@esct.uma.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Présentation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Objectifs",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Métiers",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Accès aux Mastères de l’ESCT",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Compétences acquises à la fin du programme",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Coditions d’admission",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Plan d’étude",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Ateliers et formations",
+      "Commission en Sciences Economiques",
+      "Commission en Sciences de Gestion",
+      "Documents à télécharger",
+      "Evénements organisés",
+      "Formulaires d’inscription",
+      "Institutions d’enseignement partenaires",
+      "Journées Doctorales",
+      "Le directeur",
+      "Procédures d’inscription et de de dépôt",
+      "Présentation"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.esct.rnu.tn/",
+    "source_name": "ecole_superieure_de_commerce_de_tunis_universite_de_la_manouba"
+  }
+]

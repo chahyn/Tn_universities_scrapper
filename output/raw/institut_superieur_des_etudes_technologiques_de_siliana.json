@@ -1,0 +1,64 @@
+[
+  {
+    "name": "ISETSL",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Technologiques de Siliana",
+    "logo_url": "http://www.isetsl.rnu.tn/storage/sponsors/logos/nhbUAF2xFjFxmhlJe0J7XTVn98z0BJX8i4DA5V5z.png",
+    "cover_image_url": null,
+    "website": "http://www.isetsl.rnu.tn/",
+    "email": "iset.siliana@seliana.r-iset.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Informations générales",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Politique d'accès à l'information",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Références légales réglementées pour l'accès",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Prés-imprimé accessibles",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Archive",
+      "Conseil scientifique",
+      "Enseignants",
+      "Examens",
+      "Finance",
+      "GRH",
+      "Galerie des photos",
+      "Loi de création",
+      "Maintenance",
+      "Organigramme",
+      "Reglement interne",
+      "Réseau",
+      "Scolarité",
+      "Stage",
+      "Statistiques"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetsl.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_siliana"
+  }
+]

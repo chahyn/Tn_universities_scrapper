@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Institut Supérieur des Arts du Multimédia de la Manouba",
+    "type": "PUBLIC",
+    "description": "Responsive One Page HTML5 Website Template",
+    "logo_url": "http://www.isa2m.rnu.tn/assets/img/logo-dark.png",
+    "cover_image_url": null,
+    "website": "http://www.isa2m.rnu.tn/",
+    "email": null,
+    "phone": "+216 71 603 498",
+    "location": {
+      "address": "Campus Universitaire",
+      "city": "Campus Universitaire"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Ouverture des candidatures à l’ISAMM pour l’année universitaire 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "🎓 Appel à candidatures ISAMMAnnée universitaire 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "📘 Mastères de recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "💼 Mastères professionnels",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "🎮 Licences coconstruites",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "📄 Conditions d’admission et formulaires",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Adresse : Campus Universitairede La Manouba -\n\t\t\t\t\t\t\t\t\t\t\t\t\t                          CP 2010, Tunis, Tunisie."
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isa2m.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_du_multimedia_de_la_manouba"
+  }
+]

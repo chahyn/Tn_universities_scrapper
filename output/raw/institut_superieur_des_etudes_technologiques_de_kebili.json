@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ISETKE",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Études Technologiques de Kébili",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetke.rnu.tn/",
+    "email": null,
+    "phone": "+216 75 494 000",
+    "location": {
+      "address": "Route de Gabès - BP n°61 - 4200 - Kébili Tunisie",
+      "city": "Kébili Tunisie"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isetke.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_kebili"
+  }
+]

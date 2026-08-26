@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités de Tozeur",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Appliquées en Humanités de Tozeur",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.iseahtz.rnu.tn/",
+    "email": "contact@iseahtz.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Route de Nafta - 2200 Tozeur",
+      "city": "Tozeur"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Manifestations Scientifiques",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Edition scientifique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Observatoire et employabilité",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.iseahtz.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_appliquees_en_humanites_de_tozeur"
+  }
+]

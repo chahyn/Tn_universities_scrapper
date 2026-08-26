@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Institut des Hautes Etudes Commerciales de Sfax",
+    "type": "PUBLIC",
+    "description": "Institut des Hautes Etudes Commerciales de Sfax",
+    "logo_url": "http://www.ihecsf.rnu.tn/storage/sponsors/logos/wtBQrNOjHh3WU0sF5rWxlbT7ynbIkTx13h1ZVrPQ.jpg",
+    "cover_image_url": null,
+    "website": "http://www.ihecsf.rnu.tn/",
+    "email": "ihecsf@ihecsf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": null,
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Campus",
+      "Conseil scientifique",
+      "Corps professoral",
+      "Direction des stages",
+      "Direction des études",
+      "Département Commerce & Stratégies d'Affaires",
+      "Département Comptabilité & Fiscalité",
+      "Département Nouvelle Economie",
+      "En Chiffres",
+      "Loi de création",
+      "Mission, Vision et Valeurs",
+      "Mot du directeur",
+      "Partenariats et coopérations",
+      "À propos de nous"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ihecsf.rnu.tn/",
+    "source_name": "institut_des_hautes_etudes_commerciales_de_sfax"
+  }
+]

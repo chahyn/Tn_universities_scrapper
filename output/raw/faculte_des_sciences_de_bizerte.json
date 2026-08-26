@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Faculté des Sciences de Bizerte",
+    "type": "PUBLIC",
+    "description": "République TunisienneMinistère de l’Enseignement Supérieur, de la Recherche ScientifiqueUniversité de Carthage",
+    "logo_url": "http://www.fsb.rnu.tn/images/logofablab.png",
+    "cover_image_url": null,
+    "website": "http://www.fsb.rnu.tn/",
+    "email": "fsb@fsb.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Pré-inscription en 1 ère année",
+      "École Doctorale"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsb.rnu.tn/",
+    "source_name": "faculte_des_sciences_de_bizerte"
+  }
+]

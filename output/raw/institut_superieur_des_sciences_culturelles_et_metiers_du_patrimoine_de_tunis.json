@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur des Sciences Culturelles et Métiers du Patrimoine de Tunis",
+    "type": "PUBLIC",
+    "description": "Nous préparons quelque chose de nouveau.\r\n        Notre site sera bientôt disponible.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.ismpt.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ismpt.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_culturelles_et_metiers_du_patrimoine_de_tunis"
+  }
+]

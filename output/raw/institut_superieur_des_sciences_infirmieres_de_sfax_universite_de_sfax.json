@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Accueil",
+    "type": "PUBLIC",
+    "description": "L'institut supérieur des sciences infirmières de Sfax (ISSI Sfax) est une institution universitaire sous la cotutelle des ministères tunisiens de l'enseignement supérieur et de la santé publique et fait...",
+    "logo_url": "http://www.issisfax.rns.tn/images/docs/logo-usf.png",
+    "cover_image_url": null,
+    "website": "http://www.issisfax.rns.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "ISSI-Sfax",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Promouvoir la santé",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Enseignement",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Master professionnel",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Certificat d'Etudes Complémentaires en Santé",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Bulletin d'information",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Sondage",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Statistiques",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Qui est en ligne ?",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Galerie d'images",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [
+      {
+        "title": "ISSI-Sfax",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Promouvoir la santé",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Enseignement",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Master professionnel",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Certificat d'Etudes Complémentaires en Santé",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Bulletin d'information",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Sondage",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Statistiques",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Qui est en ligne ?",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Galerie d'images",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.issisfax.rns.tn/",
+    "source_name": "institut_superieur_des_sciences_infirmieres_de_sfax_universite_de_sfax"
+  }
+]

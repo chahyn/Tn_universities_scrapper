@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Institut Supérieur de Gestion de Sousse",
+    "type": "PUBLIC",
+    "description": "La procédure administrative des stages obligatoires concerne les étudiants en 2ème année masters de recherche. Elle s’effectue exclusivement sur le site...",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isgs.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et Associations estudiantines",
+        "description": null,
+        "logo_url": "http://www.isgs.rnu.tn/useruploads/images/img-banner/offre-emploi.png",
+        "contact_info": null
+      },
+      {
+        "name": "OPTIONS CLUB \"CLUB RADIO\" :",
+        "description": null,
+        "logo_url": "http://www.isgs.rnu.tn/useruploads/images/kisspng-youtube-play-button-computer-icons-clip-art-subscribe-5ab9a1b79035e3_0535486515221149995907.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "CLUB VELO :",
+        "description": null,
+        "logo_url": "http://www.isgs.rnu.tn/useruploads/images/kisspng-youtube-play-button-computer-icons-clip-art-subscribe-5ab9a1b79035e3_0535486515221149995907.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Ecole doctorale",
+      "ISG de sousse",
+      "Lire la suite ...",
+      "Une opportunité de participer à une école d'été"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isgs.rnu.tn/",
+    "source_name": "institut_superieur_de_gestion_de_sousse"
+  }
+]

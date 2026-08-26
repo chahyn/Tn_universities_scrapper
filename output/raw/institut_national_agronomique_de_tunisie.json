@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Institut National Agronomique de Tunisie",
+    "type": "PUBLIC",
+    "description": "L'Institut National Agronomique de Tunisie (INAT) a pour missions la formation des ingénieurs, des chercheurs en master et en doctorat et la formation continue.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.inat.tn/",
+    "email": "dg@inat.ucar.tn",
+    "phone": "(+216) 71 287 110",
+    "location": {
+      "address": "43, Avenue Charles Nicolle 1082 -Tunis- Mahrajène TUNISIE",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "http://www.inat.tn/sites/default/files/styles/slider-photo/public/images/slides/slide-05.jpg?itok=1UgF1Ifm",
+        "contact_info": null
+      },
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.inat.tn/sites/default/files/styles/slider-photo/public/images/slides/slide-05.jpg?itok=1UgF1Ifm",
+        "contact_info": null
+      },
+      {
+        "name": "Associations",
+        "description": null,
+        "logo_url": "http://www.inat.tn/sites/default/files/styles/slider-photo/public/images/slides/slide-05.jpg?itok=1UgF1Ifm",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Formulaire de recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "la Certification ISO 21001",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département d'Agronomie et Biotechnologies Végétales",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département des Sciences Animales",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département du Génie rural, eaux et fôrets",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département d’économie-gestion agricole et agro-alimentaire",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département de santé végétale et environnement",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Institut National Agronomique de Tunisie (INAT)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.inat.tn/",
+    "source_name": "institut_national_agronomique_de_tunisie"
+  }
+]

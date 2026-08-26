@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs de Sfax",
+    "type": "PUBLIC",
+    "description": "Institut Préparatoire aux Etudes d’Ingénieur de Sfax",
+    "logo_url": "http://www.ipeis.rnu.tn/stylesheets/images/logo-header.png",
+    "cover_image_url": null,
+    "website": "http://www.ipeis.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.ipeis.rnu.tn/useruploads/images/img_menu/contact.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Institut Préparatoire aux Etudes d’Ingénieur de Sfax",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ipeis.rnu.tn/",
+    "source_name": "institut_preparatoire_aux_etudes_d_ingenieurs_de_sfax"
+  }
+]

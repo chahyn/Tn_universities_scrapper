@@ -1,0 +1,2821 @@
+[
+  {
+    "name": "Centre de Études Islamiques de Kairouan",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "CEIK",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Université Mahmoud el Materi | Tunisie - جامعة محمود الماطري | تونس",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Université Centrale",
+    "missing_fields": [
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Nationale des Sciences de l'Informatique",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Mon Offre Orange",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Gabès",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Monastir",
+    "missing_fields": [
+      "description",
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ENIM",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Sfax",
+    "missing_fields": [
+      "description",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ENIS",
+    "missing_fields": [
+      "description",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Nationale d’Ingénieurs de Sousse",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ENISo",
+    "missing_fields": [
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Tunis",
+    "missing_fields": [
+      "location.city"
+    ]
+  },
+  {
+    "name": "Ecole Polytechnique de Tunisie",
+    "missing_fields": [
+      "email",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure des Ingénieurs de l'Equipement Rural de Medjez El Bab",
+    "missing_fields": [
+      "email",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Acceuil",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure des Sciences Economiques et Commerciales de Tunis",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ESSECT",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et des technologies de Hammam Sousse",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "École Supérieure des Sciences et de la Technologie de Hammam Sousse",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et Techniques de la Santé de Sfax",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ESSTSS",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et Techniques de Tunis",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ESSTT",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et Technologies du Design",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ESSTED",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure des Statistiques et d'Analyse de l'Information",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure de Commerce de Sfax",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ESCS",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure de Commerce de Tunis",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ESCT",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure de Technologie et d'Informatique à Carthage",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure d'Agriculture de Mateur",
+    "missing_fields": [
+      "email",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure d'Agriculture de Mograne",
+    "missing_fields": [
+      "description",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ecole Supérieure d 'Agriculture du Kef",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Accueil",
+    "missing_fields": [
+      "email",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ESSAT – ECOLE SUPÉRIEURE DE SCIENCES APPLIQUEES ET TECHNOLOGIQUES PRIVEE DE GABES",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ESIP – Plus qu'une Formation… Un Avenir",
+    "missing_fields": [
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Law & Business School",
+    "missing_fields": [
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Lettres, des Arts et des Humanités de la Manouba",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "FLAHM",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Lettres et des Sciences Humaines de Kairouan",
+    "missing_fields": [
+      "email",
+      "phone",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "FLSHK",
+    "missing_fields": [
+      "email",
+      "phone",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Lettres et des Sciences Humaines de Sousse",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "FLSH Sousse",
+    "missing_fields": [
+      "description",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Lettres et Sciences Humaines de Sfax",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "events",
+      "location.city"
+    ]
+  },
+  {
+    "name": "FLSHS",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.city"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences de Bizerte",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences de Gabès",
+    "missing_fields": [
+      "description",
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "FSG",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences de Gafsa",
+    "missing_fields": [
+      "phone"
+    ]
+  },
+  {
+    "name": "FSGF",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences de Monastir",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ESGITECH",
+    "missing_fields": [
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences de Sfax",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "FSS",
+    "missing_fields": [
+      "phone",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des sciences de tunis",
+    "missing_fields": [
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences Economiques et de Gestion de Nabeul",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences Economiques et de Gestion de Sfax",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "FSEG Sfax",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences Economique et de Gestion de Tunis",
+    "missing_fields": [
+      "email",
+      "phone",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences Humaines et Sociales de Tunis",
+    "missing_fields": [
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences Juridiques, Economiques et de Gestion de Jendouba",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "FSJEGJ",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",
+    "missing_fields": [
+      "phone",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté de droit de Sfax",
+    "missing_fields": [
+      "description",
+      "clubs",
+      "events",
+      "location.city"
+    ]
+  },
+  {
+    "name": "Faculté de Droit et des Sciences Economiques et Politiques de Sousse",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "CCK",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté de Droit et des Sciences Politiques de Tunis",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté de Médecine Dentaire de Monastir",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events"
+    ]
+  },
+  {
+    "name": "Faculté de Médecine de Tunis",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Faculté de Pharmacie de Monastir",
+    "missing_fields": [
+      "description",
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Fphm",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "FacultÃ© PrivÃ©e PionniÃ¨re de Technologie et de Management",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Bourguiba des Langues Vivantes",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut des Hautes Etudes Commerciales de Carthage",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut des Hautes Etudes Commerciales de Sfax",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "IHECSF",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut des Hautes Etudes Commerciales de Sousse",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "IHECSO",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut des Hautes Etudes Touristiques de Sidi Dhrif",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ouverture Bientot – IHET Sidi Dhrif",
+    "missing_fields": [
+      "description",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut de Presse et des Sciences de l'Information",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "IPSI",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Natioal de Recherche Agronomique de Tunis",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "INRAT",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut National Agronomique de Tunisie",
+    "missing_fields": [
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut National Agronomique de Tunisie (INAT)",
+    "missing_fields": [
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut National des Sciences Appliquées et de Technologie",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut National de Recherche en Génie Rural, Eau et Forêt",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "inrgref",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut National du Patrimoine",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut National du Travail et des Etudes Sociales de Tunis",
+    "missing_fields": [
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Pasteur",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs de Monastir",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "IPEIM",
+    "missing_fields": [
+      "email",
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs de Sfax",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs de Tunis",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Ipeit",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs d'El Manar",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieur de Bizerte",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d’Ingénieur de Gafsa",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieur Nabeul",
+    "missing_fields": [
+      "email",
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes Littéraires et de Sciences Humaines de Tunis",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "IPELSHT",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur Agronomique de Chott Mériem",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur Agronomique Chott Mériem (ISA",
+    "missing_fields": [
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Arts du Multimédia de la Manouba",
+    "missing_fields": [
+      "email",
+      "clubs"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Gabès",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISAMG",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Kairouan",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Isamk",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Kasserine",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISAMKAS",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Mahdia",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Sfax",
+    "missing_fields": [
+      "email",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISAMS",
+    "missing_fields": [
+      "email",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Sidi Bouzid",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISAMSB",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Siliana",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISAMSL",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Tataouine",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISAMT",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Beaux Arts de Nabeul",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Beaux Arts de Tunis",
+    "missing_fields": [
+      "email",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Beaux",
+    "missing_fields": [
+      "email",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Cadres de l'Enfance",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités de Gafsa",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités de Tozeur",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISEAHTZ",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Études Appliquées en Humanités de Zaghouan",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISEAHZ",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités du Kef",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Sciences Humaines de Sbeïtla",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Juridiques de Gabès",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISEJG",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Juridiques et Politiques de Kairouan",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Page d'accueil",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "BrewPoint Café — Staff Login",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "isetch",
+    "missing_fields": [
+      "tags",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Djerba",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETGB",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "events"
+    ]
+  },
+  {
+    "name": "ISETGF",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETJ",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Kairouan",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Kasserine",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETKE",
+    "missing_fields": [
+      "email",
+      "tags",
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Kef",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETKH",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETMA",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Médenine",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETN",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur Des Etudes Technologiques De Rades – ISET Rades",
+    "missing_fields": [
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Isetsf",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETSBZ",
+    "missing_fields": [
+      "email",
+      "phone",
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETSL",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETSO",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Tataouine",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETT",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISETZG",
+    "missing_fields": [
+      "email",
+      "tags",
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Langues Appliquées aux Affaires et au Tourisme de Moknine",
+    "missing_fields": [
+      "email",
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Langues Appliquées et d'Informatique de Béja",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Site is created successfully!",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Langues de Gabès",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISLGB",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Langues de Tunis",
+    "missing_fields": [
+      "email",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Métiers de la Mode de Monastir",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISMM is under construction",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Gabès",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISSATGB",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Gafsa",
+    "missing_fields": [
+      "phone",
+      "tags"
+    ]
+  },
+  {
+    "name": "ISSATGF",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISSATKR",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Mahdia",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "L’Institut Supérieur des Sciences Appliquées et de Technologie de Mahdia",
+    "missing_fields": [
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Sousse",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences Biologiques Appliquées",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences Culturelles et Métiers du Patrimoine de Tunis",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISMPT",
+    "missing_fields": [
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences et des Technologies de l’énergie de Gafsa",
+    "missing_fields": [
+      "phone",
+      "events"
+    ]
+  },
+  {
+    "name": "ISSSEG",
+    "missing_fields": [
+      "phone",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences et Techniques des Eaux de Gabès",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supèrieur des Sciences et Techniques des Eaux de Gabès – Site Web Officielle ISSTEGB",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences Humaines de Jendouba",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISSHJ",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences Humaines de Tunis",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences infirmières de Gabès",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences infirmières de Sfax",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Accueil",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Sciences infirmières du Kef",
+    "missing_fields": [
+      "email",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISI KEF",
+    "missing_fields": [
+      "email",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Systèmes Industriels de Gabès",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur des Technologies Médicales",
+    "missing_fields": [
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Beaux Arts de Sousse",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISBAS",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Biologie Appliquée de Medenine",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Biotechnologies de Sfax",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISBS SFAX",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut supérieur de biotechnologie de Béja",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISBB",
+    "missing_fields": [
+      "email",
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Biotechnologie de Monastir",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISBM",
+    "missing_fields": [
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Biotechnologie de Sidi Thabet",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISBST",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Civilisation Islamique de Tunis",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISCI",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Commerce et de Comptabilité de Bizerte",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Comptabilité et d'Administration des Entreprises",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Comptabilité et d'Administration des Entreprises - Université de la Manouba",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Documentation de Tunis",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISD Manouba",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Finance et de Fiscalité de Sousse",
+    "missing_fields": [
+      "email",
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISFFS",
+    "missing_fields": [
+      "email",
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Gestion de Gabès",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Gestion de Sousse",
+    "missing_fields": [
+      "email",
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISGS",
+    "missing_fields": [
+      "email",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Gestion de Tunis",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Gestion",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Gestion Industrielle de Sfax",
+    "missing_fields": [
+      "description",
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISGIS",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de l'Animation pour la Jeunesse et la Culture",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Isajc – Institut Supérieur de l'Animation pour la Jeunesse et la Culture",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de l'Education et de la Formation Continue",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Isefc",
+    "missing_fields": [
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de l'Histoire de la Tunisie Contemporaine",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": ":::Institut Supérieur d'Histoire du Mouvement National:::",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut supérieur de l'informatique du Kef",
+    "missing_fields": [
+      "description",
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISIKEF",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Musique",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Musique de Sfax",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Musique de Sousse",
+    "missing_fields": [
+      "description",
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Musique et de Théâtre du Kef",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Musique et de Théâtre du Kef - Université de Jendouba",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Université de Tunis Institut Supérieur de Musique de Tunis – Université de Tunis",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Pêche et d'Aquaculture de Bizerte",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Promotion des Handicapés de Ksar Saïd",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "المعهد العالي للتربية المختصة",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur de Théologie de Tunis",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISTH",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur du Sport et de l’Education Physique de Gafsa",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISSEPGF",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur du Sport et de l'Education Physique de Ksar Saïd",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur du Sport et de l'Education Physique de Ksar Saïd : Accueil",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur du Sport et de l'Education Physique de Sfax",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISSEPSF",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur du Transport et de la Logistique de Sousse",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city"
+    ]
+  },
+  {
+    "name": "ISTLS",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Administration des Affaires de Sfax",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISAAS",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d 'Administration des Entreprises de Gafsa",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Arts et Métiers de Gafsa",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISAMGF",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Art Dramatique",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Electronique et de Communication de Sfax",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Informatique de Mahdia",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISIMA",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Informatique de Medenine",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Informatique d'El Manar",
+    "missing_fields": [
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISITCOM",
+    "missing_fields": [
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d 'Informatique et de Gestion de Kairouan",
+    "missing_fields": [
+      "phone",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISIGK",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Informatique et de Mathématiques de Monastir",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISIMM",
+    "missing_fields": [
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d 'Informatique et de Multimédia de Gabès",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISIMG",
+    "missing_fields": [
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Supérieur d'Informatique et de Multimédia de Sfax",
+    "missing_fields": [
+      "email",
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "ISIMSF",
+    "missing_fields": [
+      "email",
+      "phone",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Université EL AMED",
+    "missing_fields": [
+      "tags",
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Etoile Formation",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Sylvo-Pastoral de Tabarka",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Accueil",
+    "missing_fields": [
+      "clubs",
+      "events",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Institut Zitouna de Sfax",
+    "missing_fields": [
+      "clubs",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Accueil",
+    "missing_fields": [
+      "clubs",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Université Centrale",
+    "missing_fields": [
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "University of Carthage",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Université de Ez-Zitouna",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Université de Gabès",
+    "missing_fields": [
+      "email",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "UGAF",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "UJ",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "UNIVK",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "UMA",
+    "missing_fields": [
+      "description",
+      "phone",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Université de Monastir Accueil",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Université de Sfax",
+    "missing_fields": [
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "UTunis",
+    "missing_fields": [
+      "phone",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Universite de Tunis El Manar",
+    "missing_fields": [
+      "description",
+      "email",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "UZ",
+    "missing_fields": [
+      "description",
+      "phone",
+      "tags",
+      "clubs",
+      "events",
+      "location.city",
+      "location.latitude"
+    ]
+  },
+  {
+    "name": "Universite Virtuelle de Tunis",
+    "missing_fields": [
+      "email",
+      "clubs",
+      "location.city",
+      "location.latitude"
+    ]
+  }
+]

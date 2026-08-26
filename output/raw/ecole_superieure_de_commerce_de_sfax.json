@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Ecole Supérieure de Commerce de Sfax",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.escs.rnu.tn/images/logo_escs_top_header.svg",
+    "cover_image_url": null,
+    "website": "http://www.escs.rnu.tn/",
+    "email": "escs@usf.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et Associations",
+        "description": null,
+        "logo_url": "https://escs.rnu.tn/images/logo_escs_top_header.svg",
+        "contact_info": null
+      },
+      {
+        "name": "Les clubs à l'ESCS",
+        "description": null,
+        "logo_url": "https://escs.rnu.tn/images/logo_escs_top_header.svg",
+        "contact_info": null
+      },
+      {
+        "name": "Les associations à l'ESCS",
+        "description": null,
+        "logo_url": "https://escs.rnu.tn/images/logo_escs_top_header.svg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Une reconnaissance internationale au service de nos étudiants",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ النقل الجامعية للسنة الجامعية 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Listes des candidats retenus en Masters pour l'année universitaire 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Listes des candidats présélectionnés et retenus en Masters  pour l'année universitaire 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ إلى كافة الطلبة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Extension de date de dépôt de Candidature en Master : Année universitaire 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الدّورة 28 للمعرض الجامعي 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ مناظرة إعادة التوجيه الجامعي دورة 2026 (جوان 2026)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Loi de Finances 2024",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Première promotion en NTEB، Juillet 2024",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "تكريم السيدة هدى اللوز الشلي أستاذة تربية بدنية بالمؤسسة على إثر إحالتها على شرف المهنة.",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.escs.rnu.tn/",
+    "source_name": "ecole_superieure_de_commerce_de_sfax"
+  }
+]

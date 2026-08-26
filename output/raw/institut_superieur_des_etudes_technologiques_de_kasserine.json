@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Kasserine",
+    "type": "PUBLIC",
+    "description": "​L'ISET de Kasserine est un maillon parmi plusieurs, constituants un réseau appelé souvent réseaux des ISETs, assurant une formation à vocation technologique et permettant à ses diplômés une meilleur intégration à la vie professionelle grâce à des compétences et des mécanismes d’ouvertures sur l'environnement et de renforcement des capacités",
+    "logo_url": "http://www.isetks.rnu.tn/media/1001/logoiset.png",
+    "cover_image_url": null,
+    "website": "http://www.isetks.rnu.tn/",
+    "email": "isetKasserine@gmail.com",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Contexte & Création",
+      "Découvrir l'ISET",
+      "Mot de directeur",
+      "Présentation",
+      "Site & Environnement en chiffres"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetks.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_kasserine"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Institut Supérieur de Biotechnologie de Monastir",
+    "type": "PUBLIC",
+    "description": "la liste des candidats admis pour l'inscription en Mastère Recherche  (AU 2026-2027).",
+    "logo_url": "https://isbm.rnu.tn/storage/app/public/coordonnees/February2022/aGfWPGQH92wXnir1DYIV.png",
+    "cover_image_url": null,
+    "website": "http://www.isbm.rnu.tn/",
+    "email": "direction.etudes@isbm.u-monastir.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Associations",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/coordonnees/February2022/lfMeIpAyi0sCC2hccMME.png",
+        "contact_info": null
+      },
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/evenements/April2026/sMB8kdRAdpxwWUUFk7dQ.png",
+        "contact_info": null
+      },
+      {
+        "name": "Club de Musique",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/May2022/CJ8VDUzbGFhF8hLWmyNs.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Club d'Arts Plastiques Bio Arts",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/March2023/bE2E5cbX0SXXLg0YfeTP.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Club de Préparation à la Réussite",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/March2023/SDldceheMLUaMvdidxNs.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association sportive de l’ISBM",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association Tunisienne des Étudiants en Biotechnologie (ATEB)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association Tunisienne de Psycho-Neuro-Endocrino-Immunologie (AT-PNEI)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association Tunisienne de Valorisation des Bioressources (ATVAB)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association Tunisienne d'Ecotoxicologie et d'Ecophysiologie (ATEE)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Club d'Arts Plastiques Bio Arts",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Club de Préparation à la Réussite",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Ecole Doctorale",
+      "thèse de doctorat"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isbm.rnu.tn/",
+    "source_name": "institut_superieur_de_biotechnologie_de_monastir"
+  }
+]

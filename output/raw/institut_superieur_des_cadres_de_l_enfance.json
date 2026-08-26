@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Institut Supérieur des Cadres de l'Enfance",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Cadres de l’Enfance",
+    "logo_url": "http://www.iscenf.rnu.tn/wp-content/uploads/2021/10/university_logo.png",
+    "cover_image_url": null,
+    "website": "http://www.iscenf.rnu.tn/",
+    "email": "iscenf@gmail.com",
+    "phone": "(216) 71.730.436",
+    "location": {
+      "address": "26, Rue Taib M’hiri",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Galerie"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.iscenf.rnu.tn/",
+    "source_name": "institut_superieur_des_cadres_de_l_enfance"
+  }
+]

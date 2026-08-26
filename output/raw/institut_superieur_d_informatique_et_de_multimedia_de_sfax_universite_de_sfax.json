@@ -1,0 +1,100 @@
+[
+  {
+    "name": "ISIMSF",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'Informatique et de Multimédia de Sfax",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isimsf.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Nouveautés",
+        "description": null,
+        "logo_url": "http://www.isimsf.rnu.tn/fra/pages/44/useruploads/images/img_banner/presentation.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "L'institut",
+        "description": null,
+        "logo_url": "http://www.isimsf.rnu.tn/fra/pages/44/useruploads/images/img_banner/presentation.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation et Recherche",
+        "description": null,
+        "logo_url": "http://www.isimsf.rnu.tn/fra/pages/44/useruploads/images/img_banner/presentation.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "description": null,
+        "logo_url": "http://www.isimsf.rnu.tn/fra/pages/44/useruploads/images/img_banner/presentation.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Appels d'offre et consultations",
+        "description": null,
+        "logo_url": "http://www.isimsf.rnu.tn/fra/pages/44/useruploads/images/img_banner/presentation.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Espace entreprise",
+        "description": null,
+        "logo_url": "http://www.isimsf.rnu.tn/fra/pages/44/useruploads/images/img_banner/presentation.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L'institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation et Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appels d'offre et consultations",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Espace entreprise",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Clubs de l'institut",
+      "Plan de l’institut"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isimsf.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_et_de_multimedia_de_sfax_universite_de_sfax"
+  }
+]

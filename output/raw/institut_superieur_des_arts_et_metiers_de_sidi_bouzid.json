@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Sidi Bouzid",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'Arts et Métiers de Sidi Bouzid",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isamsb.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/liste.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Les clubs:",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/liste.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isamsb.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_et_metiers_de_sidi_bouzid"
+  }
+]

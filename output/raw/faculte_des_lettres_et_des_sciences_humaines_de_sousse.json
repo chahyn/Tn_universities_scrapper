@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Faculté des Lettres et des Sciences Humaines de Sousse",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "https://fls.rnu.tn/public/theme/img/logo/ministere.png",
+    "cover_image_url": null,
+    "website": "http://www.fls.rnu.tn/",
+    "email": "flsh.sousse@fls.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Cité Erriadh 4023 Sousse B-P 547",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "دعوة للمشاركة في ندوة دوليّة العيش والسّكن في الفضاء المتوسّطي: الممارسات والتمثلّات والبيئة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L'Approche par Compétence(APC) dans l'Enseignement Supérieur: Défis et Perspectives",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الملتقى الدولي: الجهات والتراث الثقافي غير المادي الديناميات والآفاق",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Journée d'information HORIZON EUROPE: Sciences Sociales et Humaines",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "حفل توقيع كتاب \"سجاح نبية عربية مسيحية في القرن السابع الميلادي\"",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Conférence sur la cyberviolence fondée sur le genre",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Présentation du livre du Professeur Nabil Kallala",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "La cartographie à l'ère de l'intelligence artificielle",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "EUROMEDMIG PHD Network ANNUAL CONFERENCE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الندوة العلميّة الدوليّة المعرفي والأخلاقي",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Acitivités",
+      "Inscription",
+      "Thèses soutenues"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fls.rnu.tn/",
+    "source_name": "faculte_des_lettres_et_des_sciences_humaines_de_sousse"
+  }
+]

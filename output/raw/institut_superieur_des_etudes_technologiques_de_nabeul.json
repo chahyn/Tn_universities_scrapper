@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ISETN",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Technologiques de Nabeul",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetn.rnu.tn/",
+    "email": null,
+    "phone": "+216 72 220 051",
+    "location": {
+      "address": "Campus Universitaire Mrezgua - 8000 nabeul",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetn.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_nabeul"
+  }
+]

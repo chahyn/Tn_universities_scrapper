@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Université Centrale",
+    "type": "PRIVATE",
+    "description": "Université Centrale: la 1ère université privée en Tunisie",
+    "logo_url": "http://www.universitecentrale.net/logo.svg",
+    "cover_image_url": null,
+    "website": "http://www.universitecentrale.net/",
+    "email": "ucginfo@universitecentrale.net",
+    "phone": "(+216) 71 79 66 79",
+    "location": {
+      "address": "16 Rue IBN TAFRAJINE, TUNIS, 1002 Tunis Tél. : (+216) 71 79 66 79 Fax : (+216) 71 79 35 58 / (+216) 71 79 37 02 Adresse email : ucginfo@universitecent",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "DÉCOUVREZ LE STUDENT LIFE À L'UNIVERSITÉ CENTRALE",
+        "description": null,
+        "logo_url": "http://www.universitecentrale.net/logo.svg",
+        "contact_info": null
+      },
+      {
+        "name": "CLUBS ET ASSOCIATIONS UNIVERSITAIRES",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/Whats_App_Image_2025_01_20_a_16_48_34_a76213f8_506fdfaa43.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "LA COMMUNAUTÉ SPORTIVE",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/88110540_2454236504839947_5370955014233653248_n_e0d5aca1f3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "BUREAU STUDENT LIFE",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/88110540_2454236504839947_5370955014233653248_n_e0d5aca1f3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Sport",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/1714160275904_38ffb71726.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Développement Personnel et Carrière",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/Z7_A0456_aec394f81f.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Entrepreneuriat et Technologie",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/Z7_A0412_16331ef03a.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Engagement Communautaire et Social",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/88110540_2454236504839947_5370955014233653248_n_e0d5aca1f3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Artistique, Culturel et Événementiel",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/Whats_App_Image_2022_07_07_at_09_06_02_1d46b5f966.jpeg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "L’École de Santé première École Paramédicale en Afrique accréditée par l’ACESI",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Nouvelle alliance stratégique : Université Centrale, Garde Nationale et Protection Civile",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Une nouvelle dimension pour l’excellence académique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L'École POLYTECH confirme son excellence académique avec l'obtention de l'accréditation européenne EUR-ACE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "l'Université Centrale École de Santé renforce son rayonnement international",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Partenariat pour un avenir meilleur : L'Université Centrale & SOS Villages d'Enfants",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Octobre Rose, journée de sensibilisation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L’équipe féminine de l’Université Centrale remporte la victoire en finale nationale de volleyball",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Le lancement officiel du Centre de Recherche et d'Innovation Collaborative du Groupe Université Centrale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Business School",
+      "Lire",
+      "École Business",
+      "École IT",
+      "École Polytechnique",
+      "École de Communication et de Design",
+      "École de Droit",
+      "École de Santé"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.universitecentrale.net/",
+    "source_name": "ecole_centrale_superieure_privee_des_sciences_paramedicales_et_de_la_sante_tunis"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "CCK",
+    "type": "PUBLIC",
+    "description": "Fournisseur de services Internet pour l'ensemble des établissements, agences et administrations relevant du Ministère de l'enseignement Supérieur et de la Recherche Scientifique en Tunisie.",
+    "logo_url": "http://www.fdseps.rnu.tn/images/logo_cck.gif",
+    "cover_image_url": null,
+    "website": "http://www.fdseps.rnu.tn/",
+    "email": "heberg@cck.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.fdseps.rnu.tn/",
+    "source_name": "faculte_de_droit_et_des_sciences_economiques_et_politiques_de_sousse_universite_de_sousse"
+  }
+]

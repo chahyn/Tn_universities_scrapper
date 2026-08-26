@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Kef",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Technologiques du Kef",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetkf.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": "Campus Universitaire - Boulifa - 7100 Le Kef.",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isetkf.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_kef"
+  }
+]

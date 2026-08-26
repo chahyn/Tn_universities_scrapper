@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Institut Supérieur des Langues de Tunis",
+    "type": "PUBLIC",
+    "description": "L’Institut Supérieur des Langues de Tunis (l’ISLT) fondé en 1999 à la Cité El-Khadhra a été en fait créé en 1964 sous le nom de l’Institut Bourguiba des Langues vivantes. C’est un établissement public faisant partie de l’Université de Carthage qui assure depuis 1976 une formation universitaire en langues et traduction sous la tutelle du Ministère de l’Enseignement Supérieur et de la Recherche Scientifique.",
+    "logo_url": "http://www.islt.rnu.tn/wp-content/uploads/2020/09/logo-islt-blanc-1.png",
+    "cover_image_url": null,
+    "website": "http://www.islt.rnu.tn/",
+    "email": null,
+    "phone": "(+216) 71 805 760\n\n(",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "http://www.islt.rnu.tn/wp-content/uploads/2020/09/logo-islt-blanc-1.png",
+        "contact_info": null
+      },
+      {
+        "name": "Présentation des clubs et associations à l’ISLT",
+        "description": null,
+        "logo_url": "http://www.islt.rnu.tn/wp-content/uploads/2020/09/logo-islt-blanc-1.png",
+        "contact_info": null
+      },
+      {
+        "name": "Charte des clubs et des associations",
+        "description": null,
+        "logo_url": "http://www.islt.rnu.tn/wp-content/uploads/2020/09/logo-islt-blanc-1.png",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Conseil Scientifique",
+      "Documents utiles",
+      "Galerie photos",
+      "Institut Confucius",
+      "Liens utiles",
+      "Présentation de l’institut",
+      "conseil de discipline",
+      "en savoir plus"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.islt.rnu.tn/",
+    "source_name": "institut_superieur_des_langues_de_tunis"
+  }
+]

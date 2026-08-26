@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ecole Supérieure des Sciences et Techniques de Tunis",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.esstt.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.esstt.rnu.tn/",
+    "source_name": "ecole_superieure_des_sciences_et_techniques_de_tunis"
+  }
+]

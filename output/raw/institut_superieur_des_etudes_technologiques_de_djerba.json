@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Djerba",
+    "type": "PUBLIC",
+    "description": "L'ISET de Djerba (Tunisie) est un institut supérieur qui assure une formation supérieure technologique en génie mécanique, technologies de l'informatique, génie électrique, sciences économiques et gestion, administration des affaires, webmastering et référencement, hôtellerie et tourisme, mécatronique automobile",
+    "logo_url": "http://www.isetjb.rnu.tn/images/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.isetjb.rnu.tn/",
+    "email": "isetjb@gmail.com",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Grands principes de la réforme LMD",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Objectifs de la Réforme LMD",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Pour en savoir d'avantages sur la Réforme LMD",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "25 instituts supérieurs des études technologiques",
+      "Cadres Administratifs",
+      "Contact",
+      "Infrastructure",
+      "Mejdi BLAGHGI",
+      "Projet de l'établissement",
+      "Présentation",
+      "Réseau des ISET"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetjb.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_djerba"
+  }
+]

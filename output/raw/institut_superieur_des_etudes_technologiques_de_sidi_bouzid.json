@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ISETSBZ",
+    "type": "PUBLIC",
+    "description": "L’institut supérieur des Etudes Technologique de sidi Bouzid a été crée le 04 Aout 2003 selon le décret n°1664-2003, portant création des Instituts supérieurs des Etudes Technologique, dan le cadre de l’adaptation des formations  aux exigences du développement économique, social et culturel.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetsbz.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": "Route du campus sportif – BP 377 – 9100 Sidi Bouzid",
+      "city": "Sidi Bouzid"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetsbz.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_sidi_bouzid"
+  }
+]

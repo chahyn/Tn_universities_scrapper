@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Institut Supérieur d 'Administration des Entreprises de Gafsa",
+    "type": "PUBLIC",
+    "description": "Découvrez l’Institut Supérieur d’Administration des Entreprises, un établissement d’excellence de l’Université de Gafsa offrant des formations de pointe en économie, gestion et informatique de gestion. Rejoignez nos programmes de licence et de mastère, incluant des spécialisations professionnelles en comptabilité, contrôle et audit (CCA), création et management des PME (CMPME) et Data Sciences (DS), ainsi que des programmes de recherche avancés en monnaie, finance et développement (MFD) et en finance. Préparez-vous à devenir les leaders de demain dans un monde en constante évolution.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isaeg.rnu.tn/",
+    "email": "webmaster@isaeg.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Rue Houssine ben Kaddour Sidi Ahmed Zarroug  - 2112  Gafsa",
+      "city": "Gafsa"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.isaeg.rnu.tn/fra/pages/299/useruploads/images/img_banner/inscription-3.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Certification ISO 9001",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Certification ISO 21001",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Les 13 principes RSE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Code de conduite de l'ISEAG",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères professionnels",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères de Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation à distance",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isaeg.rnu.tn/",
+    "source_name": "institut_superieur_d_administration_des_entreprises_de_gafsa"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur d'Informatique de Medenine",
+    "type": "PUBLIC",
+    "description": "ISIMed est un établissement Universitaire  rattaché à l'université de Gabes. Il est créé par le décret n°1587 du 06 juin 2006.",
+    "logo_url": "http://www.isim.rnu.tn/web/images/logo100.webp",
+    "cover_image_url": null,
+    "website": "http://www.isim.rnu.tn/",
+    "email": "isim@isim.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isim.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_de_medenine"
+  }
+]

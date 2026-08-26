@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Université de Tunis Institut Supérieur de Musique de Tunis – Université de Tunis",
+    "type": "PUBLIC",
+    "description": "Présentation de l’ISM de Tunis L’Institut Supérieur de Musique de Tunis a été créé en 1982. Le décret n°",
+    "logo_url": "https://ismt.rnu.tn/wp-content/uploads/2026/05/ismtlogoFR.jpg",
+    "cover_image_url": null,
+    "website": "http://www.ismt.rnu.tn/",
+    "email": "contact@ismt.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ismt.rnu.tn/",
+    "source_name": "institut_superieur_de_musique_universite_de_tunis"
+  }
+]

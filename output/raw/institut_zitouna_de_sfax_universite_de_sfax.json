@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Accueil",
+    "type": "PUBLIC",
+    "description": "\"Journal of Arid Arboriculture and Olive Growing\"(JAAOG) est une revue semestrielle spécialisée, éditée par l'Institut de l'Olivier. JAAOG est la version renouvelée de l'ancienne revue Ezzaitouna, publiée pour la première fois en 1994. Cette revue publie des articles originaux concernant l'olivier et l'arboriculture fruitière dans les zones arides.",
+    "logo_url": "http://www.iosfax.agrinet.tn/images/logofr2.png",
+    "cover_image_url": null,
+    "website": "http://www.iosfax.agrinet.tn/",
+    "email": "bo.iosfax@iresa.agrinet.tn",
+    "phone": "(+216) 74 241 240",
+    "location": {
+      "address": "Institut de l'Olivier Sfax, Route de l’Aéroport, B.P. 1087 3000 Sfax",
+      "city": "Sfax"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Actualités (237)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour le recrutement...",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Visite de la présidente de l'Institutio...",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour le recrutement d'un ingénieur en agronomie",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Prolongation  de la Consultation N° 02/2026 pour la sélection d’un(e) consultant(e) jusqu'au 10/07/2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Prolongation de la consultation N° 01/2026 pour la sélection d’un(e) consultant(e) externe jusqu'au 10/07/2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "SMA MED  FOOD 2026 الصالون المتوسطي للفلاحة والصناعات الغذائي",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour le recrutement d'un Chercheur Post- doc",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour le recrutement  technicien en physique générale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour le recrutement  technicien/technicienne en analyse chimique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Webinaire SustInAfrica",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "آفات و أمراض الرمان",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "دلــــــيل غراســــــة الزيتون بمطــــــماطــة الجــديــــــــدة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "وثيقة فنية : تأثير مزج أصناف مختلفة من الزيتون  على خاصيات الزيت",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Projet RAIA (Responsable Agro Investment in Agriculture)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Catégories",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Localisez-nous",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Contactez nous",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Visite de la présidente de l'Institution de la Recherche et de l'Enseignement Supérieur Agricoles à l'Institut de l'Olivier"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.iosfax.agrinet.tn/",
+    "source_name": "institut_zitouna_de_sfax_universite_de_sfax"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "ISAMS",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Arts et Métiers de Sfax",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isams.rnu.tn/",
+    "email": null,
+    "phone": "+216 74 29 95 93",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "بلاغ إيداع مذكرات ماجستير البحث",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "َAvis de dépôt",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Autorisation de dépôt de Mémoire de Mastère de Recherche AP Version en Arable",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Listes finales des orientations des étudiants de 2ème année - Licence en Design ProduitAnnée universitaire 2026/2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Spécialités:Création Industrielle,Habillement (Stylisme / Modélisme)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isams.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_et_metiers_de_sfax_universite_de_sfax"
+  }
+]

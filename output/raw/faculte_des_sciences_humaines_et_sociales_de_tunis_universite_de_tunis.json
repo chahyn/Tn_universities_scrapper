@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Faculté des Sciences Humaines et Sociales de Tunis",
+    "type": "PUBLIC",
+    "description": "ACTUELLEMENT Liste des candidats acceptés pour les contrats de recherche (postdoc) 17 février 2026 Résultats – Licence, Semestre 1 – Année universitaire 2025‑2026 16 février 2026 Résultats – Master 1, Semestre 1 – Année universitaire 2025‑2026 16 février 2026 Avis public Contrat Master de Recherche dans le cadre d’un Projet …",
+    "logo_url": "https://www.fshst.rnu.tn/wp-content/uploads/2024/02/logo-menu-1.png",
+    "cover_image_url": null,
+    "website": "http://www.fshst.rnu.tn/",
+    "email": "%20fshst@fshst.rnu.tn",
+    "phone": "%20216%2071%20560%20840",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Licence",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Master de recherche",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Master Professionnel",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Doctorat",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Agrégation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Degré de langue",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Avis d’inscription pour l’année universitaire 2026-2027 (Master)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis d’inscription pour l’année universitaire 2026-2027 (Licence)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "LISTES DES CANDIDATS PRÉSÉLECTIONNÉS AUX MASTERS 2026/2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis concernant la réintégration au titre de l’année universitaire 2026/2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis aux étudiants diplômés de l’année universitaire 2025-2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis de remise des relevés de notes et des attestations de réussite – Année universitaire 2025-2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis aux étudiants diplômés de la session de rattrapage de l’année universitaire 2025-2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis aux étudiants diplômés – Session principale 2025-2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à communications du colloque interdisciplinaire intitulé :« Trauma, exil et parole féminine palestinienne »",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à communication – colloque international « Eau chaude et thermalisme en Tunisie de l’Antiquité à nos jours »",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Ecole Doctorale",
+      "Ecole doctorale"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fshst.rnu.tn/",
+    "source_name": "faculte_des_sciences_humaines_et_sociales_de_tunis_universite_de_tunis"
+  }
+]

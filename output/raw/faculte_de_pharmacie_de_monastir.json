@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Faculté de Pharmacie de Monastir",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.fphm.rnu.tn/storage/sponsors/logos/UrlKjbSD8Td5ru38t9rMB0M1iXM1mGkVbKza73y5.jpg",
+    "cover_image_url": null,
+    "website": "http://www.fphm.rnu.tn/",
+    "email": "mail@fphm.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Associations",
+        "description": null,
+        "logo_url": "https://fphm.rnu.tn/storage/banners/OMvUX5qkKaItsLczGXKpAf1rkEXeH9Y41evLh1rI.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "بلاغ ترسيم الطلبة للسنة الجامعية 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Note aux résidents - Bourse de stages 2026/2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste des candidats retenus et la liste d'attente / CEC Évaluation préclinique du médicament : pharmacologie,toxicologie et seuils de sécurité",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاع التمديد في أجل قبول الترشحات لماجستير البحث بيولوجيا طبية و تكنولوجيات الصحة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier des examens de la session de rattrapage – Mastère « Développement des médicaments » 2026 2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Soutenenance des mémoires du CEC MRP2S, session septembre 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats Mastère Session Principale 2025 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ الترشحات للماجستير المهني في الحوكمة و التجديد في الصحة 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Biologie Clinique A",
+      "Biologie Clinique B",
+      "Cellule d'écoute",
+      "Conseil scientifique",
+      "Enseignants",
+      "Historique",
+      "Lire la suite",
+      "Mot de la doyenne",
+      "Mot du doyen",
+      "Parcours et métiers",
+      "Projets",
+      "Rapports d'activités",
+      "Rencontre Institutionnelle Internationale",
+      "Règlement interne",
+      "Sciences pharmaceutiques A"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fphm.rnu.tn/",
+    "source_name": "faculte_de_pharmacie_de_monastir"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Institut Supérieur des Sciences Biologiques Appliquées",
+    "type": "PUBLIC",
+    "description": "République TunisienneMinistère de l’Enseignement Supérieuret de la Recherche Scientifique",
+    "logo_url": "https://issbat.rnu.tn/wp-content/uploads/2019/03/Version-Noir-1-585x295.png",
+    "cover_image_url": null,
+    "website": "http://www.issbat.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Accueil->  Clubs",
+        "description": null,
+        "logo_url": "http://issbat.clickerp.tn/wp-content/uploads/2019/06/log2.png",
+        "contact_info": null
+      },
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://issbat.clickerp.tn/wp-content/uploads/2019/06/log2.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Accueil->  événements",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Célébration du 20ème",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Participation de l’ISSBAT",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Convention ISSBAT-fondation BIAT",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "convention ISSBAT-EL SPACE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Journée Information-Cohésion-Integration",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.issbat.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_biologiques_appliquees"
+  }
+]

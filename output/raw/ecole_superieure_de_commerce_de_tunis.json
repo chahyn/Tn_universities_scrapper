@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ecole Supérieure de Commerce de Tunis",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.esct.rnu.tn/storage/sponsors/logos/sCcdKEQcb8M3E0snBqdtuMuOH7zWbcHXoiHWIE9m.jpg",
+    "cover_image_url": null,
+    "website": "http://www.esct.rnu.tn/",
+    "email": "communication@esct.uma.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Ateliers et formations",
+      "Commission en Sciences Economiques",
+      "Commission en Sciences de Gestion",
+      "Documents à télécharger",
+      "Evénements organisés",
+      "Formulaires d’inscription",
+      "Institutions d’enseignement partenaires",
+      "Journées Doctorales",
+      "Le directeur",
+      "Procédures d’inscription et de de dépôt"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.esct.rnu.tn/",
+    "source_name": "ecole_superieure_de_commerce_de_tunis"
+  }
+]

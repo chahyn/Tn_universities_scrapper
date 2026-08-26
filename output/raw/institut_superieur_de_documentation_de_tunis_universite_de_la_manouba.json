@@ -1,0 +1,252 @@
+[
+  {
+    "name": "ISD Manouba",
+    "type": "PUBLIC",
+    "description": "Découvrez à traverscette vidéol'Institut Supérieur de Documentation (ISD), un établissement d'excellence qui forme les professionnels de demain dans les domaines des sciences de l'information, de la documentation, des archives, de la gestion des connaissances et de la transformation numérique.",
+    "logo_url": "https://isd.rnu.tn/static/portail/img/logo-isd-manouba.png",
+    "cover_image_url": null,
+    "website": "http://www.isd.rnu.tn/",
+    "email": "isd@isd.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Intitulé",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Objectif général",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Objectifs spécifiques",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Acquis d’apprentissages du programme de formation (Learning Outcomes):",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Liste des métiers visés :",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Perspectives académiques :",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Perspectives à l'échelle internationale :",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Présentation du club",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/static/portail/img/logo-isd-manouba.png",
+        "contact_info": null
+      },
+      {
+        "name": "Responsables du club",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/storage/images/club/15705341146832829.jpeg",
+        "contact_info": null
+      },
+      {
+        "name": "Page Facebook",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/storage/images/club/15705341146832829.jpeg",
+        "contact_info": null
+      },
+      {
+        "name": "Événements",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/storage/images/club/15705341146832829.jpeg",
+        "contact_info": null
+      },
+      {
+        "name": "Atelier d’information sur le  Statut National de l’Étudiant Entrepreneur",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/storage/images/actualites/17595227523984131-image(693x389-crop).jpeg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation \"MANAGEMENT DE PROJETS et DESIGN THINKING\"",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/storage/images/actualites/17304046646386425-image(693x389-crop).jpeg",
+        "contact_info": null
+      },
+      {
+        "name": "Atelier de formation sur le \"design graphique\"",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/storage/images/actualites/16782826604436540-image(693x389-crop).jpeg",
+        "contact_info": null
+      },
+      {
+        "name": "Club Débat ISD",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/storage/images/club/15705341146832829.jpeg",
+        "contact_info": null
+      },
+      {
+        "name": "Club Infographie",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/storage/images/club/15752271862527965.png",
+        "contact_info": null
+      },
+      {
+        "name": "Club FUDOC",
+        "description": null,
+        "logo_url": "https://isd.rnu.tn/storage/images/club/15752274285727969.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "تهنئة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "تخرج الدفعة الأولى من حلقة التكوين المستمر للترقية إلى رتبة متصرف مستشار",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Découvrir l'Institut Supérieur de Documentation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "مشاركة المعهد العالي للتوثيق في الأيام الإعلامية الجهوية للتوجيه الجامعي",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Journée de sensibilisation à la démarche qualité",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "اليوم الدراسي: ثورة الذكاء الاصطناعي بين إحياء الثراث التونسي و متطلبات حمايته: التحديات القانونية و الأخلاقية",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "ندوة علمية حول الايداع القانوني للوثائق السمعية البصرية",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Retour en images sur l'atelier de restauration des documents patrimoniaux",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Retour en images sur la participation de l'ISD au Networking Day 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Journée d’étude sur la science ouverte",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Retour en image sur la 2ème journée des jeudis de la recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Découvrez notre programme d’activités pour avril 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Retour en images sur la 1ère rencontre des \"Jeudis de la recherche\"",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "1er prix du Hackathon Green UMA",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "مناقشة اطروحة دكتوراه للطالب رامي الهنداوي",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Retour en images sur le forum des juniors de l'ISD- 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "عودة بالصور حول الملتقى \"الإعلام وعلم المكتبات : دور المكتبات في تعزيز الثقافة الإعلامية لمناهضة العنف ضد المرأة\"",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "مناقشة أول أطروحة دكتوراه في علم المعلومات بالمعهد العالي للتوثيق",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "archive.org دورة تدريبية بعنوان رحلة مهنية لاكتشاف كنوز موقع",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Retour en images sur la journée : Mémoire de l'ISD",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Découvrir l'Institut Supérieur de Documentation",
+      "Ecole doctorale",
+      "Lire la suite"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isd.rnu.tn/",
+    "source_name": "institut_superieur_de_documentation_de_tunis_universite_de_la_manouba"
+  }
+]

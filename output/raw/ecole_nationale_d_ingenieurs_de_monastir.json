@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Monastir",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.enim.rnu.tn/storage/sponsors/logos/irBeI6zjncTrTdM82wDhwrQ2x1bhc1MoIjjpsT6g.jpg",
+    "cover_image_url": null,
+    "website": "http://www.enim.rnu.tn/",
+    "email": "enim@enim.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Association AIDI :",
+        "description": null,
+        "logo_url": "https://enim.rnu.tn/userfiles/images/aidi.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Association D’intégration et de développement des ingénieurs",
+        "description": null,
+        "logo_url": "https://enim.rnu.tn/userfiles/images/aidi.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Calendrier Académique",
+      "Conditions de dépôt d’une thèse",
+      "Conseil scientifique",
+      "Ecole Doctorale",
+      "Evolution des Diplômées de Doctorat",
+      "Guide de l’élève-ingénieur",
+      "Inscription",
+      "L’ENIM en chiffre",
+      "Mot du directeur",
+      "Rapports d'activités"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.enim.rnu.tn/",
+    "source_name": "ecole_nationale_d_ingenieurs_de_monastir"
+  }
+]

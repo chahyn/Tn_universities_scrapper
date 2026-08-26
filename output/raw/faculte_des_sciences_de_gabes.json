@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Faculté des Sciences de Gabès",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.fsg.rnu.tn/storage/sponsors/logos/wpg8BG12hs5pQUO7kGWx7McdvFjtlFr9KGguuWWV.jpg",
+    "cover_image_url": null,
+    "website": "http://www.fsg.rnu.tn/",
+    "email": "mail@fsg.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "https://fsg.rnu.tn/storage/menu/NRVMFVAsqu81F41EoRzqL1qEb7aUa7gxIik5R0bp.png",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "A propos de la FSG",
+      "Conseil scientifique",
+      "Ecole Doctorale Sciences Exactes & Naturelles",
+      "Observatoire",
+      "Services administratifs",
+      "Vision et Mission"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsg.rnu.tn/",
+    "source_name": "faculte_des_sciences_de_gabes"
+  }
+]

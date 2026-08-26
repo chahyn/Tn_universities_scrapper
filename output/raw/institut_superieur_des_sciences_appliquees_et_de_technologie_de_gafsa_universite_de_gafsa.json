@@ -1,0 +1,121 @@
+[
+  {
+    "name": "ISSATGF",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Sciences Appliquées et de Technologies de Gafsa",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.issatgf.rnu.tn/",
+    "email": "webmaster@issatgf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Campus Universitaire Sidi Ahmed Zarrouk - 2112 Gafsa T.: 76 21 15 15 F.: 76 21 19 85 Email: webmaster@issatgf.rnu.tn Obtenir la localisation Envoyer u",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Nouveautés",
+        "description": null,
+        "logo_url": "http://www.issatgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Institut",
+        "description": null,
+        "logo_url": "http://www.issatgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "DOCUMENTS",
+        "description": null,
+        "logo_url": "http://www.issatgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Qualité",
+        "description": null,
+        "logo_url": "http://www.issatgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "http://www.issatgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "description": null,
+        "logo_url": "http://www.issatgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Coopération",
+        "description": null,
+        "logo_url": "http://www.issatgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Espace Entreprise",
+        "description": null,
+        "logo_url": "http://www.issatgf.rnu.tn/useruploads/images/img_banner/news.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "DOCUMENTS",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Qualité",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Coopération",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Espace Entreprise",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.issatgf.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_appliquees_et_de_technologie_de_gafsa_universite_de_gafsa"
+  }
+]

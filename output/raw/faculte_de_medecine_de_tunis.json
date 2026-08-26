@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Faculté de Médecine de Tunis",
+    "type": "PUBLIC",
+    "description": "La faculté de médecine de Tunis ou FMT est un établissement universitaire tunisien relevant depuis 2000 de l'université de Tunis - El Manar. Fondée en octobre 1964.",
+    "logo_url": "https://fmt.rnu.tn/wp-content/uploads/2019/02/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.fmt.rnu.tn/",
+    "email": null,
+    "phone": "(216) 71 56 37 09",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Publications de la Faculté de Médecine de Tunis (en cours)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Masterclass : PERFECTIONNEMENT DE LA PRISE EN CHARGE PAR DES FIXATEURS EXTERNES EN CHIRURGIE ORTHOPÉDIQUE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastère Professionnel « Prise en charge des pathologies neurovasculaires »",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Demande de dérogation pour l’inscription à l’année universitaire 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastère de recherche : One Health",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Note aux candidats retenus au 2ème tour dans les CEC et DIU",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription universitaire 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Forum des Spécialités",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Préinscription au mastère de Biologie Humaine Appliquée à la Santé (Année universitaire: 2026/2027)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Préparation à l’examen d’accès au 3ème cycle des études médicales",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Prix Harvard : Dr Samarra Badrouchi",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "EPU : Réparation des pertes de substance de la face par lambeaux loco-régionaux",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "EPU : Les urgences thoraciques chirurgicales",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "EPU : Prise en charge des corps étrangers des voies aérodigestives supérieures",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Communication et accessibilité aux savoirs via les nouvelles technologies",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Préinscription aux CEC   : 2ème tour",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription au Mastère NEUROSCIENCES & BIOTECHNOLOGY",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "1ère Journée de Chirurgie Pédiatrique de Zaghouan",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Masterclass : Trouble d’usage des substances psychoactives en milieu de travail",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Masterclass : Documentation médico-légale de la torture et des mauvais traitements",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "EPU : Fièvres parasitaires : du diagnostic biologique à la prise en charge",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Français"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fmt.rnu.tn/",
+    "source_name": "faculte_de_medecine_de_tunis"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "ISSHJ",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Sciences Humaines de Jendouba",
+    "logo_url": "http://www.isshj.rnu.tn/images/logo_footer.png",
+    "cover_image_url": null,
+    "website": "http://www.isshj.rnu.tn/",
+    "email": "contact.isshjendouba@isshj.u-jendouba.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Anglais",
+      "Appels d’offres et consultations",
+      "Archives des annonces",
+      "Brève description des locaux",
+      "Calendrier Universitaire",
+      "Calendrier des événements",
+      "Education et Enseignements",
+      "Français",
+      "Galerie photos & vidéos",
+      "Géographie",
+      "Histoire",
+      "Historique",
+      "Manifestations",
+      "Missions et objectifs",
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isshj.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_humaines_de_jendouba_universite_de_jendouba"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "UJ",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.uj.rnu.tn/storage/sponsors/logos/8pHon8e82bfWPdLpPKw9F2rfzVxFs1wc44m0Xfnz.png",
+    "cover_image_url": null,
+    "website": "http://www.uj.rnu.tn/",
+    "email": "contact@uj.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Description",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Cycle de formations en partenariat avec l'Ecole Nationale d'Administration – ENA",
+      "ESAK",
+      "ESIM",
+      "Ecole doctorale",
+      "FSJEGJ",
+      "INTEK",
+      "ISAMS",
+      "ISBB",
+      "ISEAHK",
+      "ISIKEF",
+      "ISLAIB",
+      "ISMTK",
+      "ISPT",
+      "ISSEPK",
+      "ISSHJ"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.uj.rnu.tn/",
+    "source_name": "universite_de_jendouba"
+  }
+]

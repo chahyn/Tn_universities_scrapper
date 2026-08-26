@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Institut Supérieur des Sciences et Techniques des Eaux de Gabès",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "https://isstegb.rnu.tn/wp-content/uploads/2022/04/acdd-logo-150x150.png",
+    "cover_image_url": null,
+    "website": "http://www.isstegb.rnu.tn/",
+    "email": "isstegb@isstegb.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Take a break and read all about it",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Institut Supèrieur des Sciences et Techniques des Eaux de Gabès",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Appel à candidatures aux mastères de l’Institut Supérieur des Sciences et Techniques des Eaux de Gabès pour l’Année Universitaire 2026-2027",
+      "Lire la suite »"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isstegb.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_et_techniques_des_eaux_de_gabes"
+  }
+]

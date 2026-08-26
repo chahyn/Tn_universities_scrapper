@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Siliana",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Arts et Métiers de Siliana",
+    "logo_url": "http://www.isamsl.rnu.tn/images/logo-footer.png",
+    "cover_image_url": null,
+    "website": "http://www.isamsl.rnu.tn/",
+    "email": "contact@isamsl.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "clubs",
+        "description": null,
+        "logo_url": "https://www.isamsl.rnu.tn/storage/menu/2Lex7cbBxSpwXg9H9D2SR3oKZ3EIVdRvHrQFTUHh.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Back to School Party",
+      "Calendrier pédagogique",
+      "Commissions",
+      "Conseil scientifique",
+      "Direction des études et des stages",
+      "Enseignants",
+      "Galerie photos",
+      "Galerie photos & vidéos",
+      "Lire la suite",
+      "Loi de création",
+      "Service examen",
+      "Service stage et PFE",
+      "le staff administratif"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isamsl.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_et_metiers_de_siliana"
+  }
+]

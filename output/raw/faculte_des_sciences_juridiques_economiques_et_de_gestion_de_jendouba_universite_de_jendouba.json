@@ -1,0 +1,37 @@
+[
+  {
+    "name": "FSJEGJ",
+    "type": "PUBLIC",
+    "description": "Faculté des Sciences Juridiques Economiques et de gestion de Jendouba",
+    "logo_url": "http://www.fsjegj.rnu.tn/images/logo_footer.svg",
+    "cover_image_url": null,
+    "website": "http://www.fsjegj.rnu.tn/",
+    "email": "fsjegj@fsjegj.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Conseil scientifique",
+      "Droit privé",
+      "Droit public",
+      "Département d’informatique",
+      "Ecole doctorale",
+      "Enseignants",
+      "Galerie photos & vidéos",
+      "Mot du doyen",
+      "Organigramme",
+      "Présentation",
+      "Sciences de Gestion",
+      "Sciences économiques",
+      "Statistiques"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsjegj.rnu.tn/",
+    "source_name": "faculte_des_sciences_juridiques_economiques_et_de_gestion_de_jendouba_universite_de_jendouba"
+  }
+]

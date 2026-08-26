@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ISMM is under construction",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de la Mode de Monastir",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.ismmm.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ismmm.rnu.tn/",
+    "source_name": "institut_superieur_des_metiers_de_la_mode_de_monastir_universite_de_monastir"
+  }
+]

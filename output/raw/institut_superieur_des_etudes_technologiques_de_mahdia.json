@@ -1,0 +1,97 @@
+[
+  {
+    "name": "ISETMA",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Technologiques de Mahdia",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetma.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Nouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "ISETMA",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Coopération",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Entreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Nouveautés",
+        "description": null,
+        "logo_url": "http://www.isetma.rnu.tn/useruploads/images/img-banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "ISETMA",
+        "description": null,
+        "logo_url": "http://www.isetma.rnu.tn/useruploads/images/img-banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "http://www.isetma.rnu.tn/useruploads/images/img-banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Coopération",
+        "description": null,
+        "logo_url": "http://www.isetma.rnu.tn/useruploads/images/img-banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Estudiantine",
+        "description": null,
+        "logo_url": "http://www.isetma.rnu.tn/useruploads/images/img-banner/news.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Entreprise",
+        "description": null,
+        "logo_url": "http://www.isetma.rnu.tn/useruploads/images/img-banner/news.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isetma.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_mahdia"
+  }
+]

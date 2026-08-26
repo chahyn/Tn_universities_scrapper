@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur des Langues Appliquées et d'Informatique de Béja",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.islaib.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.islaib.rnu.tn/",
+    "source_name": "institut_superieur_des_langues_appliquees_et_d_informatique_de_beja"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Gabès",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.enig.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et Associations",
+        "description": null,
+        "logo_url": "http://www.enig.rnu.tn/useruploads/images/img-banner/bruini.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Formations d'Ingénieurs",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Habilitation Universitaire",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastère de recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Laboratoires de recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Unités de Service Commun",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Offre de stage/PFE/Emploi",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.enig.rnu.tn/",
+    "source_name": "ecole_nationale_d_ingenieurs_de_gabes"
+  }
+]

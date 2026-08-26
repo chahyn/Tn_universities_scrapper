@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Université EL AMED",
+    "type": "PRIVATE",
+    "description": "Je tiens à souligner le travail, le dévouement et l'implication\n                                      des professeurs qui ont été, des collaborateurs précieux. \nJe tiens à leur souhaiter de poursuivre une carrière de plus en plus enrichissante.",
+    "logo_url": "http://www.universite-amed.com/images/LOGO-AMED.png",
+    "cover_image_url": null,
+    "website": "http://www.universite-amed.com/",
+    "email": "contact@universite-amed.com",
+    "phone": "(+216) 73 820 800  -",
+    "location": {
+      "address": "03 Avenue de La Poste, Sahloul 4054 Sousse",
+      "city": "Sousse"
+    },
+    "programs": [
+      {
+        "name": "BTP",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation continue",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Notre objectif",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Pourquoi choisir el AMED",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "BTS",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "PRÉPARATEUR EN PHARMACI",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "COMPTABILITÉ ET FINANCE",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "COMPTABLE D’ENTREPRISE",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Contactez-nous",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Groupe Amed",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Resources",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Newsletter",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Search",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.universite-amed.com/",
+    "source_name": "institut_superieur_prive_des_sciences_infirmieres_el_amed_sousse"
+  }
+]

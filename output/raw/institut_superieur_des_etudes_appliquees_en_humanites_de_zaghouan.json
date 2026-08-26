@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Institut Supérieur des Études Appliquées en Humanités de Zaghouan",
+    "type": "PUBLIC",
+    "description": "Contacter nous : 72660290\r\n                             -                                 Email : contact@iseahz.rnu.tn",
+    "logo_url": "https://iseahz.rnu.tn/storage/app/public/coordinates/June2025/dMwWEugYR0tDwZPzvquw.png",
+    "cover_image_url": null,
+    "website": "http://www.iseahz.rnu.tn/",
+    "email": "contact@iseahz.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "https://iseahz.rnu.tn/storage/app/public/coordinates/June2025/dMwWEugYR0tDwZPzvquw.png",
+        "contact_info": null
+      },
+      {
+        "name": "Club Elite Counsil iseahz Entourage",
+        "description": null,
+        "logo_url": "https://iseahz.rnu.tn/storage/app/public/default-covers/April2026/QAgodbqrXyuomuXy3MKL.png ",
+        "contact_info": null
+      },
+      {
+        "name": "Club Art SPACE",
+        "description": null,
+        "logo_url": "https://iseahz.rnu.tn/storage/app/public/default-covers/April2026/QAgodbqrXyuomuXy3MKL.png ",
+        "contact_info": null
+      },
+      {
+        "name": "Club de l’Environnement",
+        "description": null,
+        "logo_url": "https://iseahz.rnu.tn/storage/app/public/default-covers/April2026/QAgodbqrXyuomuXy3MKL.png ",
+        "contact_info": null
+      },
+      {
+        "name": "Club Peinture",
+        "description": null,
+        "logo_url": "https://iseahz.rnu.tn/storage/app/public/default-covers/April2026/QAgodbqrXyuomuXy3MKL.png ",
+        "contact_info": null
+      },
+      {
+        "name": "Club Cinéma",
+        "description": null,
+        "logo_url": "https://iseahz.rnu.tn/storage/app/public/default-covers/April2026/QAgodbqrXyuomuXy3MKL.png ",
+        "contact_info": null
+      },
+      {
+        "name": "Club Danse",
+        "description": null,
+        "logo_url": "https://iseahz.rnu.tn/storage/app/public/default-covers/April2026/QAgodbqrXyuomuXy3MKL.png ",
+        "contact_info": null
+      },
+      {
+        "name": "Club Lecture",
+        "description": null,
+        "logo_url": "https://iseahz.rnu.tn/storage/app/public/default-covers/April2026/QAgodbqrXyuomuXy3MKL.png ",
+        "contact_info": null
+      },
+      {
+        "name": "Club Radio",
+        "description": null,
+        "logo_url": "https://iseahz.rnu.tn/storage/app/public/organisms/July2025/ffNOtrtlPS7MGkA8PQBu.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Conseils & Commissions",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastère professionnel",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Aucune donnée disponible",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription auNewslettres?",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "A propos",
+      "L'Institut en quelques mots"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.iseahz.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_appliquees_en_humanites_de_zaghouan"
+  }
+]

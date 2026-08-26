@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Institut Sylvo-Pastoral de Tabarka",
+    "type": "PUBLIC",
+    "description": "L’Institut Sylvo-Pastoral de Tabarka qui a été créé par la loi des finances n° 66 en 1970 (article 39), organise actuellement deux cursus de formation qui durent 3 années universitaires dans les domaines de la foresterie et de l’écotourisme.",
+    "logo_url": "http://www.isptabarka.agrinet.tn/images/logofinal4.jpg",
+    "cover_image_url": null,
+    "website": "http://www.isptabarka.agrinet.tn/",
+    "email": "isptabarka@iresa.agrinet.tn",
+    "phone": "216 78.672.542",
+    "location": {
+      "address": "e: I.S.P. Tabarka BP.n°345 8110 Tabarka - Tunisie",
+      "city": "Tunisie"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "google maps"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isptabarka.agrinet.tn/",
+    "source_name": "institut_sylvo_pastoral_de_tabarka"
+  }
+]

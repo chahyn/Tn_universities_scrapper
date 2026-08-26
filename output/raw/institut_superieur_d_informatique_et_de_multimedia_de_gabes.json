@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Institut Supérieur d 'Informatique et de Multimédia de Gabès",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de l'Informatique et Multimédia de Gabès",
+    "logo_url": "http://www.isimg.rnu.tn/front2/images/isimglogo.png",
+    "cover_image_url": null,
+    "website": "http://www.isimg.rnu.tn/",
+    "email": "isimg@isimg.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Club IoT ISIMG",
+        "description": null,
+        "logo_url": "data:image/jpeg;base64,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",
+        "contact_info": null
+      },
+      {
+        "name": "Activités du club",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/useruploads/etu_photos/11682282.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Institut Supérieurd'Informatique et deMultimédia de Gabès",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Activités culturelleset scientifiques",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Aucun événement à venir",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Cérémonie de fin d'année",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Think. Build. Launch!",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Réussir sa présentation en anglais",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Building your first Odoo Module",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Leadership training",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "AI summit v3 Deep Learning",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Initiation to Hedera hashgraph certification",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop IoT - session 2",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation ERP Essential Hands-on with Odoo",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Conférence LLMS driiven complex system engineering and vice versa",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation Blockchain",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation Leadership skills",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation Intro à Google Cloud Platform",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "التلميذ في رحاب الجامعة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Communication Skills",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Open practice",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation Intelligence artificielle",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Public speaking",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Digital marketing sessions 1 & 2",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Digital marketing sessions 3 & 4",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Introduction à l'IA et aux LLM",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Séminaire Retour d'expérience sur une cyberattaque visant un groupe industriel",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Activités culturelles et scientifiques",
+      "Plus d'activités"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isimg.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_et_de_multimedia_de_gabes"
+  }
+]

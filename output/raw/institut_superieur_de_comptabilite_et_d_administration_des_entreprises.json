@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Institut Supérieur de Comptabilité et d'Administration des Entreprises",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de Comptabilité et d Administration des Entreprises",
+    "logo_url": "http://www.iscae.rnu.tn/storage/sponsors/logos/XkrYFCGZte8xC3uQu4XfmrK5VFEh8tUYapb5FEIq.jpg",
+    "cover_image_url": null,
+    "website": "http://www.iscae.rnu.tn/",
+    "email": "iscae@iscae.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et vie estudiantine",
+        "description": null,
+        "logo_url": "https://iscae.rnu.tn/images/iscae.png",
+        "contact_info": null
+      },
+      {
+        "name": "Pour la création d’un club ou section d’une association",
+        "description": null,
+        "logo_url": "https://iscae.rnu.tn/images/iscae.png",
+        "contact_info": null
+      },
+      {
+        "name": "Nos clubs",
+        "description": null,
+        "logo_url": "https://iscae.rnu.tn/images/iscae.png",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Ecole doctorale : ED ECCOFIGES",
+      "Engagement de l'Institut"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.iscae.rnu.tn/",
+    "source_name": "institut_superieur_de_comptabilite_et_d_administration_des_entreprises"
+  }
+]

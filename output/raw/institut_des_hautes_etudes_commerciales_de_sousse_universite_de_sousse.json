@@ -1,0 +1,33 @@
+[
+  {
+    "name": "IHECSO",
+    "type": "PUBLIC",
+    "description": "Institut des Hautes Etudes Commerciales de Sousse",
+    "logo_url": "http://www.ihecso.rnu.tn/images/logo.svg",
+    "cover_image_url": null,
+    "website": "http://www.ihecso.rnu.tn/",
+    "email": "contactihecso@ihecso.u-sousse.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Charte graphique",
+      "Conseil scientifique",
+      "Contact",
+      "En chiffres",
+      "Enseignants",
+      "Galerie de Photos",
+      "Loi de création",
+      "Mot du directeur",
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ihecso.rnu.tn/",
+    "source_name": "institut_des_hautes_etudes_commerciales_de_sousse_universite_de_sousse"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Tunis",
+    "type": "PUBLIC",
+    "description": "République TunisienneMinistère de l’Enseignement Supérieur etde la Recherche Scientifique",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.enit.rnu.tn/",
+    "email": "contact@enit.utm.tn",
+    "phone": "(+216) 70 014 400",
+    "location": {
+      "address": "postale",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et vie associative",
+        "description": null,
+        "logo_url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201%201%22%3E%3C%2Fsvg%3E",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "SPE Tunis Section Visits ENIT",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Planning des Examens de la Session Principale AU 25-26 (MàJ 07-05-26)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Journée Scientifique : Décarbonisation et Transition Énergétique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Centenaire de Mokhtar Latiri",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Conference : Low-Permeability Media and Matrix-Fracture Interactions in the Energy Geosciences and  Engineering Applications",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Planning des Examens P3 2025-2026 (Nouvelle version 10-03-2026)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "2ème Appel à Candidature pour des Contrats d’Excellence pour des Etudes Doctorales",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Journée Technique  Les Sols Gonflants : Problématique, caractérisation et analyses de cas d’études en Afrique du Nord",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop on INTEGRATED GROUNDWATER MODELLING",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Session de Rattrapage 2025-2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Linkedin-in"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.enit.rnu.tn/",
+    "source_name": "ecole_nationale_d_ingenieurs_de_tunis"
+  }
+]

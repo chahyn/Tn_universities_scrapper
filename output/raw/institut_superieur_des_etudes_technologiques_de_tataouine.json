@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Tataouine",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Technologiques de Tataouine",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetta.rnu.tn/",
+    "email": "cfcspisetta@gmail.com",
+    "phone": "50 173 384",
+    "location": {
+      "address": "Cité El Mahrajen - 3200 Tataouine",
+      "city": "Tataouine"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Organigramme de l'ISET"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetta.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_tataouine"
+  }
+]

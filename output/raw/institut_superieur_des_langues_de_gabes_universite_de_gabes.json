@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ISLGB",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.islgb.rnu.tn/images/img/logo_header.jpg",
+    "cover_image_url": null,
+    "website": "http://www.islgb.rnu.tn/",
+    "email": "islgb@univgb.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Rue Ali Jmel 6000 Gabès"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.islgb.rnu.tn/",
+    "source_name": "institut_superieur_des_langues_de_gabes_universite_de_gabes"
+  }
+]

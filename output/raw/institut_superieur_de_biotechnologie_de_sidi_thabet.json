@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Institut Supérieur de Biotechnologie de Sidi Thabet",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de Biotechnologie de Sidi Thabet",
+    "logo_url": "http://www.isbst.rnu.tn/stylesheets/images/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.isbst.rnu.tn/",
+    "email": "info.isbst@isbst.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Université de la Manouba",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Licences en Biotechnologie",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "LBVBGR:Laboratoire Biotechnologie & Valorisation des Bio-Géo Ressources",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "PLB LR17ES03 : Laboratoire de Recherche PhysioPathologie, Alimentation et Biomolécules",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isbst.rnu.tn/",
+    "source_name": "institut_superieur_de_biotechnologie_de_sidi_thabet"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ISAMKAS",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Arts et Métiers de Kasserine",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isamkas.rnu.tn/",
+    "email": "isamkas@isamkas.rnu.tn",
+    "phone": "+216 77 41 16 99",
+    "location": {
+      "address": "Avenue de l'Environnement - 1200 Kasserine",
+      "city": "Kasserine"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isamkas.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_et_metiers_de_kasserine_universite_de_kairouan"
+  }
+]

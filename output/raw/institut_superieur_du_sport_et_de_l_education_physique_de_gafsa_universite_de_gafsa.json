@@ -1,0 +1,97 @@
+[
+  {
+    "name": "ISSEPGF",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur du Sport et de l'Education Physique de Gafsa",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.issepgf.rnu.tn/",
+    "email": "webmaster@issepgf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Institut Supérieur du Sport et de l'Education Physique de Gafsa Avenue Tozeur - 2100 Gafsa T.: 76 211 612 / 76 211 613 F.: 76 211 616 Email: webmaster",
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Nouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Coopération",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Espace Entreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Coopération",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Espace Entreprise",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.issepgf.rnu.tn/",
+    "source_name": "institut_superieur_du_sport_et_de_l_education_physique_de_gafsa_universite_de_gafsa"
+  }
+]

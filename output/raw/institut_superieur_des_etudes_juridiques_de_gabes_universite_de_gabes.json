@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ISEJG",
+    "type": "PUBLIC",
+    "description": "المعهـــــــد العـــالي للدراســـات القـانونيـــة بقابـــس",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isejg.rnu.tn/",
+    "email": "isejg@isejg.run.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isejg.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_juridiques_de_gabes_universite_de_gabes"
+  }
+]

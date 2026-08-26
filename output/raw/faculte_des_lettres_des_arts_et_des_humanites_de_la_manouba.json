@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Faculté des Lettres, des Arts et des Humanités de la Manouba",
+    "type": "PUBLIC",
+    "description": "دعوة لتقديم الأوراق البحثية للمؤتمر الدولي لقسم اللغة الإنجليزية حول موضوع\"Artificial intelligence and the humanities\"والذي سيعقد أيّام 6-7-8 أفريل 2026",
+    "logo_url": "http://www.flm.rnu.tn/stylesheets/images/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.flm.rnu.tn/",
+    "email": "flm@flm.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "وثائق مفيدة على الواب",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "استشارات و طلبات العروض",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الورقة العلميّة:https://www.esli.tn/actualite-detail/almutmr-alalmy-aldwly-althamn-all-ghh-alarby-h-fy-dhwa-altknwlwjy-at-alhdythh-ayam-16-17-18-afryl-2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.flm.rnu.tn/",
+    "source_name": "faculte_des_lettres_des_arts_et_des_humanites_de_la_manouba"
+  }
+]

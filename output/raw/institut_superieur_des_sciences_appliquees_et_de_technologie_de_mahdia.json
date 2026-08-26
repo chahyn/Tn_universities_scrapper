@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Mahdia",
+    "type": "PUBLIC",
+    "description": "L’Institut Supérieur des Sciences Appliquées et de Technologie de Mahdia (المعهد العالي للعلوم التطبيقية والتكنولوجيا بالمهدية)fut créé officiellement le 14 Juillet 2005 (décret n° 1971) et la première rentrée a été assurée le 19 Septembre 2005 dans des locaux de la Faculté des Sciences économique et de Gestion de Mahdia avec 206 étudiants répartis sur trois filières. Actuellement, l'institue est provisoirement installé entre la Faculté des Sciences économique et de Gestion et l'ISET de Mahdia et assure trois licences appliqués, deux mastères professionnels et un cycle préparatoire aux études d'ingénieur.Les formations dispensées àl'ISSATde Mahdia ont pour objectif commun la conception et le contrôle de chaînes de fabrication de produits alimentaires et matériaux avec des procédés modernes comme le contrôle en temps réel par des capteurs connectés à des systèmes informatiques de commande et d'analyse ...",
+    "logo_url": "https://issatmh.rnu.tn/storage/app/public/coordinates/November2024/Jl0TTsHgzVRiuBevxULc.png",
+    "cover_image_url": null,
+    "website": "http://www.issatmh.rnu.tn/",
+    "email": "issatmh@issatmh.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Associations",
+        "description": null,
+        "logo_url": "https://issatmh.rnu.tn/public/theme1/img/logo/logo-inai.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Conseils & Commissions",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Venir étudier à l'ISSAT",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Commission d'organisation d'évènements",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Dernières Actualités",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Derniers album video",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Appel à candidature \"Etudiant\": International Summer School in Cadiz"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.issatmh.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_appliquees_et_de_technologie_de_mahdia"
+  }
+]

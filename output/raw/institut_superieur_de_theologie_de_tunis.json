@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur de Théologie de Tunis",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isth.rnu.tn/",
+    "email": "isth@isth.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isth.rnu.tn/",
+    "source_name": "institut_superieur_de_theologie_de_tunis"
+  }
+]

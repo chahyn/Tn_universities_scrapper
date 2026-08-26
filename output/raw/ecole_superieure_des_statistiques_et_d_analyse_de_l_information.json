@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Ecole Supérieure des Statistiques et d'Analyse de l'Information",
+    "type": "PUBLIC",
+    "description": "Ecole Supérieure de la Statistique et de l'Analyse de l'Information",
+    "logo_url": "http://www.essai.rnu.tn/images/partenaire/logo-banque-ubci-xs.png",
+    "cover_image_url": null,
+    "website": "http://www.essai.rnu.tn/",
+    "email": null,
+    "phone": "+216 70 83 94 40",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Cérémonie de remise des diplômes – Promotion 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "En savoir plus",
+      "Vie de l'école"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.essai.rnu.tn/",
+    "source_name": "ecole_superieure_des_statistiques_et_d_analyse_de_l_information"
+  }
+]

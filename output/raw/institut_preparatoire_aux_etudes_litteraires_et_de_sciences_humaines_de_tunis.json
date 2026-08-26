@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Préparatoire aux Etudes Littéraires et de Sciences Humaines de Tunis",
+    "type": "PUBLIC",
+    "description": "L’Institut Préparatoire aux Études Littéraires et de Sciences Humaines de Tunis: a été créé suite à la parution du décret N° 2002-1623 du 9 juillet 2002, portant création d’établissements d’enseignement supérieur et de recherche.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.ipelsht.rnu.tn/",
+    "email": "ipelsht@ipelsht.rnu.tn",
+    "phone": "+216  71 260 705",
+    "location": {
+      "address": "08 Place aux chevaux ; el Gorjani  1008 - Tunis -",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ipelsht.rnu.tn/",
+    "source_name": "institut_preparatoire_aux_etudes_litteraires_et_de_sciences_humaines_de_tunis"
+  }
+]

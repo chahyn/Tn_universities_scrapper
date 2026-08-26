@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs de Monastir",
+    "type": "PUBLIC",
+    "description": "Institut préparatoire aux études d'ingénieur de Monastir",
+    "logo_url": "http://www.ipeim.rnu.tn/stylesheets/images/logo-header.png",
+    "cover_image_url": null,
+    "website": "http://www.ipeim.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.ipeim.rnu.tn/useruploads/images/img_menu/nouveautes.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Institut préparatoire aux études d'ingénieur de Monastir",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ipeim.rnu.tn/",
+    "source_name": "institut_preparatoire_aux_etudes_d_ingenieurs_de_monastir"
+  }
+]

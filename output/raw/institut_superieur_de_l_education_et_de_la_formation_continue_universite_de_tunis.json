@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Isefc",
+    "type": "PUBLIC",
+    "description": "Vous allez trouver toutes les nouvelles concernant l'ISEFC , les stages , les changements ...",
+    "logo_url": "http://www.isefc.rnu.tn/assets/images/Logo.png",
+    "cover_image_url": null,
+    "website": "http://www.isefc.rnu.tn/",
+    "email": "administration@isefc.u-virtuelle.tn",
+    "phone": "+21671588225",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Licences",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "masters de recherche",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "masters Professionnels",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Doctorats",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "1)\tL'Association Tunisienne des Sciences Mathématiques (ATSM)(J.O.R.T du 31 Janvier 1968, sous le n° 495)",
+        "description": null,
+        "logo_url": "http://www.isefc.rnu.tn/assets/images/event-1.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "2)\tL'Association Tunisienne pour la Pédagogie du Français (ATPF)(J.O.R.T du 9 mai 1989, sous le n° 36)",
+        "description": null,
+        "logo_url": "http://www.isefc.rnu.tn/assets/images/event-2.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "3)\t L'Association Tunisienne de Didactique des Mathématiques (ATDM)",
+        "description": null,
+        "logo_url": "http://www.isefc.rnu.tn/assets/images/event-3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "4)\tL'Association Tunisienne de Recherches Didactiques (ATURED)",
+        "description": null,
+        "logo_url": "http://www.isefc.rnu.tn/assets/images/event-4.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "43, rue de la Liberté\n                                          2019 Le Bardo\n                                          Tunisie"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isefc.rnu.tn/",
+    "source_name": "institut_superieur_de_l_education_et_de_la_formation_continue_universite_de_tunis"
+  }
+]

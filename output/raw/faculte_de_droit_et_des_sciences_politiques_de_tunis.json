@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Faculté de Droit et des Sciences Politiques de Tunis",
+    "type": "PUBLIC",
+    "description": "Faculté de Droit et des Sciences Politiques de Tunis",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.fdspt.rnu.tn/",
+    "email": "website@fdspt.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "https://fdspt.rnu.tn/storage/menu/tz2s5WYTEUha7q97BGyrIR5jY9Mk5rljKaqN5wNZ.png",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Anciens doyens",
+      "Centre de calcul",
+      "Charte de la FDSPT",
+      "Clinique juridique",
+      "Commissions",
+      "Ecole doctorale",
+      "En chiffres",
+      "Enseignants",
+      "Galerie Vidéos",
+      "Galerie vidéo",
+      "Lire la suite",
+      "Membre Conseil Scientifique",
+      "Mot du Doyen",
+      "PV Conseil Scientifique",
+      "Politique Qualité de la Faculté de Droit et des Sciences Politiques de Tunis"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fdspt.rnu.tn/",
+    "source_name": "faculte_de_droit_et_des_sciences_politiques_de_tunis"
+  }
+]

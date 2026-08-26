@@ -1,0 +1,36 @@
+[
+  {
+    "name": "المعهد العالي للفن المسرحي – أول مؤسسة لتعليم الفنون الدرامية في الوطن العربي",
+    "type": "PUBLIC",
+    "description": "تأسس سنة 1982 وهو وريث مدرسة التمثيل العربي الناشئة سنة 1951 وامتداد لمركز الفن المسرحي. ساهم المعهد منذ تأسيسه في تكوين جل رجال المسرح والفنون الدرامية الذين عرفتهم تونس.",
+    "logo_url": "https://isad.rnu.tn/wp-content/uploads/2022/10/isd-logo.png",
+    "cover_image_url": null,
+    "website": "http://www.isad.rnu.tn/",
+    "email": "isad.info@gmail.com",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "بلاغ حول الترشح للماجستير نظام “أمد” الس�",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "2026 . 2025 روزنامة مناقشة رسائل التخرج للسنة الجام",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isad.rnu.tn/",
+    "source_name": "institut_superieur_d_art_dramatique_universite_de_tunis"
+  }
+]

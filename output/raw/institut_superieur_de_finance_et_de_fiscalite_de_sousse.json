@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Institut Supérieur de Finance et de Fiscalité de Sousse",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de Finances et de Fiscalité de Sousse",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isffs.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.isffs.rnu.tn/useruploads/images/img-banner/manifestation.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Club Culture & Loisirs",
+        "description": null,
+        "logo_url": "http://www.isffs.rnu.tn/useruploads/images/img-banner/manifestation.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Structure managériale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères professionnels",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastère de recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Lire la suite ...",
+      "TDR N°01/2023/PAQ-DGSE-ISFFS Formation certifiante en Trading sur les marchés Financiers, analyse technique et gestion de portefeuille BVMT au profit des enseignants de l’Institut Supérieur de Finances et de Fiscalité de Sousse."
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isffs.rnu.tn/",
+    "source_name": "institut_superieur_de_finance_et_de_fiscalite_de_sousse"
+  }
+]

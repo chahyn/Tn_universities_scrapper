@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Université Centrale",
+    "type": "PRIVATE",
+    "description": "Fondée en 2001 et avec plus de 20 ans d'expérience, l'Université Centrale est la plus grande université privée pluridisciplinaire de Tunisie. L'Université Centrale propose sept pôles de formation : santé, business, droit, ingénierie, architecture et design, journalisme et communication, technologies de l'information et des télécommunications, ainsi qu'un pôle de formation exécutive. Aujourd'hui, elle compte près de 8000 étudiants provenant de plus de 25 pays. Pionnière et résolument orientée vers la mondialisation, l'Université Centrale est la première institution à rejoindre le réseau Honoris United Universities.",
+    "logo_url": "https://www.universitecentrale.net/logo.svg",
+    "cover_image_url": null,
+    "website": "https://www.universitecentrale.net/",
+    "email": "ucginfo@universitecentrale.net",
+    "phone": "(+216) 71 79 66 79",
+    "location": {
+      "address": "16 Rue IBN TAFRAJINE, TUNIS, 1002 Tunis",
+      "city": "TUNIS"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Sport",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/1714160275904_38ffb71726.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Développement Personnel et Carrière",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/Z7_A0456_aec394f81f.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Entrepreneuriat et Technologie",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/Z7_A0412_16331ef03a.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Engagement Communautaire et Social",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/88110540_2454236504839947_5370955014233653248_n_e0d5aca1f3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Artistique, Culturel et Événementiel",
+        "description": null,
+        "logo_url": "https://backend.universitecentrale.net/uploads/Whats_App_Image_2022_07_07_at_09_06_02_1d46b5f966.jpeg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "l'Université Centrale École de Santé renforce son rayonnement international",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Nouvelle alliance stratégique : Université Centrale, Garde Nationale et Protection Civile",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L'École POLYTECH confirme son excellence académique avec l'obtention de l'accréditation européenne EUR-ACE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L’École de Santé première École Paramédicale en Afrique accréditée par l’ACESI",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Le lancement officiel du Centre de Recherche et d'Innovation Collaborative du Groupe Université Centrale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L’Université Centrale remporte le Catalyst Award 2025 décerné par Anthology , dans la catégorie Enseignement & Apprentissage",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L’équipe féminine de l’Université Centrale remporte la victoire en finale nationale de volleyball",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Une nouvelle dimension pour l’excellence académique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Business School",
+      "École Business",
+      "École IT",
+      "École Polytechnique",
+      "École de Communication et de Design",
+      "École de Droit",
+      "École de Santé"
+    ],
+    "sub_institutions": [],
+    "source_url": "https://www.universitecentrale.net/",
+    "source_name": "universite_centrale"
+  }
+]

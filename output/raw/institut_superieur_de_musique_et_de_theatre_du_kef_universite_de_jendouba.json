@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur de Musique et de Théâtre du Kef - Université de Jendouba",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.istmk.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.istmk.rnu.tn/",
+    "source_name": "institut_superieur_de_musique_et_de_theatre_du_kef_universite_de_jendouba"
+  }
+]

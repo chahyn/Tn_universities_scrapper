@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Faculté des Sciences de Monastir",
+    "type": "PUBLIC",
+    "description": "L’ESGITECH est la première et la meilleure université privée spécialisée en informatique en Tunisie. L’école supérieure privée de génie informatique et de technologie à Tunis, a pour objectif principal de former des professionnels dans les domaines du Big Data, des systèmes embarqués et de la cybersécurité",
+    "logo_url": "https://www.esgitech.tn/wp-content/uploads/2025/05/logo-icon-esgitech-white.svg",
+    "cover_image_url": null,
+    "website": "https://www.esgitech.tn/",
+    "email": "contact@esgitech.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Association AIESEC",
+        "description": null,
+        "logo_url": "https://www.esgitech.tn/wp-content/uploads/2025/05/bureau-activites-1024x683.avif",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Découvrir lesarticleset lesactualitésliés à ESGITECH",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "ESGITECH et AIVANCITY : un partenariat stratégique au service de l’intelligence artificielle et des compétences de demain",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "ESGITECH en immersion professionnelle chez EY Careers",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Chain & Brain Hackathon – Édition 2 : ESGITECH remporte le trophée",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "La journée « Jobfair » Édition 2025 du 25 juin à l’ESGITECH",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Cérémonie de remise des diplômes de l’ESGITECH pour l’année universitaire 2023-2024",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "https://www.esgitech.tn/",
+    "source_name": "faculte_des_sciences_de_monastir"
+  }
+]

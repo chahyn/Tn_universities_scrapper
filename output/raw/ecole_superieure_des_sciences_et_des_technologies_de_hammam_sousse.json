@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Ecole Supérieure des Sciences et des technologies de Hammam Sousse",
+    "type": "PUBLIC",
+    "description": "Université de Sousse, République TunisienneMinistère de l'Enseignement Supérieur et de la Recherche Scientifique",
+    "logo_url": " https://essths.rnu.tn/storage/app/public/coordinates/June2025/EKBybpinhIjroaGWuluX.png ",
+    "cover_image_url": null,
+    "website": "http://www.essths.rnu.tn/",
+    "email": "essths@essths.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Associations",
+        "description": null,
+        "logo_url": "https://essths.rnu.tn/public/theme2/images/ball.gif",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Listes des Formations",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste des admis et des candidats en attente du Master MP-IASER",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste des candidats admissibles en Master de Recherche en Mathématiques",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ غلق المؤسسة: عطلة سنوية",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "مناظرة إعادة التوجيه دورة أوت 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Note aux candidats 2026 concernant le choix des filières",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Listes des candidats admissibles en Master SEEBIO",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Listes des candidats admissibles en Master PHYSIQUE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ حول التمديد لتسجيل الترشحات للدخول للسنة الأولى ماجستير بحث في الرياضيات و التطبيقات",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Listes des candidats admissibles en Master IASER",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier des soutenances MP2 IASER",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ حول  التسجيل لحضور حفل اختتام السنة الجامعية",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature aux Masters de Recherche et Professionnels",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Carte de l'école"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.essths.rnu.tn/",
+    "source_name": "ecole_superieure_des_sciences_et_des_technologies_de_hammam_sousse"
+  }
+]

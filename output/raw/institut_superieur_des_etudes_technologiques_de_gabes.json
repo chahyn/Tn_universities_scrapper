@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ISETGB",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Technologiques de Gabès",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetgb.rnu.tn/",
+    "email": null,
+    "phone": "+216 75 29 26 25",
+    "location": {
+      "address": "Route de Medenine - 6011 Gabès",
+      "city": "Gabès"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetgb.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_gabes"
+  }
+]

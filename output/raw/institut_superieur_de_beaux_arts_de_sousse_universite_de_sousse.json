@@ -1,0 +1,154 @@
+[
+  {
+    "name": "ISBAS",
+    "type": "PUBLIC",
+    "description": "ISBAS - Institut Supèrieur de Beaux Arts de Sousse",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isbas.rnu.tn/",
+    "email": "direction@isbas.u-sousse.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Licence en Design Image Publicité Audiovisuelle et Publicité Graphique",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Licence en Arts Plastiques",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Licence en Design Produit-Création Industrielle",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Licence en Design Espace-Architecture d'Intérieur",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Licence en CRBC Mosaïques et surfaces décorées",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "بلاغ ترسيم الطلبة بعنوان السنة الجامعية 2026-2027",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Résultats Session Rattrapage 2026",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Calendrier des Examens : Session Rattrapage",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Résultats Session Principale 2026",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Calendrier Examen",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Beaux-Aryst",
+        "description": null,
+        "logo_url": "https://isbas.rnu.tn//storage/app/public/organisms/December2024/wHvgXjkpQEJrD8zJHBOt.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "ATD Students ISBAS",
+        "description": null,
+        "logo_url": "https://isbas.rnu.tn//storage/app/public/organisms/December2024/qagJlZwnq4mFNbpd92eF.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "RADEDH MEDITERRANEEN POUR LES ARTS",
+        "description": null,
+        "logo_url": "https://isbas.rnu.tn//storage/app/public/organisms/December2024/uPUrM0kU9J6huHfXXoaG.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Praxis Art et Design",
+        "description": null,
+        "logo_url": "https://isbas.rnu.tn//storage/app/public/organisms/December2024/1jTxksuvYkjglgxU0Gbd.png",
+        "contact_info": null
+      },
+      {
+        "name": "Artivistes",
+        "description": null,
+        "logo_url": "https://isbas.rnu.tn//storage/app/public/organisms/December2024/tz9GmdQk96vA0tb5OfQm.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "بلاغ ترسيم الطلبة بعنوان السنة الجامعية 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats Session Rattrapage 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier des Examens : Session Rattrapage",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats Session Principale 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier Examen",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Enquête de satisfaction pour les professionnels et partenaires",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Youtube"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isbas.rnu.tn/",
+    "source_name": "institut_superieur_de_beaux_arts_de_sousse_universite_de_sousse"
+  }
+]

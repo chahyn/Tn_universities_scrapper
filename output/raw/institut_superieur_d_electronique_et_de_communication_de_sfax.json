@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur d'Electronique et de Communication de Sfax",
+    "type": "PUBLIC",
+    "description": "Fournisseur de services Internet pour l'ensemble des établissements, agences et administrations relevant du Ministère de l'enseignement Supérieur et de la Recherche Scientifique en Tunisie.",
+    "logo_url": "http://www.isecs.rnu.tn/images/logo_cck.gif",
+    "cover_image_url": null,
+    "website": "http://www.isecs.rnu.tn/",
+    "email": "heberg@cck.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isecs.rnu.tn/",
+    "source_name": "institut_superieur_d_electronique_et_de_communication_de_sfax"
+  }
+]

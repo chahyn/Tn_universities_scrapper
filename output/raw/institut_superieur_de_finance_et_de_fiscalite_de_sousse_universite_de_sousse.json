@@ -1,0 +1,101 @@
+[
+  {
+    "name": "ISFFS",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de Finances et de Fiscalité de Sousse",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isffs.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "L'institut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Centre 4C",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie Estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "L'institut",
+        "description": null,
+        "logo_url": "http://www.isffs.rnu.tn/useruploads/images/event1.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "http://www.isffs.rnu.tn/useruploads/images/event1.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Centre 4C",
+        "description": null,
+        "logo_url": "http://www.isffs.rnu.tn/useruploads/images/event1.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Vie Estudiantine",
+        "description": null,
+        "logo_url": "http://www.isffs.rnu.tn/useruploads/images/event1.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "L'institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Centre 4C",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie Estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Lire la suite ...",
+      "TDR N°01/2023/PAQ-DGSE-ISFFS Formation certifiante en Trading sur les marchés Financiers, analyse technique et gestion de portefeuille BVMT au profit des enseignants de l’Institut Supérieur de Finances et de Fiscalité de Sousse."
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isffs.rnu.tn/",
+    "source_name": "institut_superieur_de_finance_et_de_fiscalite_de_sousse_universite_de_sousse"
+  }
+]

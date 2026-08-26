@@ -1,0 +1,23 @@
+[
+  {
+    "name": "FacultÃ© PrivÃ©e PionniÃ¨re de Technologie et de Management",
+    "type": "PRIVATE",
+    "description": "FacultÃ© PrivÃ©e PionniÃ¨re de Technologie et de Management formant des professionnels innovants. Programmes en Management, IngÃ©nierie IT, CPGE. Partenariats internationaux et double diplomation.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "https://universitepioneer.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "https://universitepioneer.tn/",
+    "source_name": "faculte_privee_pionniere_de_technologie_et_d_administration_des_affaires_de_tunis"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur de Promotion des Handicapés de Ksar Saïd",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.iph.rnu.tn/static/fr/image/jpg/logo_ises.jpg",
+    "cover_image_url": null,
+    "website": "http://www.iph.rnu.tn/",
+    "email": "direction@ises.uma.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.iph.rnu.tn/",
+    "source_name": "institut_superieur_de_promotion_des_handicapes_de_ksar_said"
+  }
+]

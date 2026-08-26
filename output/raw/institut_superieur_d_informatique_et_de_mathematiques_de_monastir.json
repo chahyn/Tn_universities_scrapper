@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Institut Supérieur d'Informatique et de Mathématiques de Monastir",
+    "type": "PUBLIC",
+    "description": "إعلام هام للطلبة بالعودة الجامعية بالمعهد العالي للإعلامية والرياضيات بالمنستير 2026-2027",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isimm.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "20ieme anniversaire de l'ISIMM, organisé par ISIMMThématique option1, de type Scientifique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isimm.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_et_de_mathematiques_de_monastir"
+  }
+]

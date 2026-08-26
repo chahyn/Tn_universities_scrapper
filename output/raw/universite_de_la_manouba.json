@@ -1,0 +1,377 @@
+[
+  {
+    "name": "UMA",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.uma.rnu.tn/images/logo-white.svg",
+    "cover_image_url": null,
+    "website": "http://www.uma.rnu.tn/",
+    "email": "contact@uma.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Université",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Doctorat",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Recherche",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "International",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie sur le campus",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Publication",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Espace entreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Ecole Nationale de Médecine VétérinaireENMV",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Ecole Nationale des Sciences de l'InformatiqueENSI",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Ecole Supérieure d'Economie Numérique ManoubaESEN",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Ecole Supérieure de Commerce de TunisESCT",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Ecole Supérieure des Sciences et Technologies du DesignESSTED",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Faculté des Lettres, des Arts et des HumanitésFLAH",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut de Presse et des Sciences de l'InformationIPSI",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur de Biotechnologie de Sidi ThabetISBST",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur de Comptabilité et d'Administration des EntreprisesISCAE",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur de Documentation de TunisISD",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur de l'Histoire de la Tunisie contemporaineISHTC",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur de l’Education SpécialiséeISES",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur des Arts Multimédia de la ManoubaISAMM",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut Supérieur du Sport et de l'Education Physique de Ksar SaïdISSEP",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "L'Institut National du Travail et des Etudes SocialesINTES",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "National  Engineering School of Manouba ( Ecole Nationale d'Ingénieurs)MSE",
+        "degree_type": "ENGINEERING",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Description",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Type de diplôme :Licence",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Type de diplôme :Mastère de recherche",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Spécialité :Journalisme",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Spécialité :Communication",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Type de diplôme :Mastère professionnel",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Type de diplôme :Doctorat",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Plan d’études",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Plan d’études  / Parcours 1  : Gestion des archives - Année universitaire : 2025–2026",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Plan d’études  / Parcours 2  : Bibliothèques et Ressources Informationnelles - Année universitaire : 2025–2026",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Mastère professionnel en Management de l’information et des connaissances dans l’entreprise",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Objectifs",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Savoir et Compétences",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Débouchés professionnels",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Mastère de recherche en Science des Religions",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Mastère de recherche en Géographie : Environnement et Dynamique Spatiales (GEDyS)",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Université",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Doctorat",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "International",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie sur le campus",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Publication",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Espace entreprise",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Édition 2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Découvrez notre newsletter de l'année 2025 avec les dernières actualités et innovations.",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Archives des Anciennes Éditions",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "2024",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "2023",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "2022",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "2021",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "2020",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "ENMV",
+      "ENSI",
+      "ESCT",
+      "ESEN",
+      "ESSTED",
+      "Ecoles Doctorale",
+      "FLAH",
+      "Google For Education",
+      "INTES",
+      "IPSI",
+      "ISAMM",
+      "ISBST",
+      "ISCAE",
+      "ISD",
+      "ISES"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.uma.rnu.tn/",
+    "source_name": "universite_de_la_manouba"
+  }
+]

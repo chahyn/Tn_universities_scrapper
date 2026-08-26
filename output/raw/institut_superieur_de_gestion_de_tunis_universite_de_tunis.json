@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Institut Supérieur de Gestion",
+    "type": "PUBLIC",
+    "description": "Riche de ses 52 années d’existence et de sa culture de l’excellence,\n                  l’ISG Tunis offre une formation solide et variée dans les domaines de\n                  l’informatique de gestion, du marketing, de la finance, du\n                  management, de la gestion des ressources humaines et de\n                  l’expertise comptable",
+    "logo_url": "http://www.isg.rnu.tn/img/logo-footer.svg",
+    "cover_image_url": null,
+    "website": "http://www.isg.rnu.tn/",
+    "email": "Direction.isg@isg.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "7 laboratoires de Recherche",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "La recherche à l’ISGT en chiffres",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Recherche-Events",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "L’Ecole Doctorale ED « ISG -  ESSECT-TBS »",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Direction et responsables administratifs",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Habilitation universitaire",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Comité scientifique et pédagogique",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formations organisées par l'ED en 2020",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Nombre de chercheurs",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Laboratoires",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Programmes doctoraux",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Nombre de conventions de cotuelle",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "A New Special Issue entitled “Artificial Intelligence and Deep Hedging: Challenges, Stakes and Prospects” for Advance...",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Challenge Innovation-Université de Tunis",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Journée ISG Marketing Research Days (6ème édition - 2023)",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Colloque International",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Microsoft",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/logo-nav.svg",
+        "contact_info": null
+      },
+      {
+        "name": "Enactus",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/logo-nav.svg",
+        "contact_info": null
+      },
+      {
+        "name": "SPARK",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/enactus3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Rotaract",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/SPARK.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Culture'Art",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "AIESEC Bardo",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/culture3.jpeg",
+        "contact_info": null
+      },
+      {
+        "name": "Radio ISG",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/aiesec.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "ISG Accounting",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/aiesec.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "ISGCoach",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/aiesec.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Timun ISG",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/coach3.png",
+        "contact_info": null
+      },
+      {
+        "name": "ISG financial club",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/timun3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "president",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/logo-nav.svg",
+        "contact_info": null
+      },
+      {
+        "name": "membre",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/logo-nav.svg",
+        "contact_info": null
+      },
+      {
+        "name": "chef département robotique",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/logo-nav.svg",
+        "contact_info": null
+      },
+      {
+        "name": "financier",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/logo-nav.svg",
+        "contact_info": null
+      },
+      {
+        "name": "chef sponsoring",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/logo-nav.svg",
+        "contact_info": null
+      },
+      {
+        "name": "Présidente",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Hayfa Dhaou",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Président sortant",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Maher Bahri",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Vice-président",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Hedi kammoun",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Chef protocole",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Skander Azouz",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Secretaire",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/rotaract5.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "202306Jan.l’ISG de TunisConvention de Partenariat...Nous avons le plaisir de vous annoncer la signature de la convention...",
+      "L’Ecole Doctorale ED - (ISG-ESSEC-TBS)"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isg.rnu.tn/",
+    "source_name": "institut_superieur_de_gestion_de_tunis_universite_de_tunis"
+  }
+]

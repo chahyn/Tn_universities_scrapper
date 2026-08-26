@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ESSECT",
+    "type": "PUBLIC",
+    "description": "École Supérieure des Sciences Économiques et commerciales de Tunis",
+    "logo_url": "http://www.essect.rnu.tn/storage/sponsors/logos/eigEcGIvFT1pfkzpMiVcDzsmOO6XooklxNAGdcMN.png",
+    "cover_image_url": null,
+    "website": "http://www.essect.rnu.tn/",
+    "email": "essect@essect.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "1. Gouvernance et Coordination Institutionnelle",
+        "description": null,
+        "logo_url": "https://essect.rnu.tn/userfiles/images/radhouane%20ghazouani.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "2. Pilotage de la Modernisation et de l'Innovation",
+        "description": null,
+        "logo_url": "https://essect.rnu.tn/userfiles/images/radhouane%20ghazouani.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "3. Gestion Stratégique des Ressources et du Budget",
+        "description": null,
+        "logo_url": "https://essect.rnu.tn/userfiles/images/radhouane%20ghazouani.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "4. Veille Réglementaire et Sécurité",
+        "description": null,
+        "logo_url": "https://essect.rnu.tn/userfiles/images/radhouane%20ghazouani.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Partenariats Institutionnels et académiques"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.essect.rnu.tn/",
+    "source_name": "ecole_superieure_des_sciences_economiques_et_commerciales_de_tunis_universite_de_tunis"
+  }
+]

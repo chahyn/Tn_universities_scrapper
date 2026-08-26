@@ -1,0 +1,93 @@
+[
+  {
+    "name": "ISMPT",
+    "type": "PUBLIC",
+    "description": "ISMPT est un établissement universitaire tunisien spécialisé dans la formation des professionnels de la santé. / ISMPT is a Tunisian university specializing in the training of healthcare professionals. / المدرسة العليا لعلوم وتقنيات الصحة بتونس، مؤسسة جامعية لتكوين مختصين في مختلف مجالات الصحة.",
+    "logo_url": " https://ismpt.rnu.tn/storage/app/public/default-covers/August2026/hEfb1MtBMCcp9C9ytfjP.png ",
+    "cover_image_url": null,
+    "website": "http://www.ismpt.rnu.tn/",
+    "email": "ISMPT@ismpt.u-tunis.tn",
+    "phone": "71 331 142",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Département de la Formation Technique et Appliquée",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Mission et vocation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Des formations complémentaires",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Licence Nationale",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Marketing du Patrimoine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Master Professionnel",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Conservation-Restauration des Biens Patrimoniaux",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Une expertise pédagogique multidisciplinaire",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Club \"Régions et Mémoires\"",
+        "description": null,
+        "logo_url": "https://ismpt.rnu.tn/storage/app/public/default-covers/August2025/agrmFcDSZ2tkC9Vsrmfw.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Nos activités",
+        "description": null,
+        "logo_url": "https://ismpt.rnu.tn/storage/app/public/default-covers/August2025/agrmFcDSZ2tkC9Vsrmfw.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Pour qui ?",
+        "description": null,
+        "logo_url": "https://ismpt.rnu.tn/storage/app/public/default-covers/August2025/agrmFcDSZ2tkC9Vsrmfw.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "L'Institut en quelques mots"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ismpt.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_culturelles_et_metiers_du_patrimoine_de_tunis_universite_de_tunis"
+  }
+]

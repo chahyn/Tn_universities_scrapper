@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ENIS",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.enis.rnu.tn/stylesheets/images/logo_header/univ_sfax.png",
+    "cover_image_url": null,
+    "website": "http://www.enis.rnu.tn/",
+    "email": "webmaster@enis.tn",
+    "phone": "+216  70 258 520",
+    "location": {
+      "address": "Route de la Soukra km 4 - 3038 sfax",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.enis.rnu.tn/",
+    "source_name": "ecole_nationale_d_ingenieurs_de_sfax_universite_de_sfax"
+  }
+]

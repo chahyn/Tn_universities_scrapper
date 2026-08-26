@@ -1,0 +1,121 @@
+[
+  {
+    "name": "ISAMSB",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'Arts et Métiers de Sidi Bouzid",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isamsb.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "NosNouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NotreInstitut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "ISAMDépartements",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NosFormation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vieestudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NosPartenariat",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "NosProjets",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Espaceentreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "NosNouveautés",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/isamb.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "NotreInstitut",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/isamb.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "ISAMDépartements",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/isamb.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "NosFormation",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/isamb.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Vieestudiantine",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/isamb.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "NosPartenariat",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/isamb.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "NosProjets",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/isamb.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Espaceentreprise",
+        "description": null,
+        "logo_url": "http://www.isamsb.rnu.tn/fra/pages/87/useruploads/images/img_banner/isamb.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isamsb.rnu.tn/",
+    "source_name": "institut_superieur_des_arts_et_metiers_de_sidi_bouzid_universite_de_kairouan"
+  }
+]

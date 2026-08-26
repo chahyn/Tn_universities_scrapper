@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Institut National du Travail et des Etudes Sociales de Tunis",
+    "type": "PUBLIC",
+    "description": "Institut National du Travail et des Etudes Sociales de Tunis",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.intes.rnu.tn/",
+    "email": "intes@intes.rnu.tn",
+    "phone": "70 837 208 - 70 837",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "http://www.intes.rnu.tn/images/icons/email.gif",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Institut National du Travail et des Etudes Sociales de Tunis",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Bourses en Belgique - ARES pour l'année académique 2027-2028",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste des Enseignants",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "L''Institut National du Travail et des Etudes Sociales",
+      "Voir Plus"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.intes.rnu.tn/",
+    "source_name": "institut_national_du_travail_et_des_etudes_sociales_de_tunis"
+  }
+]

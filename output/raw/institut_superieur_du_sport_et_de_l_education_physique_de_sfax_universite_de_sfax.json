@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ISSEPSF",
+    "type": "PUBLIC",
+    "description": "Institut supérieur du sport et de l'éducation physique de Sfax",
+    "logo_url": "http://www.issepsf.rnu.tn/storage/sponsors/logos/Cm5fJMQxitTYMbjCBy5exSTmxmVHMRRS7IIuOcLB.jpg",
+    "cover_image_url": null,
+    "website": "http://www.issepsf.rnu.tn/",
+    "email": "contact@issepsf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Loi de création",
+      "Mot du directeur",
+      "Organigramme",
+      "Plan de l’institut",
+      "Statistiques"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.issepsf.rnu.tn/",
+    "source_name": "institut_superieur_du_sport_et_de_l_education_physique_de_sfax_universite_de_sfax"
+  }
+]

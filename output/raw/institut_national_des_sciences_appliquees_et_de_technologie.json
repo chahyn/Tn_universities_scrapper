@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut National des Sciences Appliquées et de Technologie",
+    "type": "PUBLIC",
+    "description": "L'INSAT, créé en 1992 (loi n°92-102 du 02 novembre 1992), est une institution publique placée sous la tutelle du Ministère de l’Enseignement Supérieur et de la Recherche Scientifique.",
+    "logo_url": "http://www.insat.rnu.tn/assets/images/insat_logo.png",
+    "cover_image_url": null,
+    "website": "http://www.insat.rnu.tn/",
+    "email": "contact@insat.ucar.tn",
+    "phone": null,
+    "location": {
+      "address": "Centre Urbain Nord BP 676, 1080 Tunis cedex, Tunisie",
+      "city": "Tunisie"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.insat.rnu.tn/",
+    "source_name": "institut_national_des_sciences_appliquees_et_de_technologie"
+  }
+]

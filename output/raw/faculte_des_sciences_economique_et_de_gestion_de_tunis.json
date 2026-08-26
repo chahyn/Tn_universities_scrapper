@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Faculté des Sciences Economique et de Gestion de Tunis",
+    "type": "PUBLIC",
+    "description": "Adresse :Faculté des Sciences Economiqueset de Gestion de Tunis, B.P 248 2092، TunisTéléphone : 71 870 277",
+    "logo_url": "https://fsegt.rnu.tn/wp-content/uploads/2021/07/logo-Fsegt.png",
+    "cover_image_url": null,
+    "website": "http://www.fsegt.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": "Faculté des Sciences Economiques",
+      "city": "Sciences Economiques"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "CLUBS ET ASSOCIATIONS",
+        "description": null,
+        "logo_url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%20219%22%3E%3C%2Fsvg%3E",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "AVIS PUBLIC D’APPEL À CANDIDATURE Contrat de prestation de service – Doctorant(e) contractuel (le)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Consultation n° 35/2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Consultation n° 36/2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Consultation n° 34/2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Consultation n° 26/2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Consultation  élargie  n° 23/2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vous avez une remarque  ouune réclmation?Faites-le nous savoirDéposer une réclamation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Ecole doctorale"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsegt.rnu.tn/",
+    "source_name": "faculte_des_sciences_economique_et_de_gestion_de_tunis"
+  }
+]

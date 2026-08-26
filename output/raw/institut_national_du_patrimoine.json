@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut National du Patrimoine",
+    "type": "PUBLIC",
+    "description": "Nous informons nos chers visiteurs que la nouvelle adresse de site web INP est accessible via ce lienSite web INP",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.inp.rnrt.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.inp.rnrt.tn/",
+    "source_name": "institut_national_du_patrimoine"
+  }
+]

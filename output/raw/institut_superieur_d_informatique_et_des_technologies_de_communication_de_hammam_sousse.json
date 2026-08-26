@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.infcom.rnu.tn/",
+    "email": "administration@isitc.u-sousse.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.infcom.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_et_des_technologies_de_communication_de_hammam_sousse"
+  }
+]

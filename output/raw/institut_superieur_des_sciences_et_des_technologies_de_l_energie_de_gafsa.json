@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Institut Supérieur des Sciences et des Technologies de l’énergie de Gafsa",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Sciences Sociales et de l'Education de Gafsa",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.issteg.rnu.tn/",
+    "email": "issseg.gafsa@issseg.ugaf.tn",
+    "phone": null,
+    "location": {
+      "address": "Route de Tozeur  -  2119 Gafsa",
+      "city": "Gafsa"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.issteg.rnu.tn/fra/pages/299/useruploads/images/img_banner/inscription-3.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "+"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.issteg.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_et_des_technologies_de_l_energie_de_gafsa"
+  }
+]

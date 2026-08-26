@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Institut Supérieur des Sciences Humaines de Tunis",
+    "type": "PUBLIC",
+    "description": "République TunisienneMinistère de l’Enseignement Supérieuret de la Recherche Scientifique",
+    "logo_url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "cover_image_url": null,
+    "website": "http://www.issht.rnu.tn/",
+    "email": null,
+    "phone": "(216) 71 56 94 99",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Doha Institute : les Bourses Internationales offertes par Doha Institute 2024-2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Doha Institute : les opportunités de Bourses Internationales 2024-2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Réunion des professeurs : la première réunion de l’année universitaire 2024-2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Fin 2023-2024: Fête de la fin de l’année universitaire à la Cité de Culture",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Colloque Philosophie 2023-2024 : Colloque du département de philosophie",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Ambassadeur du Venezuela : L’ambassadeur de Venezuela en tant que conférencier à l’occasion de la guerre de Gaza",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Doha Institute : les Bourses Internationales offertes par Doha Institute 2024-2025",
+      "Doha Institute : les opportunités de Bourses Internationales 2024-2025",
+      "Facebook",
+      "Lire plus >>"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.issht.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_humaines_de_tunis"
+  }
+]

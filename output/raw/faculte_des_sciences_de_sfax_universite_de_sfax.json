@@ -1,0 +1,172 @@
+[
+  {
+    "name": "FSS",
+    "type": "PUBLIC",
+    "description": "Une nouvelle initiative d'envergure portée par leCentre de Carrières et de Certification des Compétences de la Faculté des Sciences de Sfax (4C-FSS), en collaboration avec son partenaireDar Blockchain: leHedera Cross Campus Challenge 2026.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.fss.rnu.tn/",
+    "email": "contact@fss.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Route de la Soukra km 3,5 - BP 1171-3000 Sfax T.: 74 27 64 00 - 74 27 67 63 F.: 74 27 44 37 Email: contact@fss.rnu.tn Obtenir la localisation Envoyer",
+      "city": "Envoyer"
+    },
+    "programs": [
+      {
+        "name": "Nouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Faculté",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Emploi du Temps",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Ecole Doctorale",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Stages",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "4C FSS",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Nouveautés",
+        "description": null,
+        "logo_url": "http://www.fss.rnu.tn/fra/pages/299/useruploads/banners/defaut.png",
+        "contact_info": null
+      },
+      {
+        "name": "Faculté",
+        "description": null,
+        "logo_url": "http://www.fss.rnu.tn/fra/pages/299/useruploads/banners/defaut.png",
+        "contact_info": null
+      },
+      {
+        "name": "Emploi du Temps",
+        "description": null,
+        "logo_url": "http://www.fss.rnu.tn/fra/pages/299/useruploads/banners/defaut.png",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "http://www.fss.rnu.tn/fra/pages/299/useruploads/banners/defaut.png",
+        "contact_info": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "description": null,
+        "logo_url": "http://www.fss.rnu.tn/fra/pages/299/useruploads/banners/defaut.png",
+        "contact_info": null
+      },
+      {
+        "name": "Ecole Doctorale",
+        "description": null,
+        "logo_url": "http://www.fss.rnu.tn/fra/pages/299/useruploads/banners/defaut.png",
+        "contact_info": null
+      },
+      {
+        "name": "Stages",
+        "description": null,
+        "logo_url": "http://www.fss.rnu.tn/fra/pages/299/useruploads/banners/defaut.png",
+        "contact_info": null
+      },
+      {
+        "name": "4C FSS",
+        "description": null,
+        "logo_url": "http://www.fss.rnu.tn/fra/pages/299/useruploads/banners/defaut.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Faculté",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Emploi du Temps",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Ecole Doctorale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Stages",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "4C FSS",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Présentation: Bibliothèque de la Faculté des Sciences de Sfax"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fss.rnu.tn/",
+    "source_name": "faculte_des_sciences_de_sfax_universite_de_sfax"
+  }
+]

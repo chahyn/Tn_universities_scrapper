@@ -1,0 +1,1432 @@
+[
+  {
+    "name": "Universite de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.utunis.rnu.tn/"
+  },
+  {
+    "name": "Universite de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.utm.rnu.tn/"
+  },
+  {
+    "name": "Universite de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.ucar.rnu.tn/"
+  },
+  {
+    "name": "Universite de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.uma.rnu.tn/"
+  },
+  {
+    "name": "Universite de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.uss.rnu.tn/"
+  },
+  {
+    "name": "Universite de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.um.rnu.tn/"
+  },
+  {
+    "name": "Universite de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.uj.rnu.tn/"
+  },
+  {
+    "name": "Universite de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.univ-k.rnu.tn/"
+  },
+  {
+    "name": "Universite de Gabes",
+    "type": "PUBLIC",
+    "website": "http://www.univgb.rnu.tn/"
+  },
+  {
+    "name": "Universite Ez-Zitouna",
+    "type": "PUBLIC",
+    "website": "http://www.uz.rnu.tn/"
+  },
+  {
+    "name": "Universite de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.uc.rnu.tn/"
+  },
+  {
+    "name": "Universite de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.ugaf.rnu.tn/"
+  },
+  {
+    "name": "Universite Virtuelle de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.uvt.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences Humaines et Sociales de Tunis - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.fshst.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Sciences Economiques et Commerciales de Tunis - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.essect.rnu.tn/"
+  },
+  {
+    "name": "Ecole Normale Supérieure - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.ens.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et Techniques de Tunis - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.esstt.rnu.tn/"
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs de Tunis - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.ipeit.rnu.tn/"
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes Littéraires et de Sciences Humaines de Tunis - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.ipelsht.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Gestion de Tunis - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.isg.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de l'Education et de la Formation Continue - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.isefc.rnu.tn"
+  },
+  {
+    "name": "Institut Supérieur des Beaux Arts de Tunis - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.isbat.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Musique - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.ismt.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Art Dramatique - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.isad.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Culturelles et Métiers du Patrimoine de Tunis - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.ismpt.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités de Tunis - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.iseaht.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de l'Animation pour la Jeunesse et la Culture - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.isajc.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Études Appliquées en Humanités de Zaghouan - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.iseahz.rnu.tn/"
+  },
+  {
+    "name": "Institut National du Patrimoine - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.inp.rnrt.tn/"
+  },
+  {
+    "name": "Tunis Business School - Université de Tunis",
+    "type": "PUBLIC",
+    "website": "http://www.utunis.rnu.tn/tbs/"
+  },
+  {
+    "name": "Faculté de Droit et des Sciences Politiques de Tunis - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.fdspt.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences Economique et de Gestion de Tunis - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.fsegt.rnu.tn/"
+  },
+  {
+    "name": "Faculté des sciences de tunis - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.fst.rnu.tn/"
+  },
+  {
+    "name": "Faculté de Médecine de Tunis - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.fmt.rnu.tn/"
+  },
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Tunis - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.enit.rnu.tn/"
+  },
+  {
+    "name": "Institut Bourguiba des Langues Vivantes - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.iblv.rnu.tn/"
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs d'El Manar - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.ipeiem.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Biologiques Appliquées - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.issbat.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Informatique d'El Manar - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.isi.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Humaines de Tunis - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.issht.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Technologies Médicales - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.istmt.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et Techniques de la Santé de Tunis - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.paramedicalis.com/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences infirmières de Tunis - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.issit.tn/"
+  },
+  {
+    "name": "Institut Pasteur - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.pasteur.tn/"
+  },
+  {
+    "name": "Institut de Recherche Vétérinaire de Tunis - Université de Tunis El Manar",
+    "type": "PUBLIC",
+    "website": "http://www.iresa.agrinet.tn/fr/instit/p_irvt.htm"
+  },
+  {
+    "name": "Faculté des Sciences Juridiques, Politiques et Sociales de Tunis - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.fsjpst.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences de Bizerte - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.fsb.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences Economiques et de Gestion de Nabeul - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.fsegn.rnu.tn/"
+  },
+  {
+    "name": "Ecole Nationale d'Architecture et d'Urbanisme de Tunis - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://enau.jimdo.com/"
+  },
+  {
+    "name": "Ecole Polytechnique de Tunisie - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.ept.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure de Technologie et d'Informatique à Carthage - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.esti.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Statistiques et d'Analyse de l'Information - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.essai.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.esac.rnu.tn/"
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieur de Bizerte - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.ipeib.rnu.tn/"
+  },
+  {
+    "name": "Institut des Hautes Etudes Commerciales de Carthage - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.ihec.rnu.tn/"
+  },
+  {
+    "name": "Institut National des Sciences Appliquées et de Technologie - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.insat.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.issatm.rnu.tn/"
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieur Nabeul - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.ipein.rnu.tn/"
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.ipest.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Beaux Arts de Nabeul - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.isban.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.isteub.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Langues de Tunis - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.islt.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.islain.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences et Technologies de l'Environnement de Borj Cédria - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.isste.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Commerce et de Comptabilité de Bizerte - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.isccb.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Préparatoires en Biologie et Géologie à Soukra - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.isepbgsoukra.agrinet.tn/"
+  },
+  {
+    "name": "Sup'Com (Supcom) - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.supcom.mincom.tn/"
+  },
+  {
+    "name": "Ecole Supérieure d'Agriculture de Mograne - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.esamograne.agrinet.tn/"
+  },
+  {
+    "name": "Ecole Supérieure d'Agriculture de Mateur - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.esamateur.agrinet.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Industries Alimentaires de Tunis - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.esiat.agrinet.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Pêche et d'Aquaculture de Bizerte - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.ispab.agrinet.tn/"
+  },
+  {
+    "name": "Institut National du Travail et des Etudes Sociales de Tunis - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.intes.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Cadres de l'Enfance - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.iscenf.rnu.tn/"
+  },
+  {
+    "name": "Institut National Agronomique de Tunisie - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.inat.tn/"
+  },
+  {
+    "name": "Institut des Hautes Etudes Touristiques de Sidi Dhrif - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.ihet.rnu.tn/"
+  },
+  {
+    "name": "Institut National de Recherche en Génie Rural, Eau et Forêt - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.inrgref.agrinet.tn/"
+  },
+  {
+    "name": "Institut Natioal de Recherche Agronomique de Tunis - Université de Carthage",
+    "type": "PUBLIC",
+    "website": "http://www.inrat.agrinet.tn/"
+  },
+  {
+    "name": "Faculté des Lettres, des Arts et des Humanités de la Manouba - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.flm.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et Technologies du Design - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.essted.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure de Commerce de Tunis - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.esct.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure de Commerce Electronique de la Manouba - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.escem.rnu.tn/"
+  },
+  {
+    "name": "Ecole Nationale des Sciences de l'Informatique - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.ensi.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Arts du Multimédia de la Manouba - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.isa2m.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Comptabilité et d'Administration des Entreprises - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.iscae.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Biotechnologie de Sidi Thabet - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.isbst.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Documentation de Tunis - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.isd.rnu.tn/"
+  },
+  {
+    "name": "Institut de Presse et des Sciences de l'Information - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.ipsi.rnu.tn/"
+  },
+  {
+    "name": "Ecole Nationale de Médecine Vétérinaire de Sidi Thabet - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.iresa.agrinet.tn/fr/instit/enmv.htm"
+  },
+  {
+    "name": "Institut Supérieur du Sport et de l'Education Physique de Ksar Saïd - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.issep-ks.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Promotion des Handicapés de Ksar Saïd - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.iph.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de l'Histoire de la Tunisie Contemporaine - Université de la Manouba",
+    "type": "PUBLIC",
+    "website": "http://www.ishmn.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences Economiques et de Gestion de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.fsegs.rnu.tn/"
+  },
+  {
+    "name": "Faculté de Médecine de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.fmsf.rnu.tn/"
+  },
+  {
+    "name": "Faculté de droit de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.fdsf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.isams.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Electronique et de Communication de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.isecs.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Gestion Industrielle de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.isgis.rnu.tn/"
+  },
+  {
+    "name": "Institut des Hautes Etudes Commerciales de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.ihecsf.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.fss.rnu.tn/"
+  },
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.enis.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure de Commerce de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.escs.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Administration des Affaires de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.isaas.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Informatique et de Multimédia de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.isimsf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Musique de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.ismsf.rnu.tn/"
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.ipeis.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur du Sport et de l'Education Physique de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.issepsf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Biotechnologies de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.isbs.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Lettres et Sciences Humaines de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.flshs.rnu.tn/"
+  },
+  {
+    "name": "Institut Zitouna de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.iosfax.agrinet.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et Techniques de la Santé de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.esstssfax.org/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences infirmières de Sfax - Université de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.issisfax.rns.tn/"
+  },
+  {
+    "name": "Faculté des Sciences de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "https://www.esgitech.tn"
+  },
+  {
+    "name": "Faculté de Médecine de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.medecine-monastir.org/"
+  },
+  {
+    "name": "Institut Supérieur d'Informatique et de Mathématiques de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.isimm.rnu.tn/"
+  },
+  {
+    "name": "Faculté de Médecine Dentaire de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.fmdm.rnu.tn/"
+  },
+  {
+    "name": "Faculté de Pharmacie de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.fphm.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences Economiques et de Gestion de Mahdia - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.mes.tn/fsegma/accueil.htm"
+  },
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.enim.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Biotechnologie de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.isbm.rnu.tn/"
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieurs de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.ipeim.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et Techniques de la Santé de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.esstsm.org/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités de Mahdia - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://%20www.iseahm.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Métiers de la Mode de Monastir - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.ismmm.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Informatique de Mahdia - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.isima.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Mahdia - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.isammh.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Mahdia - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.issatmh.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Langues Appliquées aux Affaires et au Tourisme de Moknine - Université de Monastir",
+    "type": "PUBLIC",
+    "website": "http://www.islaatm.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences Juridiques, Economiques et de Gestion de Jendouba - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.fsjegj.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités du Kef - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "https://www.esgitech.tn"
+  },
+  {
+    "name": "Institut Supérieur des Langues Appliquées et d'Informatique de Béja - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.islaib.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Humaines de Jendouba - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.isshj.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Siliana - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.isamsl.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Musique et de Théâtre du Kef - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.istmk.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de l 'Education Physique du Kef - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure d'Agriculture du Kef - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.esakef.agrinet.tn/"
+  },
+  {
+    "name": "Institut Sylvo-Pastoral de Tabarka - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.isptabarka.agrinet.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Ingénieurs de l'Equipement Rural de Medjez El Bab - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.esier.agrinet.tn/"
+  },
+  {
+    "name": "Institut supérieur de l'informatique du Kef - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.isikef.rnu.tn/"
+  },
+  {
+    "name": "Institut supérieur de biotechnologie de Béja - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.isbb.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences infirmières du Kef - Université de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.issikf.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Lettres et des Sciences Humaines de Kairouan - Université de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.flshk.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Kairouan - Université de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.isamk.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Informatique et de Gestion de Kairouan - Université de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.isigk.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Juridiques et Politiques de Kairouan - Université de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.isejpk.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.issatkr.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Kasserine - Université de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.isamkas.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Mathématiques Appliquées et de l'Informatique de Kairouan - Université de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.ismaik.rnu.tn/mailtoismai@ismai.rnu.tn"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Sciences Humaines de Sbeïtla - Université de Kairouan",
+    "type": "PUBLIC",
+    "website": "https://www.esgitech.tn"
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Sidi Bouzid - Université de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.isamsb.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.fsg.rnu.tn/"
+  },
+  {
+    "name": "Ecole Nationale d'Ingénieurs de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.enig.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Gestion de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.isggb.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Langues de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.islgb.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.isamgb.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Biologie Appliquée de Medenine - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Juridiques de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.isejg.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d 'Informatique et de Multimédia de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.isimg.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.issatgb.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences et Techniques des Eaux de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.isstegb.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Systèmes Industriels de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.issig.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités de Médenine - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.iseahmd.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Informatique de Medenine - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.isim.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Arts et Métiers de Tataouine - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.isamt.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences infirmières de Gabès - Université de Gabès",
+    "type": "PUBLIC",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur de Théologie de Tunis - Université Ez-Zitouna",
+    "type": "PUBLIC",
+    "website": "http://www.isth.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Civilisation Islamique de Tunis - Université Ez-Zitouna",
+    "type": "PUBLIC",
+    "website": "http://www.isci.rnu.tn/"
+  },
+  {
+    "name": "Centre de Études Islamiques de Kairouan - Université Ez-Zitouna",
+    "type": "PUBLIC",
+    "website": "http://www.ceik.rnu.tn/"
+  },
+  {
+    "name": "Faculté de Droit et des Sciences Economiques et Politiques de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.fdseps.rnu.tn/"
+  },
+  {
+    "name": "Faculté de Médecine de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.medecinesousse.org/"
+  },
+  {
+    "name": "Faculté des Lettres et des Sciences Humaines de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.fls.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Finance et de Fiscalité de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.isffs.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.infcom.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur du Transport et de la Logistique de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.istls.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Beaux Arts de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.isbas.rnu.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et Techniques de la Santé de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.esstssousse.com/"
+  },
+  {
+    "name": "Institut Supérieur de Gestion de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.isgs.rnu.tn/"
+  },
+  {
+    "name": "Institut des Hautes Etudes Commerciales de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.ihecso.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de Musique de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.ismso.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.issatso.rnu.tn/"
+  },
+  {
+    "name": "Ecole Nationale d’Ingénieurs de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.eniso.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur Agronomique de Chott Mériem - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.isa-cm.agrinet.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences infirmières de Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.sciencesinfirmieres.tn/"
+  },
+  {
+    "name": "Ecole Supérieure des Sciences et des technologies de Hammam Sousse - Université de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.essths.rnu.tn/"
+  },
+  {
+    "name": "Faculté des Sciences de Gafsa - Université de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.fsgf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités de Gafsa - Université de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.iseahgf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Administration des Entreprises de Gafsa - Université de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.isaeg.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Gafsa - Université de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.issatgf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur d'Arts et Métiers de Gafsa - Université de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.isamgf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Sciences et des Technologies de l’énergie de Gafsa - Université de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.issteg.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités de Tozeur - Université de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.iseahtz.rnu.tn/"
+  },
+  {
+    "name": "Institut Préparatoire aux Etudes d’Ingénieur de Gafsa - Université de Gafsa",
+    "type": "PUBLIC",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur du Sport et de l’Education Physique de Gafsa - Université de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.issepgf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur de l'Education et de la Formation Continue",
+    "type": "PUBLIC",
+    "website": null
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Sfax",
+    "type": "PUBLIC",
+    "website": "http://www.isetsf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Kebili",
+    "type": "PUBLIC",
+    "website": "http://www.isetke.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Gabès",
+    "type": "PUBLIC",
+    "website": "http://www.isetgb.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Djerba",
+    "type": "PUBLIC",
+    "website": "http://www.isetjb.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Kef",
+    "type": "PUBLIC",
+    "website": "http://www.isetkf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Zaghouan",
+    "type": "PUBLIC",
+    "website": "http://www.isetzg.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Sousse",
+    "type": "PUBLIC",
+    "website": "http://www.isetso.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Mahdia",
+    "type": "PUBLIC",
+    "website": "http://www.isetma.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Siliana",
+    "type": "PUBLIC",
+    "website": "http://www.isetsl.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Radès",
+    "type": "PUBLIC",
+    "website": "http://www.isetr.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Nabeul",
+    "type": "PUBLIC",
+    "website": "http://www.isetn.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Sidi Bouzid",
+    "type": "PUBLIC",
+    "website": "http://www.isetsbz.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques en Communications (El Ghazala)",
+    "type": "PUBLIC",
+    "website": "http://www.isetcom.mincom.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Kairouan",
+    "type": "PUBLIC",
+    "website": "http://www.isetkr.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Gafsa",
+    "type": "PUBLIC",
+    "website": "http://www.isetgf.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Béja",
+    "type": "PUBLIC",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Charguia",
+    "type": "PUBLIC",
+    "website": "http://www.isetch.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Jendouba",
+    "type": "PUBLIC",
+    "website": "http://www.isetj.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Kasserine",
+    "type": "PUBLIC",
+    "website": "http://www.isetks.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Ksar Hellal",
+    "type": "PUBLIC",
+    "website": "http://www.isetkh.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Tataouine",
+    "type": "PUBLIC",
+    "website": "http://www.isetta.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Tozeur",
+    "type": "PUBLIC",
+    "website": "http://www.isett.rnu.tn/"
+  },
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Bizerte",
+    "type": "PUBLIC",
+    "website": "http://www.isetb.rnu.tn/"
+  },
+  {
+    "name": "Institut supérieur des Etudes Technologiques de Médenine",
+    "type": "PUBLIC",
+    "website": "http://www.isetmd.rnu.tn/"
+  },
+  {
+    "name": "Ecole Centrale Supérieure Privée des Sciences Paramédicales et de la Santé - Tunis",
+    "type": "PRIVATE",
+    "website": "http://www.universitecentrale.net"
+  },
+  {
+    "name": "Ecole Centrale Supérieure Privée des Lettres, des Arts et des Sciences de la Communication- Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Centrale Supérieure Privée de Droit et de Gestion - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Internationale Supérieure Privée Polytechnique de Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Méditerranéenne Supérieure Privée des Affaires - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Méditerranéenne Supérieure Privée Polytechnique - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Internationale Privée de Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée Centrale Polytechnique - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d'Ingénierie et de Technologie - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée de Carthage des Sciences et d’Ingénierie - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée de Carthage de Management - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée de Droit et de management - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée de l'Aéronautique et des Technologies - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée de l’Audiovisuel et du Design - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée de Technologie et de Management - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée de Technologies de l'Information et d’Administration des Entreprises - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée de technologies et d’ingénierie",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée des Sciences Appliquées et de Management - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’Administration des Affaires et de Droit \" Avicenne» - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’Informatique et d’Administration des Affaires - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’ingénierie et de communication - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’Ingénieurs et d’Etudes Technologiques de Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée Polytechnique Ibn Khaldoun - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée Law and Business School - Tunis",
+    "type": "PRIVATE",
+    "website": "http://www.lbs.tn/"
+  },
+  {
+    "name": "Ecole Supérieure de Génie Informatique et de Technologie - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée Maghrébine des Sciences et Technologies - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Faculté Privée Pionnière de Technologie et d’Administration des Affaires de Tunis",
+    "type": "PRIVATE",
+    "website": "https://universitepioneer.tn/"
+  },
+  {
+    "name": "Faculté Méditerranéenne Privée des Sciences Informatiques, d’Economie et de Gestion de Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Faculté Privée de Droit, d’Economie et de Gestion - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Faculté Privée de Montplaisir - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Faculté Privée des Sciences de Gestion et de Technologie à Mégrine - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Faculté Privée des Sciences de la santé de Tunis",
+    "type": "PRIVATE",
+    "website": "http://www.supsat-univ.tn"
+  },
+  {
+    "name": "Faculté Privée des Sciences Juridiques, Sociales, Economiques et de Gestion de Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Faculté Privée Ibn Khaldoun de Droit, des Sciences Economiques et de Gestion - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut International Supérieur Privé des Etudes Numériques et Audiovisuelles - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Privé des Hautes Etudes de Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur Privé des Sciences Paramédicales \" Mahmoud Materi\" - Tunis",
+    "type": "PRIVATE",
+    "website": "http://www.umm-tunisie.com"
+  },
+  {
+    "name": "Institut Supérieur privé d’administration des Entreprises- Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur Privé Méditerranéen de Technologie",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur Privé Polytechnique - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur Privé Tunis Dauphine - Tunis",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Polytechnique Privée de Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Internationale Privée de Management de Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée de Technologie, d’Informatique et de Gestion de Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’Economie et de Gestion de Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’Ingénierie et de Technologie appliquée- Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’Ingénierie, des Sciences et de Technologie de Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’Ingénieurs de Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Faculté Privée de Gestion et des Sciences de l’Administration de Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Privé des Hautes Etudes de Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur Privé Des Sciences Commerciales Et Des Affaires - Sousse",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Institut Supérieur Privé des Sciences de la Santé de Sousse",
+    "type": "PRIVATE",
+    "website": "http://upsat.ssconnect.tn"
+  },
+  {
+    "name": "Institut Supérieur Privé des Sciences Infirmières \"EL AMED\" - Sousse",
+    "type": "PRIVATE",
+    "website": "http://www.universite-amed.com"
+  },
+  {
+    "name": "Institut Supérieur Privé des Sciences Infirmières \"Etoile de formation\" - Sousse",
+    "type": "PRIVATE",
+    "website": "http://www.etoile-formation.com"
+  },
+  {
+    "name": "Institut Supérieur Privé des Sciences Infirmières de Sousse",
+    "type": "PRIVATE",
+    "website": "http://www.isis-infirmier.tn"
+  },
+  {
+    "name": "Ecole Supérieure Internationale Privée de Technologie - Sfax",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Internationale Supérieure Privée des Affaires - Sfax",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée des Etudes Administratives et Commerciales de Sfax",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Polytechnique Internationale Privée de Sfax",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Faculté Privée des Sciences Paramédicales de Sfax",
+    "type": "PRIVATE",
+    "website": "https://www.esgitech.tn"
+  },
+  {
+    "name": "Institut Supérieur Polytechnique Privé des Sciences Avancées du Sud - Sfax",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Faculté Privée des sciences de l’informatique et de management de Nabeul",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Méditerranéenne Supérieure Privée des Sciences Informatiques, d’Economie et de Gestion de Nabeul",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée des Technologies de l’Information et de Management de Nabeul",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’ingénieurs de Monastir",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Polytechnique Privée de Monastir",
+    "type": "PRIVATE",
+    "website": "https://www.umm-tunisie.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée des Sciences Appliquées et de Technologie de Gabès (université technologique privée de gabès - Utech)",
+    "type": "PRIVATE",
+    "website": "http://www.essat-gabes.com/"
+  },
+  {
+    "name": "Ecole Supérieure Privée d’ingénieurs de Gafsa",
+    "type": "PRIVATE",
+    "website": "http://www.esip.tn/"
+  },
+  {
+    "name": "Institut Supérieur Privé des Sciences Infirmières de Kairouan",
+    "type": "PRIVATE",
+    "website": "https://www.esgitech.tn"
+  }
+]

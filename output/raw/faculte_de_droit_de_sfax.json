@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Faculté de droit de Sfax",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.fdsf.rnu.tn/",
+    "email": "contact@fds.usf.tn",
+    "phone": "+216 74 272 331",
+    "location": {
+      "address": "Route de Sidi Mansour - km 10  - 3061 sfax",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Publications de l'Ecole Doctorale",
+      "Publications de l'Ecole doctorale",
+      "Réception organisée par la Faculté de Droit de Sfax",
+      "colloque sur Dynamiques des politiques et institutions territoriales"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fdsf.rnu.tn/",
+    "source_name": "faculte_de_droit_de_sfax"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Institut Supérieur de Gestion de Tunis",
+    "type": "PUBLIC",
+    "description": "Riche de ses 52 années d’existence et de sa culture de l’excellence,\n                  l’ISG Tunis offre une formation solide et variée dans les domaines de\n                  l’informatique de gestion, du marketing, de la finance, du\n                  management, de la gestion des ressources humaines et de\n                  l’expertise comptable",
+    "logo_url": "http://www.isg.rnu.tn/img/logo-footer.svg",
+    "cover_image_url": null,
+    "website": "http://www.isg.rnu.tn/",
+    "email": "Direction.isg@isg.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "ISG financial club",
+        "description": null,
+        "logo_url": "http://www.isg.rnu.tn/img/club/timun3.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Mise à jour  CALENDRIER DES INSCRIPTIONS UNIVERSITAIRES 2025/2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "202306Jan.l’ISG de TunisConvention de Partenariat...Nous avons le plaisir de vous annoncer la signature de la convention...",
+      "L’Ecole Doctorale ED - (ISG-ESSEC-TBS)"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isg.rnu.tn/",
+    "source_name": "institut_superieur_de_gestion_de_tunis"
+  }
+]

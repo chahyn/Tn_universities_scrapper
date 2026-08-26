@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Ecole Nationale des Sciences de l'Informatique",
+    "type": "PUBLIC",
+    "description": "École Nationale des Sciences de l’Informatique",
+    "logo_url": "http://www.ensi.rnu.tn/stylesheets/images/header/header_logo.png",
+    "cover_image_url": null,
+    "website": "http://www.ensi.rnu.tn/",
+    "email": "webmaster@ensi.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Campus Universitaire de la Manouba  - 2010 Tunisie",
+      "city": "Tunisie"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Ecole doctorale"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ensi.rnu.tn/",
+    "source_name": "ecole_nationale_des_sciences_de_l_informatique"
+  }
+]

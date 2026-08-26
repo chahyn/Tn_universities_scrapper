@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Institut Supérieur des Sciences infirmières de Sfax",
+    "type": "PUBLIC",
+    "description": "L'institut supérieur des sciences infirmières de Sfax (ISSI Sfax) est une institution universitaire sous la cotutelle des ministères tunisiens de l'enseignement supérieur et de la santé publique et fait...",
+    "logo_url": "http://www.issisfax.rns.tn/images/docs/logo-usf.png",
+    "cover_image_url": null,
+    "website": "http://www.issisfax.rns.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Master professionnel",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Certificat d'Etudes Complémentaires en Santé",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Bulletin d'information",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis à tous les étudiants",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier des examens théoriques",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.issisfax.rns.tn/",
+    "source_name": "institut_superieur_des_sciences_infirmieres_de_sfax"
+  }
+]

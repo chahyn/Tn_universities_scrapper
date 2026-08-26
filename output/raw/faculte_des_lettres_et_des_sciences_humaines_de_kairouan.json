@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Faculté des Lettres et des Sciences Humaines de Kairouan",
+    "type": "PUBLIC",
+    "description": "Faculté des Lettres et des Sciences Humaines de Kairouan",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.flshk.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": "Rakada 3100 Kairouan Tunisie",
+      "city": "Kairouan Tunisie"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Club de théâtre",
+        "description": null,
+        "logo_url": "http://www.flshk.rnu.tn/fra/pages/169/useruploads/images/cralf-flshk.png",
+        "contact_info": null
+      },
+      {
+        "name": "Club de musique",
+        "description": null,
+        "logo_url": "http://www.flshk.rnu.tn/fra/pages/169/useruploads/images/cralf-flshk.png",
+        "contact_info": null
+      },
+      {
+        "name": "Club des arts",
+        "description": null,
+        "logo_url": "http://www.flshk.rnu.tn/fra/pages/169/useruploads/images/cralf-flshk.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "الملتقى الدولي: ابن رشد والفلسفة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "L'équipe de l'école doctorale"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.flshk.rnu.tn/",
+    "source_name": "faculte_des_lettres_et_des_sciences_humaines_de_kairouan"
+  }
+]

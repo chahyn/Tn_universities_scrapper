@@ -1,0 +1,329 @@
+[
+  {
+    "name": "ISIMG",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de l'Informatique et Multimédia de Gabès",
+    "logo_url": "http://www.isimg.rnu.tn/front2/images/isimglogo.png",
+    "cover_image_url": null,
+    "website": "http://www.isimg.rnu.tn/",
+    "email": "isimg@isimg.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Workshop IoT - session 2",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/affiches/affiche259.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop IOT",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/245_4.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Web development for beginners session 2",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/231_2.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Web development for beginners",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/227_4.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Flutter Bootcamp",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/225_5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Master the Docker Echosystem",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/219_3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Web development",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/affiches/affiche215.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Flutter Bootcamp - session 2",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/affiches/affiche214.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Flutter Mobile Development – Session 1",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/207_4.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Docker Ecosystem",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/204_7.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Object detection with YOLO",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/200_6.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop IoT Smart Home",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/191_3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Coding with AI",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/183_3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Info session Info session",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/182_3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop ESP32 & micropython",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/170_4.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Angular session 1",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/affiches/affiche166.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Data manipulation + Machine learning",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/affiches/affiche161.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Flutter session 3",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/159_1.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop AI Training",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/157_2.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Mobile development session 2",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/affiches/affiche152.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Mobile development introduction with Flutter",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/149_5.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Graphic design",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/141_2.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Workshop Web Development Session 2",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/123_1.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation Line follower robot",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/110_3.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation Développemnt Web",
+        "description": null,
+        "logo_url": "https://isimg.rnu.tn/./useruploads/clubs/photos/97_4.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Cérémonie de fin d'année",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Think. Build. Launch!",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Réussir sa présentation en anglais",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Building your first Odoo Module",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Leadership training",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "AI summit v3 Deep Learning",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Initiation to Hedera hashgraph certification",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop IoT - session 2",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Gabès Final Zone",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation ERP Essential Hands-on with Odoo",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Conférence LLMS driiven complex system engineering and vice versa",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation Blockchain",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "ODD Challenge ISIMG",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "حملة للتبرع بالدم",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation Leadership skills",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation Intro à Google Cloud Platform",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "التلميذ في رحاب الجامعة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Communication Skills",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop IOT",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Open practice",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation Intelligence artificielle",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Public speaking",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Digital marketing sessions 1 & 2",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop Digital marketing sessions 3 & 4",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Introduction à l'IA et aux LLM",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Activités culturelles et scientifiques",
+      "Evènements",
+      "Plus d'activités"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isimg.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_et_de_multimedia_de_gabes_universite_de_gabes"
+  }
+]

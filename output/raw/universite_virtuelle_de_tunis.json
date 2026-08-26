@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Universite Virtuelle de Tunis",
+    "type": "PUBLIC",
+    "description": "L’université Virtuelle de Tunis (UVT), établissement public, a pour principale mission de développer des cours et des programmes universitaires d'enseignement en ligne pour les universités tunisiennes.",
+    "logo_url": "https://www.uvt.rnu.tn/images/images2019/logo-uvt.png",
+    "cover_image_url": null,
+    "website": "https://www.uvt.rnu.tn/",
+    "email": null,
+    "phone": "+216 71 90 52 48",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Recherche scientifique (ISEFC)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Signature d’une convention de partenariat entre l’UVT et l’Université de Nouakchott",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L'UVT au cœur de la coopération universitaire méditerranéenne",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L’Université Virtuelle de Tunis renforce son ouverture internationale à travers une mobilité académique avec l’Université Catholique de Valence",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L’UVT félicite Wael Ben Ghanem pour sa réussite à l’examen national du CES de révision comptable",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "L’UVT au cœur de la coopération académique internationale",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Ressources numériques",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Publications institutionnelles"
+    ],
+    "sub_institutions": [],
+    "source_url": "https://www.uvt.rnu.tn/",
+    "source_name": "universite_virtuelle_de_tunis"
+  }
+]

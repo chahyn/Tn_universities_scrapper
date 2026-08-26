@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ISSATGB",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Sciences Appliquées et de Technologie de Gabès",
+    "logo_url": " https://issatgb.rnu.tn/storage/app/public/coordinates/December2025/1YXtxoU5l2z0Ahac2kxp.png ",
+    "cover_image_url": null,
+    "website": "http://www.issatgb.rnu.tn/",
+    "email": "issatgb@issatgb.rnu.tn",
+    "phone": "+216 75 392 108",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "A propos ISSATGB",
+      "L'Institut en quelques mots",
+      "Plus d'information"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.issatgb.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_appliquees_et_de_technologie_de_gabes_universite_de_gabes"
+  }
+]

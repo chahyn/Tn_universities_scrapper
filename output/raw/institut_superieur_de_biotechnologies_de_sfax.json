@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Institut Supérieur de Biotechnologies de Sfax",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de Biotechnologie de Sfax",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isbs.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Club Environnement",
+        "description": null,
+        "logo_url": null,
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Projets et coopérations",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste complémentaire: Inscription aux Masters édition 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription aux Masters édition 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Candidature au Master Professionnel Solid Waste Recycling and Circular Economy  pour l’année universitaire 2026-2027.",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Orientation vers les parcours des licences 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isbs.rnu.tn/",
+    "source_name": "institut_superieur_de_biotechnologies_de_sfax"
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Institut Supérieur de Pêche et d'Aquaculture de Bizerte",
+    "type": "PUBLIC",
+    "description": "ISSMB est l'Institut Supérieur des Sciences de mer de Bizerte responsable de la formation des techniciens supérieurs dans le domaine de la pêche et de l'aquaculture.",
+    "logo_url": "http://www.ispab.agrinet.tn/images/logo/logo_ISSMB.jpg",
+    "cover_image_url": null,
+    "website": "http://www.ispab.agrinet.tn/",
+    "email": "bo.ispab@iresa.agrinet.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Club Bleu Artisanal",
+        "description": null,
+        "logo_url": "http://www.ispab.agrinet.tn/images/banners/FAO.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Projet transfrontalierCLUB BLEU ARTISANAL",
+        "description": null,
+        "logo_url": "http://assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Services aux étudiants",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "إعلام إلى طلبة السنة الثالثة علوم البحار",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultas session de Rattrapage 2ème année Master",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats de la session principale du Niveau 3 année universitaire 2025/2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats de la session de rattrapage Niveau 1 année universitaire 2025/2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Resultat de la session Rattrapage 1ere année Master Année Universitaire 2025/2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ لكافة طلبة المعهد المعنيين بدورة المراقبة للسنة الجامعية 2025/2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "📢 AVIS AUX ÉTUDIANTS : Stages d’été 2026 🌊",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "CALENDRIER DE LA SESSION DE RATTRAPAGE – MASTÈRE 1 (2025-2026)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "CALENDRIER DE LA SESSION DE RATTRAPAGE – NIVEAU 1 (2025-2026)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats : 1ère Année Mastère – Semestre 2 (Année Universitaire 2025 - 2026)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "📢 Résultats : Session Principale Niveau 3 – Pêche et Aquaculture (2025-2026)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "📢 Résultats : Session Principale Niveau 2 – Pêche et Aquaculture (2025-2026)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "🎓 Résultats Niveau 1 : Tronc commun (Sciences de la Mer) – Année Universitaire 2025-2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier de la Session Principale d'Examens – Mai 2026 Niveau : 2ème Année Licence (LSM)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier de la Session Principale d'Examens – Mai 2026 Niveau : 1ère Année Licence (LSM)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Voyage d’étude et de Synthèse 3e année - Sciences de la Mer De 15 au 22 Mai 2026 Programme détaillée",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste des Soutenances des Projets Tutorés Proposés (2ème Année)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste des Soutenances des Projets Tutorés Proposés (1ère Année)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ispab.agrinet.tn/",
+    "source_name": "institut_superieur_de_peche_et_d_aquaculture_de_bizerte"
+  }
+]

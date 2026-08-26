@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Université  de Monastir Accueil",
+    "type": "PUBLIC",
+    "description": "L'université de Monastir est une université tunisienne basée à Monastir.",
+    "logo_url": "http://www.um.rnu.tn/media/1006/logo-web-um-2020.png?crop=0,0,0,0&cropmode=percentage&width=327&height=85&rnd=134241976220000000",
+    "cover_image_url": null,
+    "website": "http://www.um.rnu.tn/",
+    "email": "um@um.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Formation LMD",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Etudes d'ingénieurs",
+        "degree_type": "ENGINEERING",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Etudes médicales",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Ecole Nationale d'Ingénieurs de Monastir",
+      "Ecole Supérieure des Sciences et Techniques de la Santé de Monastir",
+      "Ecoles",
+      "Ecoles doctorales",
+      "Institut Préparatoire aux Etudes d'Ingénieur de Monastir",
+      "Institut Superieur d'Informatique et des Mathématiques de Monastir",
+      "Institut Supérieur d'Informatique de Mahdia",
+      "Institut Supérieur d'Informatique et des Mathématiques de Monastir",
+      "Institut Supérieur de Biotechnologie de Monastir",
+      "Institut Supérieur de Mode de Monastir",
+      "Institut Supérieur des Arts et Métiers de Mahdia",
+      "Institut Supérieur des Etudes Appliquées en Humanités de Mahdia",
+      "Institut Supérieur des Langues de Moknine",
+      "Institut Supérieur des Sciences Appliquées et de Technologie de Mahdia",
+      "Instituts"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.um.rnu.tn/",
+    "source_name": "universite_de_monastir"
+  }
+]

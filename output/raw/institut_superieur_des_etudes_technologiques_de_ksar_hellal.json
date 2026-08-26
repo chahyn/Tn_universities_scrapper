@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ISETKH",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des études Technologiques de Ksar-Hellal",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetkh.rnu.tn/",
+    "email": "iset.ksarhellal@isetkh.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isetkh.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_ksar_hellal"
+  }
+]

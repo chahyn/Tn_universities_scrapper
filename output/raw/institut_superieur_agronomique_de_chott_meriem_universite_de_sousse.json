@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Institut Supérieur Agronomique Chott Mériem (ISA",
+    "type": "PUBLIC",
+    "description": "Bienvenue à l'Institut Supérieur Agronomique de Chott-Mériem (ISA-CM)Institution d’enseignement supérieur crée en 1975, sous tutelle du Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche (IRESA) et du Ministère de l’Enseignement Supérieur et de la Recherche Scientifique, l' ISA-CM offre aux étudiants une formation moderne, innovante, ancrée dans la réalité du terrain et couvrant tous les domaines des sciences agronomiques : Horticulture, paysage, génie horticole et production animale.",
+    "logo_url": "https://isa-cm.agrinet.tn/storage/app/public/coordinates/January2026/rU53MPAIizy1lX2xm7MM.png",
+    "cover_image_url": null,
+    "website": "http://www.isa-cm.agrinet.tn/",
+    "email": "isa.chottmeriem@iresa.agrinet.tn",
+    "phone": "(+216) 73 327 542",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "ATAST club ISA-CM",
+        "description": null,
+        "logo_url": "https://isa-cm.agrinet.tn/storage/app/public/organisms/March2026/yIjBxxGJvxP8Tu8dViw8.jpg                                        ",
+        "contact_info": null
+      },
+      {
+        "name": "Génie Zoa",
+        "description": null,
+        "logo_url": "https://isa-cm.agrinet.tn/storage/app/public/default-covers/August2025/GhmMjitlcFmNrBkc3kDa.webp                                        ",
+        "contact_info": null
+      },
+      {
+        "name": "Club de l’Environnement",
+        "description": null,
+        "logo_url": "https://isa-cm.agrinet.tn/storage/app/public/default-covers/August2025/GhmMjitlcFmNrBkc3kDa.webp                                        ",
+        "contact_info": null
+      },
+      {
+        "name": "El Firma",
+        "description": null,
+        "logo_url": "https://isa-cm.agrinet.tn/storage/app/public/default-covers/August2025/GhmMjitlcFmNrBkc3kDa.webp                                        ",
+        "contact_info": null
+      },
+      {
+        "name": "Enactus",
+        "description": null,
+        "logo_url": "https://isa-cm.agrinet.tn/storage/app/public/default-covers/August2025/GhmMjitlcFmNrBkc3kDa.webp                                        ",
+        "contact_info": null
+      },
+      {
+        "name": "Club Radio",
+        "description": null,
+        "logo_url": "https://isa-cm.agrinet.tn/storage/app/public/default-covers/August2025/GhmMjitlcFmNrBkc3kDa.webp                                        ",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Forum International FORFIRE-AI : Meilleures pratiques post-incendies",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Hommage aux enseignants et directeurs retraités de l’ISA-CM à l’occasion de la Journée Nationale de l’Agriculture 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الاحتفال باليوم الوطني للفلاحة تحت شعار \"السيادة الغذائية قرار وليس خيار\"",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الاحتفالات بالعيد الوطني للفلاحة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "زيارة السيّد وزير الفلاحة و الموارد المائية و الصيد البحري للمعهد العالي للعلوم الفلاحية بشط مريم بتاريخ 08 ماي 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Atelier: Usage de l'IA dans la Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Conférence scientifique: Gestion durable des ressources",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Conférence Scientifique : Bibliométrie et évaluation de la recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Conférence scientifique: : Prompt Engineering in Agriculture",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "FORFIRE-AI",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Conférence Scientifique : Blockchaine et IA pour une Agriculture Intelligente",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "INVITATION – CONFÉRENCES SCIENTIFIQUES | AVRIL 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Actualités"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isa-cm.agrinet.tn/",
+    "source_name": "institut_superieur_agronomique_de_chott_meriem_universite_de_sousse"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Faculté des Sciences Economiques et de Gestion de Nabeul",
+    "type": "PUBLIC",
+    "description": "Faculté des Sciences Économiques et de Gestion de Nabeul",
+    "logo_url": "http://www.fsegn.rnu.tn/storage/sponsors/logos/UrlKjbSD8Td5ru38t9rMB0M1iXM1mGkVbKza73y5.jpg",
+    "cover_image_url": null,
+    "website": "http://www.fsegn.rnu.tn/",
+    "email": "fsegn.administration@fsegn.ucar.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs d’étudiants",
+        "description": null,
+        "logo_url": "https://fsegn.rnu.tn/images/logo_footer.svg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Activité de l'école doctorale",
+      "Conseil de l'école doctorale",
+      "Conseil scientifique",
+      "Documents utiles",
+      "Démarche qualité",
+      "Enseignants",
+      "Formation et évaluation",
+      "Galerie vidéo",
+      "Mot de la direction",
+      "Mot du Doyen",
+      "Productions Scientifiques",
+      "Présentation de l’école doctorale",
+      "Présentation du Laboratoire ENVIE",
+      "Recherche"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsegn.rnu.tn/",
+    "source_name": "faculte_des_sciences_economiques_et_de_gestion_de_nabeul"
+  }
+]

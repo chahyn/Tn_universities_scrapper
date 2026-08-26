@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Institut Supérieur d 'Informatique et de Gestion de Kairouan",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'Informatique et de Gestion de Kairouan",
+    "logo_url": "http://www.isigk.rnu.tn/images/logo-isigk-white.svg",
+    "cover_image_url": null,
+    "website": "http://www.isigk.rnu.tn/",
+    "email": "isig.kairouan@isigk.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "https://isigk.rnu.tn/images/logo-isigk-white.svg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Conseil scientifique",
+      "En Chiffres",
+      "Enseignants",
+      "Loi de création",
+      "Mission, vision, valeurs",
+      "Plan d'orientation stratégique",
+      "Politique de l'ISIGK"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isigk.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_et_de_gestion_de_kairouan"
+  }
+]

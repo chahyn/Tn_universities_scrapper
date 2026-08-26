@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Faculté des Sciences de Sfax",
+    "type": "PUBLIC",
+    "description": "إستشارة  أشغال دهن المسكن الوظيفي التابع لكلية العلوم بصفاقس والمخصص للكاتب العام",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.fss.rnu.tn/",
+    "email": "contact@fss.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Route de la Soukra km 3,5 - BP 1171-3000  Sfax",
+      "city": "Sfax"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Projet PAQ-DGSE-FSS (In-Com)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Activités culturelles",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Présentation: Bibliothèque de la Faculté des Sciences de Sfax"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fss.rnu.tn/",
+    "source_name": "faculte_des_sciences_de_sfax"
+  }
+]

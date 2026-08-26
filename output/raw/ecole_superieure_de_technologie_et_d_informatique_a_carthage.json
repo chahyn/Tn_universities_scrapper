@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ecole Supérieure de Technologie et d'Informatique à Carthage",
+    "type": "PUBLIC",
+    "description": "epuis sa création, le Centre de Calcul El Khawarizmi œuvre à fournir des services informatiques et l’assistance nécessaire aux enseignants, chercheurs et étudiants dans toutes les disciplines.Soucieux de perfectionner et multiplier ses services, le CCK s’est orienté à assurer l’ensemble de services à distance et ce, dans le cadre des orientations stratégiques pour un développement scientifique durable.Récemment le CCK a décidé de lancer «un pack étudiant» composé d’un ensemble de services Internet à savoir la messagerie électronique, la navigation web et bien d’autres servicesCe pack permettra aux étudiants de bénéficier non seulement d’une connexion gratuite et libre accès mais aussi d’une adresse mail officielle et personnalisée.",
+    "logo_url": "http://www.esti.rnu.tn/images/abonnement_02.jpg",
+    "cover_image_url": null,
+    "website": "http://www.esti.rnu.tn/",
+    "email": "info@abonnement.turen.tn",
+    "phone": "(216 71) 60 29 40",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.esti.rnu.tn/",
+    "source_name": "ecole_superieure_de_technologie_et_d_informatique_a_carthage"
+  }
+]

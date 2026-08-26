@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ISETZG",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Technologiques de Zaghouan\r\nCrée par la loi n° 1535 du 25 juin 2002 ; l’Institut Supérieur des Etudes Technologiques de Zaghouan (ISET de Zaghouan) constitue un centre de compétence complet, ouvert à l’environnement extérieur et bien situé dans une ville au carrefour de grands axes de communication du nord au cap bon jusqu’au centre du pays.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isetzg.rnu.tn/",
+    "email": null,
+    "phone": "+216 72 660 700",
+    "location": {
+      "address": "Mogren - 1121 Zaghouan",
+      "city": "Zaghouan"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isetzg.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_zaghouan"
+  }
+]

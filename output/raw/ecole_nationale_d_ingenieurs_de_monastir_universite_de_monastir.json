@@ -1,0 +1,35 @@
+[
+  {
+    "name": "ENIM",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.enim.rnu.tn/storage/sponsors/logos/irBeI6zjncTrTdM82wDhwrQ2x1bhc1MoIjjpsT6g.jpg",
+    "cover_image_url": null,
+    "website": "http://www.enim.rnu.tn/",
+    "email": "enim@enim.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Calendrier Académique",
+      "Conditions de dépôt d’une thèse",
+      "Conseil scientifique",
+      "Ecole Doctorale",
+      "Evolution des Diplômées de Doctorat",
+      "Guide de l’élève-ingénieur",
+      "Inscription",
+      "L’ENIM en chiffre",
+      "Mot du directeur",
+      "Organigramme",
+      "Rapports d'activités"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.enim.rnu.tn/",
+    "source_name": "ecole_nationale_d_ingenieurs_de_monastir_universite_de_monastir"
+  }
+]

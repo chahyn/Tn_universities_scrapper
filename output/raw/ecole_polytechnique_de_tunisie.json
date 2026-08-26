@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Ecole Polytechnique de Tunisie",
+    "type": "PUBLIC",
+    "description": "Site officiel de l'école polytechnique de Tunisie",
+    "logo_url": "http://www.ept.rnu.tn/wp-content/uploads/2016/05/logo21.png",
+    "cover_image_url": null,
+    "website": "http://www.ept.rnu.tn/",
+    "email": null,
+    "phone": "+216 71 774 611",
+    "location": {
+      "address": "B.P. 743 - 2078 La Marsa",
+      "city": "La Marsa"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.ept.rnu.tn/wp-content/plugins/business-contact-widget/images/map.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Ecole Polytechnique de Tunisie",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "إعــلان طلــب عــروض وطــني  عـــدد 01/2026  » التنظيم المادي لرحلة دراسية خارج الجمهورية التونسية  ( برشلونة ) ورحلة دراسية داخل الجمهورية التونسية »",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription 2026-2027Inscription 2026-2027Règlement interne de l’écoleRèglement du foyer",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour le Laboratoire LEGI (Laboratoire d’Economie et de Gestion Industrielle) de L’École Polytechnique de TunisieTélécharger l’annonce (PDF)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour le Laboratoire LEGI (Laboratoire d’Economie et de Gestion Industrielle) de L’École Polytechnique de Tunisie",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour le Laboratoire d’Ingénierie Mathématique de l’École Polytechnique de TunisieTélécharger l’Annonce.",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature pour le Laboratoire d’Ingénierie Mathématique de l’École Polytechnique de Tunisie",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "A propos",
+      "ADEPT",
+      "Anciens de l’école",
+      "Appel à candidature pour le Laboratoire LEGI (Laboratoire d’Economie et de Gestion Industrielle) de L’École Polytechnique de Tunisie           Télécharger l’annonce (PDF)",
+      "Appel à candidature pour le Laboratoire d’Ingénierie Mathématique de l’École Polytechnique de Tunisie       Télécharger l’              Annonce     .",
+      "Ecole Doctorale",
+      "EnviroFest  à l'Ecole Polytechnique de Tunisie",
+      "Histoires de réussites",
+      "Historique",
+      "Inscription 2026-2027                      Inscription 2026-2027                            Règlement interne de l’école                            Règlement du foyer",
+      "Partenaires académiques & institutionnels",
+      "Read Moreabout «  »…",
+      "Vie à l’école",
+      "Visite virtuelle"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ept.rnu.tn/",
+    "source_name": "ecole_polytechnique_de_tunisie"
+  }
+]

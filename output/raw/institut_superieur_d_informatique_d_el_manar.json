@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Institut Supérieur d'Informatique d'El Manar",
+    "type": "PUBLIC",
+    "description": "Nous sommes heureux de vous annoncer une série d’événements passionnants tout au long de l’année universitaire. Nous vous invitons à participer et à profiter de ces occasions uniques pour enrichir vos connaissances, élargir vos réseaux professionnels et découvrir les dernières innovations dans le domaine de l’informatique.",
+    "logo_url": "http://www.isi.rnu.tn/wp-content/uploads/2022/11/logo-utm.png",
+    "cover_image_url": null,
+    "website": "http://www.isi.rnu.tn/",
+    "email": "isi@isi.utm.tn",
+    "phone": "(216) 71 706 164",
+    "location": {
+      "address": "2 Rue Abou Raihane Bayrouni 2080 l’Ariana",
+      "city": "Ariana"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "https://www.isi.tn/wp-content/uploads/2026/06/Logo-ISI-White-S.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Evenements scientifiques",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis relatif aux procédures d’inscription à l’ISI – Année universitaire 2026/2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidature – Mastères Professionnels à distance de l’ISI en partenariat avec l’IPST",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Consultation N°03/2022",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Agile Project Management Fundamentals",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Préparation aux stages PFE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Conseil Scientifique",
+      "Direction",
+      "ISI en Chiffres",
+      "Mathématiques Appliquées",
+      "Sécrétariat Général"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isi.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_d_el_manar"
+  }
+]

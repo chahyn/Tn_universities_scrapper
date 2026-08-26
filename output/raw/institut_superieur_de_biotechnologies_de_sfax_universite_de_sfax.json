@@ -1,0 +1,199 @@
+[
+  {
+    "name": "ISBS SFAX",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de Biotechnologie de Sfax",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isbs.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "ISBS",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Département",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Etudes",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Scolarité",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Stage/PFE",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "4C",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie Estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Laboratoires",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Projets et coopérations",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Management Qualité",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Mobility call for Applications Universidad Pablo de Olavide (Spain): Academic Staff (25/26-S2)",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Scholarships to study at Wroclaw University of Science and Technology (Poland) : 2026/2027-S2",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation hygiène",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Scholarships to study at Universities",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [
+      {
+        "title": "ISBS",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Etudes",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Scolarité",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Stage/PFE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "4C",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie Estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Laboratoires",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Projets et coopérations",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Management Qualité",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Liste complémentaire: Inscription aux Masters édition 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "RECRUTEMENT",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription aux Masters édition 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Candidature au Master Professionnel Solid Waste Recycling and Circular Economy  pour l’année universitaire 2026-2027.",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Orientation vers les parcours des licences 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isbs.rnu.tn/",
+    "source_name": "institut_superieur_de_biotechnologies_de_sfax_universite_de_sfax"
+  }
+]

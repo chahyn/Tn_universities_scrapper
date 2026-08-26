@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Institut Supérieur d'Informatique et de Multimédia de Sfax",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'Informatique et de Multimédia de Sfax",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isimsf.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Formation et Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appels d'offre et consultations",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères de Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères Professionnels",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Listes des étudiants admis pour l’inscription aux différents mastERs",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Clubs de l'institut",
+      "Plan de l’institut"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isimsf.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_et_de_multimedia_de_sfax"
+  }
+]

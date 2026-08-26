@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Institut Bourguiba des Langues Vivantes",
+    "type": "PUBLIC",
+    "description": "IBLV - Institut Bourguiba des Langues Vivantes",
+    "logo_url": "http://www.iblv.rnu.tn/images/headers/IBLV.png",
+    "cover_image_url": null,
+    "website": "http://www.iblv.rnu.tn/",
+    "email": "iblv@iblv.utm.tn",
+    "phone": null,
+    "location": {
+      "address": "s et Contacts",
+      "city": "Contacts"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Département de français",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département d’anglais",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Département des Langues",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Dernières actualités",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Report Test de niveau du 17/06/2026 au 18/06/2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "توقيت الدراسة خلال شهر رمضان 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier examens S1 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Annonce aux candidats du JLPT",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Journée culturelle à l'IBLV",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "إعلام لكافة المستمعين",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier Académique des Cours d'Arabe (2025-2026) Cours annuels & Session d'été",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Passez le Japanese Language Proficiency Test (JLPT) 2025 à Tunis !",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Visite de la déléguée",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Session d’été – Cours d’Arabe 2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Témoignages de nos apprenants de la langue coréenne !",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Réunion 2025 des Partenaires Institutionnels de la KOICA",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Remise de la publication commémorative du 50e anniversaire de la JICA en Tunisie",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Atelier de Calligraphie Arabe",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "متابعة سير الامتحانات بفرع معهد بورقيبة للغات الحية ببوسالم- جندوية.",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Catalogue des Formations",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Publication d’un ouvrage",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier des examens.",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Atelier de travail pour analyser le contexte de l’Institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Félicitations à M. Imed Ben Ammar",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscrivez-vous à notre newsletter",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "47, Av. de la liberté, 1002 Tunis – TUNISIE",
+      "Journée culturelle à l'IBLV",
+      "Learn More",
+      "Lire la suite…"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.iblv.rnu.tn/",
+    "source_name": "institut_bourguiba_des_langues_vivantes"
+  }
+]

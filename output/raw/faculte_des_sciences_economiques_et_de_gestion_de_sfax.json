@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Faculté des Sciences Economiques et de Gestion de Sfax",
+    "type": "PUBLIC",
+    "description": "Faculté des Sciences Économiques et de Gestion de Sfax",
+    "logo_url": "http://www.fsegs.rnu.tn/stylesheets/images/header/Logo-FSEG-header.png",
+    "cover_image_url": null,
+    "website": "http://www.fsegs.rnu.tn/",
+    "email": "contact@fsegs.usf.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Microsoft TechClub FSEGS",
+        "description": null,
+        "logo_url": "http://www.fsegs.rnu.tn/useruploads/sponsors/115532664500_09_54_10.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Club Ambassadeur VESOS FSEGS",
+        "description": null,
+        "logo_url": "http://www.fsegs.rnu.tn/useruploads/images/FB_IMG_1739358971879.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "TH-CLUB",
+        "description": null,
+        "logo_url": "http://www.fsegs.rnu.tn/useruploads/images/FB_IMG_1739358718832.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Ecole Doctorale",
+      "Ecole doctorale",
+      "Lire la suite"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fsegs.rnu.tn/",
+    "source_name": "faculte_des_sciences_economiques_et_de_gestion_de_sfax"
+  }
+]

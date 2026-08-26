@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Fphm",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.fphm.rnu.tn/storage/sponsors/logos/UrlKjbSD8Td5ru38t9rMB0M1iXM1mGkVbKza73y5.jpg",
+    "cover_image_url": null,
+    "website": "http://www.fphm.rnu.tn/",
+    "email": "mail@fphm.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "بلاغ ترسيم الطلبة للسنة الجامعية 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Note aux résidents - Bourse de stages 2026/2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاع التمديد في أجل قبول الترشحات لماجستير البحث بيولوجيا طبية و تكنولوجيات الصحة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier des examens de la session de rattrapage – Mastère « Développement des médicaments » 2026 2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Soutenenance des mémoires du CEC MRP2S, session septembre 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats Mastère Session Principale 2025 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ الترشحات للماجستير المهني في الحوكمة و التجديد في الصحة 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Biologie Clinique A",
+      "Biologie Clinique B",
+      "Cellule d'écoute",
+      "Conseil scientifique",
+      "Départements",
+      "Enseignants",
+      "Galerie de photos",
+      "Historique",
+      "Lire la suite",
+      "Mot de la doyenne",
+      "Mot du doyen",
+      "Organigramme",
+      "Parcours et métiers",
+      "Partenariat",
+      "Projets"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.fphm.rnu.tn/",
+    "source_name": "faculte_de_pharmacie_de_monastir_universite_de_monastir"
+  }
+]

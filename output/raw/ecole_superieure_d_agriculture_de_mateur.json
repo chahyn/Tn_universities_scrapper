@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Ecole Supérieure d'Agriculture de Mateur",
+    "type": "PUBLIC",
+    "description": "République TunisienneMinistère de l'Agriculture, des Ressources Hydrauliques et de la PêcheInstitution de Recherche et de l'Enseignement Supérieur Agricole",
+    "logo_url": "http://www.esamateur.agrinet.tn/images/logo.JPG",
+    "cover_image_url": null,
+    "website": "http://www.esamateur.agrinet.tn/",
+    "email": null,
+    "phone": "(+216) 72 486 074",
+    "location": {
+      "address": "Route de Tabarka-7030 Mateur-TUNISIE",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Associations et clubs",
+        "description": null,
+        "logo_url": "http://www.esamateur.agrinet.tn/images/drapeau-tun.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Appel-à-Candidature-pour-les-Bourses-de-projet-de-fin-d'étude",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation-Brevets-de-propriété-intellectuelle-23-24",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "bourses-canada-2023-2024",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Avis_ESA_Mateur_2023-24",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Bourses-d-études-en-République-arabe-d-Égypte",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "program-meeting-SCALA-MEDI-Prima-project",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.esamateur.agrinet.tn/",
+    "source_name": "ecole_superieure_d_agriculture_de_mateur"
+  }
+]

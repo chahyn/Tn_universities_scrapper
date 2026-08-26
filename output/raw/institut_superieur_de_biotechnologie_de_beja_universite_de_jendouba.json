@@ -1,0 +1,135 @@
+[
+  {
+    "name": "ISBB",
+    "type": "PUBLIC",
+    "description": "L'Institut Supérieur de Biotechnologie de Béja (ISBB) est créé en 2006 par le décret N°1587 daté le 06 Juin 2006 qui concerne la création des établissements d'enseignement supérieur et de recherche.\r\nNous sommes fiers de l’appartenance à l’Université de Jendouba qui regroupe des établissements d’enseignement supérieur et de recherche disposant d’une offre de formation dans de nombreux domaines. L’ISBB ajoute à toutes ces disciplines de la richesse et de la diversité par les enseignements et les recherches dans les différents domaines de la biotechnologie et dans le secteur agroalimentaire. L’institut joue un rôle singulier et important au sein des établissements de l’Université de Jendouba, étant donné que la formation de base s’ouvre sur plusieurs axes vitaux pour l’humanité.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isbb.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Nouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Certification",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Doctorat",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Enquêtes",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Coopération",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Recherches",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Nouveautés",
+        "description": null,
+        "logo_url": "http://www.isbb.rnu.tn/useruploads/images/img-banner/events.png",
+        "contact_info": null
+      },
+      {
+        "name": "Institut",
+        "description": null,
+        "logo_url": "http://www.isbb.rnu.tn/useruploads/images/img-banner/events.png",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "http://www.isbb.rnu.tn/useruploads/images/img-banner/events.png",
+        "contact_info": null
+      },
+      {
+        "name": "Certification",
+        "description": null,
+        "logo_url": "http://www.isbb.rnu.tn/useruploads/images/img-banner/events.png",
+        "contact_info": null
+      },
+      {
+        "name": "Doctorat",
+        "description": null,
+        "logo_url": "http://www.isbb.rnu.tn/useruploads/images/img-banner/events.png",
+        "contact_info": null
+      },
+      {
+        "name": "Enquêtes",
+        "description": null,
+        "logo_url": "http://www.isbb.rnu.tn/useruploads/images/img-banner/events.png",
+        "contact_info": null
+      },
+      {
+        "name": "Coopération",
+        "description": null,
+        "logo_url": "http://www.isbb.rnu.tn/useruploads/images/img-banner/events.png",
+        "contact_info": null
+      },
+      {
+        "name": "estudiantine",
+        "description": null,
+        "logo_url": "http://www.isbb.rnu.tn/useruploads/images/img-banner/events.png",
+        "contact_info": null
+      },
+      {
+        "name": "Recherches",
+        "description": null,
+        "logo_url": "http://www.isbb.rnu.tn/useruploads/images/img-banner/events.png",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isbb.rnu.tn/",
+    "source_name": "institut_superieur_de_biotechnologie_de_beja_universite_de_jendouba"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Institut Supérieur des Etudes Appliquées en Humanités de Gafsa",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Appliquées en Humanités de Gafsa",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.iseahgf.rnu.tn/",
+    "email": "info@iseahg.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Cité des Jeunes  - 2133 Gafsa",
+      "city": "Gafsa"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Recherche et Coopération",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Licences Fondamentales",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères de Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères professionnels",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Edition scientifique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.iseahgf.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_appliquees_en_humanites_de_gafsa"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "ISBST",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur de Biotechnologie de Sidi Thabet",
+    "logo_url": "http://www.isbst.rnu.tn/stylesheets/images/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.isbst.rnu.tn/",
+    "email": "info.isbst@isbst.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Nouveautés",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Recherche",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Coopération",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Université de la Manouba",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Nouveautés",
+        "description": null,
+        "logo_url": "http://www.isbst.rnu.tn/fra/pages/130/stylesheets/images/logo.png",
+        "contact_info": null
+      },
+      {
+        "name": "Institut",
+        "description": null,
+        "logo_url": "http://www.isbst.rnu.tn/fra/pages/130/stylesheets/images/logo.png",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "http://www.isbst.rnu.tn/fra/pages/130/stylesheets/images/logo.png",
+        "contact_info": null
+      },
+      {
+        "name": "Recherche",
+        "description": null,
+        "logo_url": "http://www.isbst.rnu.tn/fra/pages/130/stylesheets/images/logo.png",
+        "contact_info": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "description": null,
+        "logo_url": "http://www.isbst.rnu.tn/fra/pages/130/stylesheets/images/logo.png",
+        "contact_info": null
+      },
+      {
+        "name": "Coopération",
+        "description": null,
+        "logo_url": "http://www.isbst.rnu.tn/fra/pages/130/stylesheets/images/logo.png",
+        "contact_info": null
+      },
+      {
+        "name": "Université de la Manouba",
+        "description": null,
+        "logo_url": "http://www.isbst.rnu.tn/fra/pages/130/stylesheets/images/logo.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Nouveautés",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Formation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Vie estudiantine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Coopération",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Université de la Manouba",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isbst.rnu.tn/",
+    "source_name": "institut_superieur_de_biotechnologie_de_sidi_thabet_universite_de_la_manouba"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ISTLS",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur du Transport et de la Logistique de Sousse",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.istls.rnu.tn/",
+    "email": "istls@istls.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "/",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.istls.rnu.tn/",
+    "source_name": "institut_superieur_du_transport_et_de_la_logistique_de_sousse_universite_de_sousse"
+  }
+]

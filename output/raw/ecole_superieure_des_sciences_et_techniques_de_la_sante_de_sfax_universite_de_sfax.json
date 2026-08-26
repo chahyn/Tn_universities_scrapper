@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ESSTSS",
+    "type": "PUBLIC",
+    "description": "Ecole Supérieure des Sciences et Techniques de la Santé de Sfax",
+    "logo_url": "http://www.esstssfax.org/images/logoFooter.png",
+    "cover_image_url": null,
+    "website": "http://www.esstssfax.org/",
+    "email": "esstss.contact@gmail.com",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Ecole",
+      "Organigramme"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.esstssfax.org/",
+    "source_name": "ecole_superieure_des_sciences_et_techniques_de_la_sante_de_sfax_universite_de_sfax"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Institut Supérieur des Langues Appliquées aux Affaires et au Tourisme de Moknine",
+    "type": "PUBLIC",
+    "description": "L'Institut Supérieur des Langues de Moknine",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.islaatm.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.islaatm.rnu.tn/fra/pages/276/useruploads/banners/defaut.png",
+        "contact_info": null
+      },
+      {
+        "name": "Club",
+        "description": null,
+        "logo_url": "http://www.islaatm.rnu.tn/useruploads/images/img-banner/cellule.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Règlement interne de l'institut"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.islaatm.rnu.tn/",
+    "source_name": "institut_superieur_des_langues_appliquees_aux_affaires_et_au_tourisme_de_moknine"
+  }
+]

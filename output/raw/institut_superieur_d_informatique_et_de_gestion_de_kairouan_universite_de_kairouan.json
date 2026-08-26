@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ISIGK",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d'Informatique et de Gestion de Kairouan",
+    "logo_url": "http://www.isigk.rnu.tn/images/logo-isigk-white.svg",
+    "cover_image_url": null,
+    "website": "http://www.isigk.rnu.tn/",
+    "email": "isig.kairouan@isigk.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Informations générales",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Politique d'accès à l'information",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Références légales réglementées pour l'accès",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Prés-imprimé accessibles",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [],
+    "events": [],
+    "tags": [
+      "Conseil scientifique",
+      "En Chiffres",
+      "Enseignants",
+      "Galerie de Photos",
+      "Loi de création",
+      "Mission, vision, valeurs",
+      "Organigramme",
+      "Plan d'orientation stratégique",
+      "Politique de l'ISIGK"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isigk.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_et_de_gestion_de_kairouan_universite_de_kairouan"
+  }
+]

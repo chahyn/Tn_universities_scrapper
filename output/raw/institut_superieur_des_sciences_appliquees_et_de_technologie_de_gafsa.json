@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Institut Supérieur des Sciences Appliquées et de Technologie de Gafsa",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Sciences Appliquées et de Technologies de Gafsa",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.issatgf.rnu.tn/",
+    "email": "webmaster@issatgf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Campus Universitaire Sidi Ahmed Zarrouk  - 2112  Gafsa",
+      "city": "Gafsa"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.issatgf.rnu.tn/fra/pages/299/useruploads/images/img_banner/inscription-3.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Mastères professionnels",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastère de Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.issatgf.rnu.tn/",
+    "source_name": "institut_superieur_des_sciences_appliquees_et_de_technologie_de_gafsa"
+  }
+]

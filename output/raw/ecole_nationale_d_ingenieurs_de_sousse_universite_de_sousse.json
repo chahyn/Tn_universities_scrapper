@@ -1,0 +1,245 @@
+[
+  {
+    "name": "ENISo",
+    "type": "PUBLIC",
+    "description": "une école d'excellence, d'innovation et d'ambition pour former les ingénieurs de demain.",
+    "logo_url": "http://www.eniso.rnu.tn/images/headers/LogoEniso.png",
+    "cover_image_url": null,
+    "website": "http://www.eniso.rnu.tn/",
+    "email": "direction.eniso@eniso.u-sousse.tn",
+    "phone": "+21673369500",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Objectifs de la formation",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Disciplines",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Parcours professionnels envisageables",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Doubles diplômes & Échanges",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Plan d'études",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "ENISo",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Nos espaces",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "International",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "ENISo",
+        "description": null,
+        "logo_url": "http://www.eniso.rnu.tn/images/eniso/articles/clubs/acm.png",
+        "contact_info": null
+      },
+      {
+        "name": "Nos espaces",
+        "description": null,
+        "logo_url": "http://www.eniso.rnu.tn/images/eniso/articles/clubs/acm.png",
+        "contact_info": null
+      },
+      {
+        "name": "International",
+        "description": null,
+        "logo_url": "http://www.eniso.rnu.tn/images/eniso/articles/clubs/acm.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "La dynamique se poursuit à l’incubateur de l’ENISo",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Forum de convergence ENISo-Entreprises : accueil des représentants de l’Ordre des Ingénieurs Tunisiens",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Poursuite du cycle de séminaires à l’Incubateur de l’ENISo",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Deux événements importants en marge du Forum Convergence ENISo–Entreprises",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Un geste symbolique, un engagement réel pour un campus plus vert",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Nos jeunes futurs ingénieurs au cœur de l’organisation du Forum de Convergence 2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Signature de trois conventions stratégiques en marge du Forum de Convergence ENISo–Entreprises",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "14ᵉ édition du Forum de Convergence ENISo–Entreprises : une édition exceptionnelle à tous les niveaux",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Accueil d’une délégation de l’Ordre des Ingénieurs Tunisiens et de partenaires nationaux et internationaux à l’ENISo",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Nos étudiants brillent aux compétitions ENIS Robot et ENSIT Robots",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Réunion de préparation du Forum de Convergence ENISo–Entreprises à Novation City",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Visite du CEO de DATA2INNOV à l’ENISo pour renforcer les projets de collaboration",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Bravo à nos FabLab Makers ENISo pour leur engagement et leur esprit collaboratif",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Innovation et IA : leviers essentiels pour bâtir une startup durable et responsable",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "la visite au Salon AUTO EXPO Sousse",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Deggendorf Institute of Technology (DIT) en Allemagne",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "MidnightAI 1ère édition",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "one man show",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "programme DAAD Ta’ziz Scientific Collaboration 2023–2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "renforcer davantage les liens entre l’ENISo et le CRNS.",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Workshop certifiant NVIDIA à l'ENISo le 25 Octobre 2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "nouveaux membres du comité du FCEE",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "la fête de fin d’année 18ème promotion",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "into the world of Automotive Software Engineering",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Automotive Software Engineering program",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "B.P. N° 264, Sousse Erriadh 4023, Tunisie",
+      "Ecole doctorale EDSI"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.eniso.rnu.tn/",
+    "source_name": "ecole_nationale_d_ingenieurs_de_sousse_universite_de_sousse"
+  }
+]

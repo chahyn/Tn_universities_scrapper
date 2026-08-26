@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Supérieur des Etudes Technologiques de Médenine",
+    "type": "PUBLIC",
+    "description": "L'ISET fournit à ses étudiants des équipements technologiques de pointe, dans les laboratoires TP, RDM , conception électronique...",
+    "logo_url": "http://www.isetmd.rnu.tn/img/logo.jpg",
+    "cover_image_url": null,
+    "website": "http://www.isetmd.rnu.tn/",
+    "email": "isetmd@isetmd.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isetmd.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_medenine"
+  }
+]

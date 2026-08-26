@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Institut Supérieur de Beaux Arts de Sousse",
+    "type": "PUBLIC",
+    "description": "ISBAS - Institut Supèrieur de Beaux Arts de Sousse",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isbas.rnu.tn/",
+    "email": "direction@isbas.u-sousse.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "https://isbas.rnu.tn//storage/app/public/coordinates/May2024/rDbxy9PZ6VbBSTPW1uBG.png",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Résultats Session Rattrapage 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Calendrier des Examens : Session Rattrapage",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Résultats Session Principale 2026",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Enquête de satisfaction pour les professionnels et partenaires",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Enquête de satisfaction pour les enseignants",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscrivez vous à notre newsletter",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Youtube"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isbas.rnu.tn/",
+    "source_name": "institut_superieur_de_beaux_arts_de_sousse"
+  }
+]

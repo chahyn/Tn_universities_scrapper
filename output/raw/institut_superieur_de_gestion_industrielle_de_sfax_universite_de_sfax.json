@@ -1,0 +1,86 @@
+[
+  {
+    "name": "ISGIS",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "https://isgis.rnu.tn/images/logo.png",
+    "cover_image_url": null,
+    "website": "http://www.isgis.rnu.tn/",
+    "email": "direction.isgis@isgis.usf.tn",
+    "phone": "",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "بلاغ تسجيل الطلبة السنة الجامعية 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Les Listes des admis aux  Masters 2026-2027 ( Première Compagne)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Affectation des étudiants/Parcours : 2 ième Année Licence Génie Industriel (2026-2027)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Deuxième Compagne de Recrutement en Masters 2026-2027",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Les résultats d'admissibilité  et Réclamations aux  Masters 2026-2027 ( Première Compagne)",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "إعلام تسلم جميع الوثائق الإدارية للطلبة",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ الى طلبة السنة الأولى من الإجازة الوطنية في الهندسة الصناعية",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "التثبت المادي من الأعداد على ورقة الامتحان",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "A propos de l'Institut",
+      "Activités",
+      "CERTIPORT",
+      "Conseil Scientifique",
+      "Directeurs & Responsables",
+      "Enseignants",
+      "Formations",
+      "Galerie des photos",
+      "Galérie Vidéos",
+      "Management Industriel & Logistique",
+      "Mot du Directeur",
+      "Présentation",
+      "Technologies"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isgis.rnu.tn/",
+    "source_name": "institut_superieur_de_gestion_industrielle_de_sfax_universite_de_sfax"
+  }
+]

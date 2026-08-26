@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Institut Supérieur Des Etudes Technologiques De Rades – ISET Rades",
+    "type": "PUBLIC",
+    "description": "ID119-Liste d'attente des candidats admis pour la préinscription au Mastère Professionnel en Mécatronique 2026Télécharger",
+    "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2018/05/cropped-logo-final2-5.png",
+    "cover_image_url": null,
+    "website": "http://www.isetr.rnu.tn/",
+    "email": "isetr@isetr.rnu.tn",
+    "phone": "71460100",
+    "location": {
+      "address": "L’ ISET de Radès, Av. de France, Radès",
+      "city": "Radès"
+    },
+    "programs": [
+      {
+        "name": "cellulecouteisetrades@gmail.com",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Inscription.tn",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "cursus.tn",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "4C ISET RADES :",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Projet PAQ",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Appel à candidatures au PEEC",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Institut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Espace Entreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "SUIVEZ L’ISET DE RADES",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "cellulecouteisetrades@gmail.com",
+        "description": null,
+        "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2024/11/419569421_959185579545129_6796743059151827568_n-1-1024x768.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Inscription.tn",
+        "description": null,
+        "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2025/12/gestion-conflit-cellule-ecoute-1-300x206.png",
+        "contact_info": null
+      },
+      {
+        "name": "cursus.tn",
+        "description": null,
+        "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2024/10/inscription.png",
+        "contact_info": null
+      },
+      {
+        "name": "4C ISET RADES :",
+        "description": null,
+        "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2024/10/cursus.tnn_-300x116.png",
+        "contact_info": null
+      },
+      {
+        "name": "Projet PAQ",
+        "description": null,
+        "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2018/11/21105446_663788827159628_972284131554305854_n.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Appel à candidatures au PEEC",
+        "description": null,
+        "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2024/10/logo-paq-300x153.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Institut",
+        "description": null,
+        "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2025/01/AFFICHE-COHORTE-7-PEEC-1-300x157.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Espace Entreprise",
+        "description": null,
+        "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2025/01/AFFICHE-COHORTE-7-PEEC-1-300x157.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "SUIVEZ L’ISET DE RADES",
+        "description": null,
+        "logo_url": "http://www.isetr.rnu.tn/wp-content/uploads/2025/01/AFFICHE-COHORTE-7-PEEC-1-300x157.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "cellulecouteisetrades@gmail.com",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Inscription.tn",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "cursus.tn",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "4C ISET RADES :",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Projet PAQ",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Appel à candidatures au PEEC",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Institut",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Espace Entreprise",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "SUIVEZ L’ISET DE RADES",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Institut"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetr.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_rades"
+  }
+]

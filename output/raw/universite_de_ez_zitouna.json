@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Université de Ez-Zitouna",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.uz.rnu.tn/",
+    "email": "contact@uz.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.uz.rnu.tn/",
+    "source_name": "universite_de_ez_zitouna"
+  }
+]

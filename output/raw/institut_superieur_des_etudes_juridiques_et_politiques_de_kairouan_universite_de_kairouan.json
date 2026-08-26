@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Page d'accueil",
+    "type": "PUBLIC",
+    "description": "L'Institut Supérieur des Etudes  Juridiques  et  Politiques de Kairouana été créé selon le decrêt numéro 1971 du 14 Juillet 2005.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isejpk.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isejpk.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_juridiques_et_politiques_de_kairouan_universite_de_kairouan"
+  }
+]

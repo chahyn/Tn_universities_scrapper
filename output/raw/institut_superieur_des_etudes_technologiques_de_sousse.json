@@ -1,0 +1,89 @@
+[
+  {
+    "name": "ISETSO",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur des Etudes Technologiques de Sousse",
+    "logo_url": "http://www.isetso.rnu.tn/storage/sponsors/logos/hKZySQDsmnFXrNpKo3vyZq6mCZlIQGmCgPs5VU1p.jpg",
+    "cover_image_url": null,
+    "website": "http://www.isetso.rnu.tn/",
+    "email": "admin@isetso.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Institut",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Espace entreprise",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Démarche qualité",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Institut",
+        "description": null,
+        "logo_url": "https://isetso.rnu.tn/storage/clubs/1/f9dUNi8Pr6ScYwm67HcAsFXWNYLZLK35EKvFw5zZ.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Formation",
+        "description": null,
+        "logo_url": "https://isetso.rnu.tn/storage/clubs/1/f9dUNi8Pr6ScYwm67HcAsFXWNYLZLK35EKvFw5zZ.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Vie estudiantine",
+        "description": null,
+        "logo_url": "https://isetso.rnu.tn/storage/clubs/1/f9dUNi8Pr6ScYwm67HcAsFXWNYLZLK35EKvFw5zZ.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Espace entreprise",
+        "description": null,
+        "logo_url": "https://isetso.rnu.tn/storage/clubs/1/f9dUNi8Pr6ScYwm67HcAsFXWNYLZLK35EKvFw5zZ.jpg",
+        "contact_info": null
+      },
+      {
+        "name": "Démarche qualité",
+        "description": null,
+        "logo_url": "https://isetso.rnu.tn/storage/clubs/1/f9dUNi8Pr6ScYwm67HcAsFXWNYLZLK35EKvFw5zZ.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Conseil scientifique",
+      "Conservation de l’Archive",
+      "En chiffres",
+      "Enseignants",
+      "Galerie de photos",
+      "Loi de création et présentation",
+      "Organigramme",
+      "Présentation",
+      "Règlement interne"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isetso.rnu.tn/",
+    "source_name": "institut_superieur_des_etudes_technologiques_de_sousse"
+  }
+]

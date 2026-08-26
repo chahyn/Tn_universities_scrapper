@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Institut Supérieur de Musique de Sousse",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.ismso.rnu.tn/images/logo_ISMS.png",
+    "cover_image_url": null,
+    "website": "http://www.ismso.rnu.tn/",
+    "email": "contact@ismso.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs et associations",
+        "description": null,
+        "logo_url": "https://ismso.rnu.tn/images/logo_ISMS.png",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Accréditation",
+      "Amphi",
+      "Assurance",
+      "Certification ISO",
+      "Conseil scientifique",
+      "Département de la formation musicale",
+      "Enseignants",
+      "Galerie photos & vidéos",
+      "Loi de création",
+      "Magasin des instruments",
+      "Phonothèque/Médiathèque"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.ismso.rnu.tn/",
+    "source_name": "institut_superieur_de_musique_de_sousse"
+  }
+]

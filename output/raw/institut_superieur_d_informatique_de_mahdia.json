@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Institut Supérieur d'Informatique de Mahdia",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur d’Informatique de Mahdia",
+    "logo_url": "http://www.isima.rnu.tn/storage/sponsors/logos/E4ugabOW8szB7sGLY3UZAc16pjdW5OrzMkVXOywm.jpg",
+    "cover_image_url": null,
+    "website": "http://www.isima.rnu.tn/",
+    "email": "isima@isima.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Charte des clubs d’étudiants de l’ISI MAHDIA",
+        "description": null,
+        "logo_url": "https://isima.rnu.tn/images/logo.svg",
+        "contact_info": null
+      },
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "https://isima.rnu.tn/images/logo.svg",
+        "contact_info": null
+      }
+    ],
+    "events": [],
+    "tags": [
+      "Conseil scientifique",
+      "Critères d'évaluation pour les classes terminale",
+      "En Chiffres",
+      "Enseignants",
+      "Grille d’attribution des postes",
+      "Loi de création",
+      "Mot du directeur",
+      "Politique d'assurance qualité",
+      "Pré-inscriptions en ligne",
+      "Règlement interne de l'institut",
+      "Système de notation"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isima.rnu.tn/",
+    "source_name": "institut_superieur_d_informatique_de_mahdia"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ipeit",
+    "type": "PUBLIC",
+    "description": "Adresse : 2, Rue Jawaher Lel Nehru - 1089 Montfleury - Tunisie   |   Phone : +216 71 33 66 41 - 71 33 66 53   |   Fax : +216 71 33 73 23E-mail :IPEIT@ipeit.rnu.tn",
+    "logo_url": "http://www.ipeit.rnu.tn/sites/all/themes/frontoffice/files/gif/logo.gif",
+    "cover_image_url": null,
+    "website": "http://www.ipeit.rnu.tn/",
+    "email": "IPEIT@ipeit.rnu.tn",
+    "phone": "+216 71 33 66 41 - 7",
+    "location": {
+      "address": "2, Rue Jawaher Lel Nehru - 1089 Montfleury - Tunisie   |   Phone : +216 71 33 66 41 - 71 33 66 53   |   Fax : +216 71 33 73 23",
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ipeit.rnu.tn/",
+    "source_name": "institut_preparatoire_aux_etudes_d_ingenieurs_de_tunis_universite_de_tunis"
+  }
+]

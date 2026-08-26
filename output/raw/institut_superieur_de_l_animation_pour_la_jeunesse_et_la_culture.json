@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Institut Supérieur de l'Animation pour la Jeunesse et la Culture",
+    "type": "PUBLIC",
+    "description": "Les métiers dans les domaines de la médiation ainsi que de l’animation de la jeunesse et de la culture constituent de nos jours , les nouveaux métiers sur lesquels se base la société moderne.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.isajc.rnu.tn/",
+    "email": "contact@isajc.run.tn",
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [
+      {
+        "title": "Journée du Savoir 2024",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Les métiers dans les domaines de la médiation",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "الأيام الإعلامية الوطنيّة للتوجيه الجامعي 2024",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "بلاغ الترشح للتسجيل بشهائد الماجستير بعنوان السنة الجامعية 2024-2025",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Insérer/modifier un lien",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.isajc.rnu.tn/",
+    "source_name": "institut_superieur_de_l_animation_pour_la_jeunesse_et_la_culture"
+  }
+]

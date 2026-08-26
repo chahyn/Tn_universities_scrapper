@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Faculté de Médecine Dentaire de Monastir",
+    "type": "PUBLIC",
+    "description": "Lorsque la faculté de médecine dentaire de Monastir a ouvert ses portes, en novembre 1975, sa direction a été confiée à feu le Professeur Mahmoud Yaâcoub, qui avait également la charge de la faculté de pharmacie.",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.fmdm.rnu.tn/",
+    "email": "fmdm@fmdm.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Avenue Avicenne -  5019 Monastir",
+      "city": "Monastir"
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.fmdm.rnu.tn/",
+    "source_name": "faculte_de_medecine_dentaire_de_monastir"
+  }
+]

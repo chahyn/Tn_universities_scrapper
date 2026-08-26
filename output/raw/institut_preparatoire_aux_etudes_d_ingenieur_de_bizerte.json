@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Institut Préparatoire aux Etudes d'Ingénieur de Bizerte",
+    "type": "PUBLIC",
+    "description": null,
+    "logo_url": "http://www.ipeib.rnu.tn/images/index_11.jpg",
+    "cover_image_url": null,
+    "website": "http://www.ipeib.rnu.tn/",
+    "email": null,
+    "phone": null,
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [],
+    "clubs": [],
+    "events": [],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.ipeib.rnu.tn/",
+    "source_name": "institut_preparatoire_aux_etudes_d_ingenieur_de_bizerte"
+  }
+]

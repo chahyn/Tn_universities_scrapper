@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Institut Supérieur du Sport et de l’Education Physique de Gafsa",
+    "type": "PUBLIC",
+    "description": "Institut Supérieur du Sport et de l'Education Physique de Gafsa",
+    "logo_url": null,
+    "cover_image_url": null,
+    "website": "http://www.issepgf.rnu.tn/",
+    "email": "webmaster@issepgf.rnu.tn",
+    "phone": null,
+    "location": {
+      "address": "Institut Supérieur du Sport et de l'Education Physique de Gafsa Avenue Tozeur  - 2100 Gafsa",
+      "city": "Gafsa"
+    },
+    "programs": [],
+    "clubs": [
+      {
+        "name": "Clubs",
+        "description": null,
+        "logo_url": "http://www.issepgf.rnu.tn/fra/pages/299/useruploads/images/img_banner/inscription-3.jpg",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Licences Fondamentales",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères de Recherche",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Mastères professionnels",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [],
+    "sub_institutions": [],
+    "source_url": "http://www.issepgf.rnu.tn/",
+    "source_name": "institut_superieur_du_sport_et_de_l_education_physique_de_gafsa"
+  }
+]

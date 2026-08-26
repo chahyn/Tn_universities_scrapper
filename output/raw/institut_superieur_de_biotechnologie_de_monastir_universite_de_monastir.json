@@ -1,0 +1,455 @@
+[
+  {
+    "name": "ISBM",
+    "type": "PUBLIC",
+    "description": "la liste des candidats admis pour l'inscription en Mastère Recherche  (AU 2026-2027).",
+    "logo_url": "https://isbm.rnu.tn/storage/app/public/coordonnees/February2022/aGfWPGQH92wXnir1DYIV.png",
+    "cover_image_url": null,
+    "website": "http://www.isbm.rnu.tn/",
+    "email": "direction.etudes@isbm.u-monastir.tn",
+    "phone": "+216 73 465 405",
+    "location": {
+      "address": null,
+      "city": null
+    },
+    "programs": [
+      {
+        "name": "Club de Musique",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "ISBM EVENTS",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Bio Prod",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Bio Santé",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Marinos",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Théâtre",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Bio Magazine",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Club d'Arts Plastiques Bio Arts",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Club de Préparation à la Réussite",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Licences",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Description",
+        "degree_type": null,
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Mastères",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "Doctorat",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "1érè année Licence en Biotechnologie",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "1érè année Licence en Sciences du Vivant",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "2émè année Licence en Biotechnologie - Analyses Biologiques et Expérimentation",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "2émè année Licence en Biotechnologie - Contrôle Qualité des Aliments et Hygiène",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "2émè année Licence en Sciences du Vivant - Biologie Moléculaire et Cellulaire",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "3émè année Licence en Biotechnologie - Analyses Biologiques et Expérimentation",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "3émè année Licence en Sciences du Vivant - Biologie Moléculaire et Cellulaire",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "3émè Licence Appliquée co_construite en Biotechnologie  - Biotechnologie Environnementale et valorisation des rejets",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "3émè Licence Appliquée co_construite en Biotechnologie  - Biotechnologie Marine et Aquaculture",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "3émè Licence Appliquée co_construite en Biotechnologie - Biotechnologie végétale et valorisation",
+        "degree_type": "LICENCE",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "1ère Mastère de Recherche :Biologie et Physiologie Cellulaire",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "1ère Mastère de Recherche :Génétique et Biodiversité",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "1ère Mastère Professionnel : Biologie, Biotechnologie Marine et Aquaculture",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "1ère Mastère Professionnel : Contrôle Qualité des Aliments et Hygiène",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "2ème Mastère de Recherche :Biologie et Physiologie Cellulaire",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "2ème Mastère de Recherche :Génétique et Biodiversité et valorisation",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "2ème Mastère Professionnel : Co-construit Biotechnologie Marine et Entrepreneuriat",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "2ème Mastère Professionnel : Contrôle Qualité des Aliments et Hygiène",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "2ère Mastère Professionnel : Biologie, Biotechnologie Marine et Aquaculture",
+        "degree_type": "MASTER",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "1ère Doctorat en Sciences Biologiques et Biotechnologie",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "2ème Doctorat en Sciences Biologiques et Biotechnologie",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "3ème Doctorat en Sciences Biologiques et Biotechnologie",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "4ème Doctorat en Sciences Biologiques et Biotechnologie",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      },
+      {
+        "name": "5ème Doctorat en Sciences Biologiques et Biotechnologie",
+        "degree_type": "PHD",
+        "duration_years": null,
+        "description": null
+      }
+    ],
+    "clubs": [
+      {
+        "name": "Club de Musique",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/May2022/CJ8VDUzbGFhF8hLWmyNs.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "ISBM EVENTS",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/February2023/0cle9CfivRdr3cycXpQG.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Bio Prod",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/February2023/WzXCvCWtKIiMa2obKViv.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Bio Santé",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/February2023/IXIvhij8XvGa1s8AyUsX.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Marinos",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/February2023/MFhR0YZ3ij2Ylil0hxgl.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Théâtre",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/March2023/pgG0tTcfabUI4THG4nBy.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Bio Magazine",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/March2023/evXJjCQnj5qRwYeKsyZO.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Club d'Arts Plastiques Bio Arts",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/March2023/bE2E5cbX0SXXLg0YfeTP.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Club de Préparation à la Réussite",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/clubs/March2023/SDldceheMLUaMvdidxNs.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association sportive de l’ISBM",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association Culturelle de l’Institut Supérieur de Biotechnologie de Monastir (AC-ISBM)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association Tunisienne des Étudiants en Biotechnologie (ATEB)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association Tunisienne de Psycho-Neuro-Endocrino-Immunologie (AT-PNEI)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association Tunisienne de Valorisation des Bioressources (ATVAB)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Association Tunisienne d'Ecotoxicologie et d'Ecophysiologie (ATEE)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "Estidamah For Sustainable Development (ESD)",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "اسم الجمعية:الجمعية الثقافية بالمعهد العالي للبيوتكنولوجيا",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "تصنيفها: ثقافية فنية",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "المقر الاجتماعي: المعهد العالي للبيوتكنولوجيا  بالمنستير ةشارع الطاهر حداد ص ب 74 5000 المنستير",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "تأشيرة: عدد449 بتاريخ 03 مارس 2005",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "الأهداف",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "المساهمة في تنظيم أنشطة ثقافية و ترفيهية بالمعهد",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "تاطير و تبني النوادي الثقافيةالطلابية بالمعهد",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "اصدار نشريات ثقافية خاصة بالمعهد",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      },
+      {
+        "name": "المساهمة في دعم التعاون و التوأمة بين المعهد و مختلف المؤسسات الجامعية الوطنية و الدولية",
+        "description": null,
+        "logo_url": "https://isbm.rnu.tn/storage/app/public/organismes/February2023/2IyDQkPCGwM5KSCdI1tT.JPG",
+        "contact_info": null
+      }
+    ],
+    "events": [
+      {
+        "title": "Club de Musique",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "ISBM EVENTS",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Bio Prod",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Bio Santé",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Marinos",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Théâtre",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Bio Magazine",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Club d'Arts Plastiques Bio Arts",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      },
+      {
+        "title": "Club de Préparation à la Réussite",
+        "description": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "tags": [
+      "Ecole Doctorale",
+      "thèse de doctorat"
+    ],
+    "sub_institutions": [],
+    "source_url": "http://www.isbm.rnu.tn/",
+    "source_name": "institut_superieur_de_biotechnologie_de_monastir_universite_de_monastir"
+  }
+]
